@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-13T20:47:44Z",
- "sample": true,
+ "generated_at": "2026-11-14T22:39:30Z",
+ "sample": false,
  "season": "2026/27",
  "model": {
   "name": "Elo ratings + ordered logit",
-  "matches": 720,
-  "accuracy": 0.544,
-  "always_home_accuracy": 0.558
+  "matches": 749,
+  "accuracy": 0.501,
+  "always_home_accuracy": 0.435
  },
  "competitions": [
   {
@@ -14,374 +14,139 @@
    "name": "Premier League",
    "matches": [
     {
-     "id": 1100,
+     "id": 560632,
      "kickoff": "2026-11-07T12:30:00Z",
      "status": "FINISHED",
-     "matchday": 11,
+     "matchday": 10,
      "stage": "REGULAR_SEASON",
      "home": {
-      "name": "Arsenal",
-      "tla": "ARS",
-      "elo": 1686
+      "name": "Leeds United",
+      "tla": "LEE",
+      "crest": "https://crests.football-data.org/341.png",
+      "elo": 1583
      },
      "away": {
-      "name": "West Ham United",
-      "tla": "WHA",
-      "elo": 1532
-     },
-     "score": {
-      "home": 0,
-      "away": 0
-     },
-     "prob": {
-      "home": 69,
-      "draw": 18,
-      "away": 13
-     }
-    },
-    {
-     "id": 1105,
-     "kickoff": "2026-11-07T12:30:00Z",
-     "status": "FINISHED",
-     "matchday": 11,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Wolverhampton Wanderers",
-      "tla": "WWA",
-      "elo": 1486
-     },
-     "away": {
-      "name": "Tottenham Hotspur",
-      "tla": "THO",
-      "elo": 1639
-     },
-     "score": {
-      "home": 1,
-      "away": 0
-     },
-     "prob": {
-      "home": 23,
-      "draw": 24,
-      "away": 53
-     }
-    },
-    {
-     "id": 1101,
-     "kickoff": "2026-11-07T15:00:00Z",
-     "status": "FINISHED",
-     "matchday": 11,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Crystal Palace",
-      "tla": "CPA",
-      "elo": 1477
-     },
-     "away": {
-      "name": "Brighton Hove Albion",
-      "tla": "BHO",
+      "name": "Tottenham",
+      "tla": "TOT",
+      "crest": "https://crests.football-data.org/73.png",
       "elo": 1513
      },
      "score": {
       "home": 1,
-      "away": 1
+      "away": 0
      },
      "prob": {
-      "home": 41,
-      "draw": 27,
-      "away": 32
+      "home": 54,
+      "draw": 24,
+      "away": 22
      }
     },
     {
-     "id": 1102,
+     "id": 560640,
      "kickoff": "2026-11-07T15:00:00Z",
      "status": "FINISHED",
-     "matchday": 11,
+     "matchday": 10,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Arsenal",
+      "tla": "ARS",
+      "crest": "https://crests.football-data.org/57.png",
+      "elo": 1854
+     },
+     "away": {
+      "name": "Hull City",
+      "tla": "HUL",
+      "crest": "https://crests.football-data.org/322.png",
+      "elo": 1545
+     },
+     "score": {
+      "home": 1,
+      "away": 0
+     },
+     "prob": {
+      "home": 83,
+      "draw": 11,
+      "away": 6
+     }
+    },
+    {
+     "id": 560633,
+     "kickoff": "2026-11-07T15:00:00Z",
+     "status": "FINISHED",
+     "matchday": 10,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Fulham",
       "tla": "FUL",
-      "elo": 1466
+      "crest": "https://crests.football-data.org/63.png",
+      "elo": 1552
      },
      "away": {
-      "name": "Aston Villa",
-      "tla": "AVI",
-      "elo": 1559
+      "name": "Newcastle",
+      "tla": "NEW",
+      "crest": "https://crests.football-data.org/67.png",
+      "elo": 1567
      },
      "score": {
       "home": 1,
       "away": 1
      },
      "prob": {
-      "home": 33,
-      "draw": 27,
-      "away": 40
+      "home": 44,
+      "draw": 26,
+      "away": 30
      }
     },
     {
-     "id": 1103,
+     "id": 560641,
      "kickoff": "2026-11-07T17:30:00Z",
      "status": "FINISHED",
-     "matchday": 11,
+     "matchday": 10,
      "stage": "REGULAR_SEASON",
      "home": {
-      "name": "Brentford",
-      "tla": "BRE",
-      "elo": 1511
+      "name": "Nottingham",
+      "tla": "NOT",
+      "crest": "https://crests.football-data.org/351.png",
+      "elo": 1560
      },
      "away": {
-      "name": "Newcastle United",
-      "tla": "NUN",
-      "elo": 1620
+      "name": "Man City",
+      "tla": "MCI",
+      "crest": "https://crests.football-data.org/65.png",
+      "elo": 1773
      },
      "score": {
-      "home": 1,
-      "away": 0
-     },
-     "prob": {
-      "home": 28,
-      "draw": 26,
-      "away": 46
-     }
-    },
-    {
-     "id": 1104,
-     "kickoff": "2026-11-07T20:00:00Z",
-     "status": "FINISHED",
-     "matchday": 11,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Everton",
-      "tla": "EVE",
-      "elo": 1460
-     },
-     "away": {
-      "name": "Manchester United",
-      "tla": "MUN",
-      "elo": 1664
-     },
-     "score": {
-      "home": 0,
+      "home": 3,
       "away": 1
      },
      "prob": {
-      "home": 22,
-      "draw": 24,
-      "away": 54
+      "home": 16,
+      "draw": 20,
+      "away": 64
      }
     },
     {
-     "id": 1106,
-     "kickoff": "2026-11-08T15:00:00Z",
+     "id": 560635,
+     "kickoff": "2026-11-08T14:00:00Z",
      "status": "FINISHED",
-     "matchday": 11,
+     "matchday": 10,
      "stage": "REGULAR_SEASON",
      "home": {
-      "name": "Bournemouth",
-      "tla": "BOU",
-      "elo": 1403
-     },
-     "away": {
-      "name": "Chelsea",
-      "tla": "CHE",
-      "elo": 1676
-     },
-     "score": {
-      "home": 0,
-      "away": 0
-     },
-     "prob": {
-      "home": 14,
-      "draw": 19,
-      "away": 67
-     }
-    },
-    {
-     "id": 1107,
-     "kickoff": "2026-11-08T15:00:00Z",
-     "status": "FINISHED",
-     "matchday": 11,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Nottingham Forest",
-      "tla": "NFO",
-      "elo": 1497
+      "name": "Crystal Palace",
+      "tla": "CRY",
+      "crest": "https://crests.football-data.org/354.png",
+      "elo": 1489
      },
      "away": {
       "name": "Liverpool",
       "tla": "LIV",
-      "elo": 1695
+      "crest": "https://crests.football-data.org/64.png",
+      "elo": 1704
      },
      "score": {
       "home": 1,
       "away": 3
      },
-     "prob": {
-      "home": 23,
-      "draw": 25,
-      "away": 52
-     }
-    },
-    {
-     "id": 1108,
-     "kickoff": "2026-11-08T17:30:00Z",
-     "status": "FINISHED",
-     "matchday": 11,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Leeds United",
-      "tla": "LUN",
-      "elo": 1409
-     },
-     "away": {
-      "name": "Manchester City",
-      "tla": "MCI",
-      "elo": 1635
-     },
-     "score": {
-      "home": 2,
-      "away": 0
-     },
-     "prob": {
-      "home": 15,
-      "draw": 20,
-      "away": 65
-     }
-    },
-    {
-     "id": 1109,
-     "kickoff": "2026-11-09T20:00:00Z",
-     "status": "FINISHED",
-     "matchday": 11,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Sunderland",
-      "tla": "SUN",
-      "elo": 1405
-     },
-     "away": {
-      "name": "Burnley",
-      "tla": "BUR",
-      "elo": 1428
-     },
-     "score": {
-      "home": 1,
-      "away": 1
-     },
-     "prob": {
-      "home": 43,
-      "draw": 26,
-      "away": 31
-     }
-    },
-    {
-     "id": 1110,
-     "kickoff": "2026-11-14T12:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Arsenal",
-      "tla": "ARS",
-      "elo": 1686
-     },
-     "away": {
-      "name": "Brighton Hove Albion",
-      "tla": "BHO",
-      "elo": 1513
-     },
-     "score": null,
-     "prob": {
-      "home": 69,
-      "draw": 18,
-      "away": 13
-     }
-    },
-    {
-     "id": 1115,
-     "kickoff": "2026-11-14T12:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Everton",
-      "tla": "EVE",
-      "elo": 1460
-     },
-     "away": {
-      "name": "Chelsea",
-      "tla": "CHE",
-      "elo": 1676
-     },
-     "score": null,
-     "prob": {
-      "home": 19,
-      "draw": 23,
-      "away": 58
-     }
-    },
-    {
-     "id": 1111,
-     "kickoff": "2026-11-14T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "West Ham United",
-      "tla": "WHA",
-      "elo": 1532
-     },
-     "away": {
-      "name": "Aston Villa",
-      "tla": "AVI",
-      "elo": 1559
-     },
-     "score": null,
-     "prob": {
-      "home": 42,
-      "draw": 26,
-      "away": 32
-     }
-    },
-    {
-     "id": 1112,
-     "kickoff": "2026-11-14T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Crystal Palace",
-      "tla": "CPA",
-      "elo": 1477
-     },
-     "away": {
-      "name": "Newcastle United",
-      "tla": "NUN",
-      "elo": 1620
-     },
-     "score": null,
-     "prob": {
-      "home": 27,
-      "draw": 26,
-      "away": 47
-     }
-    },
-    {
-     "id": 1113,
-     "kickoff": "2026-11-14T17:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Fulham",
-      "tla": "FUL",
-      "elo": 1466
-     },
-     "away": {
-      "name": "Manchester United",
-      "tla": "MUN",
-      "elo": 1664
-     },
-     "score": null,
      "prob": {
       "home": 21,
       "draw": 24,
@@ -389,135 +154,184 @@
      }
     },
     {
-     "id": 1114,
-     "kickoff": "2026-11-14T20:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
+     "id": 560636,
+     "kickoff": "2026-11-08T14:00:00Z",
+     "status": "FINISHED",
+     "matchday": 10,
      "stage": "REGULAR_SEASON",
      "home": {
-      "name": "Brentford",
-      "tla": "BRE",
-      "elo": 1511
+      "name": "Sunderland",
+      "tla": "SUN",
+      "crest": "https://crests.football-data.org/71.png",
+      "elo": 1520
      },
      "away": {
-      "name": "Tottenham Hotspur",
-      "tla": "THO",
-      "elo": 1639
+      "name": "Chelsea",
+      "tla": "CHE",
+      "crest": "https://crests.football-data.org/61.png",
+      "elo": 1603
      },
-     "score": null,
+     "score": {
+      "home": 1,
+      "away": 0
+     },
      "prob": {
-      "home": 29,
-      "draw": 26,
-      "away": 45
+      "home": 31,
+      "draw": 27,
+      "away": 42
      }
     },
     {
-     "id": 1116,
-     "kickoff": "2026-11-15T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
+     "id": 560637,
+     "kickoff": "2026-11-08T14:00:00Z",
+     "status": "FINISHED",
+     "matchday": 10,
      "stage": "REGULAR_SEASON",
      "home": {
-      "name": "Wolverhampton Wanderers",
-      "tla": "WWA",
-      "elo": 1486
+      "name": "Ipswich Town",
+      "tla": "IPS",
+      "crest": "https://crests.football-data.org/349.png",
+      "elo": 1402
      },
      "away": {
-      "name": "Liverpool",
-      "tla": "LIV",
-      "elo": 1695
-     },
-     "score": null,
-     "prob": {
-      "home": 20,
-      "draw": 23,
-      "away": 57
-     }
-    },
-    {
-     "id": 1117,
-     "kickoff": "2026-11-15T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
       "name": "Bournemouth",
       "tla": "BOU",
-      "elo": 1403
+      "crest": "https://crests.football-data.org/bournemouth.png",
+      "elo": 1650
      },
-     "away": {
-      "name": "Manchester City",
-      "tla": "MCI",
-      "elo": 1635
+     "score": {
+      "home": 1,
+      "away": 2
      },
-     "score": null,
      "prob": {
       "home": 18,
-      "draw": 22,
-      "away": 60
+      "draw": 21,
+      "away": 61
      }
     },
     {
-     "id": 1118,
-     "kickoff": "2026-11-15T17:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
+     "id": 560638,
+     "kickoff": "2026-11-08T14:00:00Z",
+     "status": "FINISHED",
+     "matchday": 10,
      "stage": "REGULAR_SEASON",
      "home": {
-      "name": "Nottingham Forest",
-      "tla": "NFO",
-      "elo": 1497
+      "name": "Brighton Hove",
+      "tla": "BHA",
+      "crest": "https://crests.football-data.org/397.png",
+      "elo": 1687
      },
      "away": {
-      "name": "Burnley",
-      "tla": "BUR",
-      "elo": 1428
+      "name": "Brentford",
+      "tla": "BRE",
+      "crest": "https://crests.football-data.org/402.png",
+      "elo": 1608
+     },
+     "score": {
+      "home": 2,
+      "away": 0
+     },
+     "prob": {
+      "home": 54,
+      "draw": 24,
+      "away": 22
+     }
+    },
+    {
+     "id": 560639,
+     "kickoff": "2026-11-08T16:30:00Z",
+     "status": "FINISHED",
+     "matchday": 10,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Man United",
+      "tla": "MUN",
+      "crest": "https://crests.football-data.org/66.png",
+      "elo": 1606
+     },
+     "away": {
+      "name": "Aston Villa",
+      "tla": "AVL",
+      "crest": "https://crests.football-data.org/58.png",
+      "elo": 1648
+     },
+     "score": {
+      "home": 4,
+      "away": 4
+     },
+     "prob": {
+      "home": 40,
+      "draw": 27,
+      "away": 33
+     }
+    },
+    {
+     "id": 560643,
+     "kickoff": "2026-11-21T12:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 11,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Man City",
+      "tla": "MCI",
+      "crest": "https://crests.football-data.org/65.png",
+      "elo": 1773
+     },
+     "away": {
+      "name": "Fulham",
+      "tla": "FUL",
+      "crest": "https://crests.football-data.org/63.png",
+      "elo": 1552
      },
      "score": null,
      "prob": {
-      "home": 56,
-      "draw": 23,
-      "away": 21
+      "home": 75,
+      "draw": 15,
+      "away": 10
      }
     },
     {
-     "id": 1119,
-     "kickoff": "2026-11-16T20:00:00Z",
+     "id": 560642,
+     "kickoff": "2026-11-21T15:00:00Z",
      "status": "UPCOMING",
-     "matchday": 12,
+     "matchday": 11,
      "stage": "REGULAR_SEASON",
      "home": {
+      "name": "Chelsea",
+      "tla": "CHE",
+      "crest": "https://crests.football-data.org/61.png",
+      "elo": 1603
+     },
+     "away": {
       "name": "Leeds United",
-      "tla": "LUN",
-      "elo": 1409
+      "tla": "LEE",
+      "crest": "https://crests.football-data.org/341.png",
+      "elo": 1583
+     },
+     "score": null,
+     "prob": {
+      "home": 49,
+      "draw": 25,
+      "away": 26
+     }
+    },
+    {
+     "id": 560644,
+     "kickoff": "2026-11-21T15:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 11,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Aston Villa",
+      "tla": "AVL",
+      "crest": "https://crests.football-data.org/58.png",
+      "elo": 1648
      },
      "away": {
       "name": "Sunderland",
       "tla": "SUN",
-      "elo": 1405
-     },
-     "score": null,
-     "prob": {
-      "home": 46,
-      "draw": 26,
-      "away": 28
-     }
-    },
-    {
-     "id": 1120,
-     "kickoff": "2026-11-21T12:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Arsenal",
-      "tla": "ARS",
-      "elo": 1686
-     },
-     "away": {
-      "name": "Aston Villa",
-      "tla": "AVI",
-      "elo": 1559
+      "crest": "https://crests.football-data.org/71.png",
+      "elo": 1520
      },
      "score": null,
      "prob": {
@@ -527,1723 +341,22 @@
      }
     },
     {
-     "id": 1125,
-     "kickoff": "2026-11-21T12:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Brentford",
-      "tla": "BRE",
-      "elo": 1511
-     },
-     "away": {
-      "name": "Liverpool",
-      "tla": "LIV",
-      "elo": 1695
-     },
-     "score": null,
-     "prob": {
-      "home": 23,
-      "draw": 24,
-      "away": 53
-     }
-    },
-    {
-     "id": 1121,
+     "id": 560647,
      "kickoff": "2026-11-21T15:00:00Z",
      "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Brighton Hove Albion",
-      "tla": "BHO",
-      "elo": 1513
-     },
-     "away": {
-      "name": "Newcastle United",
-      "tla": "NUN",
-      "elo": 1620
-     },
-     "score": null,
-     "prob": {
-      "home": 31,
-      "draw": 27,
-      "away": 42
-     }
-    },
-    {
-     "id": 1122,
-     "kickoff": "2026-11-21T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "West Ham United",
-      "tla": "WHA",
-      "elo": 1532
-     },
-     "away": {
-      "name": "Manchester United",
-      "tla": "MUN",
-      "elo": 1664
-     },
-     "score": null,
-     "prob": {
-      "home": 28,
-      "draw": 26,
-      "away": 46
-     }
-    },
-    {
-     "id": 1123,
-     "kickoff": "2026-11-21T17:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Crystal Palace",
-      "tla": "CPA",
-      "elo": 1477
-     },
-     "away": {
-      "name": "Tottenham Hotspur",
-      "tla": "THO",
-      "elo": 1639
-     },
-     "score": null,
-     "prob": {
-      "home": 25,
-      "draw": 25,
-      "away": 50
-     }
-    },
-    {
-     "id": 1124,
-     "kickoff": "2026-11-21T20:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Fulham",
-      "tla": "FUL",
-      "elo": 1466
-     },
-     "away": {
-      "name": "Chelsea",
-      "tla": "CHE",
-      "elo": 1676
-     },
-     "score": null,
-     "prob": {
-      "home": 20,
-      "draw": 23,
-      "away": 57
-     }
-    },
-    {
-     "id": 1126,
-     "kickoff": "2026-11-22T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Everton",
-      "tla": "EVE",
-      "elo": 1460
-     },
-     "away": {
-      "name": "Manchester City",
-      "tla": "MCI",
-      "elo": 1635
-     },
-     "score": null,
-     "prob": {
-      "home": 23,
-      "draw": 25,
-      "away": 52
-     }
-    },
-    {
-     "id": 1127,
-     "kickoff": "2026-11-22T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Wolverhampton Wanderers",
-      "tla": "WWA",
-      "elo": 1486
-     },
-     "away": {
-      "name": "Burnley",
-      "tla": "BUR",
-      "elo": 1428
-     },
-     "score": null,
-     "prob": {
-      "home": 54,
-      "draw": 24,
-      "away": 22
-     }
-    },
-    {
-     "id": 1128,
-     "kickoff": "2026-11-22T17:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
+     "matchday": 11,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Bournemouth",
       "tla": "BOU",
-      "elo": 1403
+      "crest": "https://crests.football-data.org/bournemouth.png",
+      "elo": 1650
      },
      "away": {
-      "name": "Sunderland",
-      "tla": "SUN",
-      "elo": 1405
-     },
-     "score": null,
-     "prob": {
-      "home": 45,
-      "draw": 26,
-      "away": 29
-     }
-    },
-    {
-     "id": 1129,
-     "kickoff": "2026-11-23T20:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Nottingham Forest",
-      "tla": "NFO",
-      "elo": 1497
-     },
-     "away": {
-      "name": "Leeds United",
-      "tla": "LUN",
-      "elo": 1409
-     },
-     "score": null,
-     "prob": {
-      "home": 58,
-      "draw": 23,
-      "away": 19
-     }
-    },
-    {
-     "id": 1130,
-     "kickoff": "2026-11-28T12:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Arsenal",
-      "tla": "ARS",
-      "elo": 1686
-     },
-     "away": {
-      "name": "Newcastle United",
-      "tla": "NUN",
-      "elo": 1620
-     },
-     "score": null,
-     "prob": {
-      "home": 55,
-      "draw": 24,
-      "away": 21
-     }
-    },
-    {
-     "id": 1135,
-     "kickoff": "2026-11-28T12:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Fulham",
-      "tla": "FUL",
-      "elo": 1466
-     },
-     "away": {
-      "name": "Manchester City",
-      "tla": "MCI",
-      "elo": 1635
-     },
-     "score": null,
-     "prob": {
-      "home": 24,
-      "draw": 25,
-      "away": 51
-     }
-    },
-    {
-     "id": 1131,
-     "kickoff": "2026-11-28T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Aston Villa",
-      "tla": "AVI",
-      "elo": 1559
-     },
-     "away": {
-      "name": "Manchester United",
-      "tla": "MUN",
-      "elo": 1664
-     },
-     "score": null,
-     "prob": {
-      "home": 31,
-      "draw": 27,
-      "away": 42
-     }
-    },
-    {
-     "id": 1132,
-     "kickoff": "2026-11-28T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Brighton Hove Albion",
-      "tla": "BHO",
-      "elo": 1513
-     },
-     "away": {
-      "name": "Tottenham Hotspur",
-      "tla": "THO",
-      "elo": 1639
-     },
-     "score": null,
-     "prob": {
-      "home": 29,
-      "draw": 26,
-      "away": 45
-     }
-    },
-    {
-     "id": 1133,
-     "kickoff": "2026-11-28T17:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "West Ham United",
-      "tla": "WHA",
-      "elo": 1532
-     },
-     "away": {
-      "name": "Chelsea",
-      "tla": "CHE",
-      "elo": 1676
-     },
-     "score": null,
-     "prob": {
-      "home": 27,
-      "draw": 25,
-      "away": 48
-     }
-    },
-    {
-     "id": 1134,
-     "kickoff": "2026-11-28T20:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Crystal Palace",
-      "tla": "CPA",
-      "elo": 1477
-     },
-     "away": {
-      "name": "Liverpool",
-      "tla": "LIV",
-      "elo": 1695
-     },
-     "score": null,
-     "prob": {
-      "home": 19,
-      "draw": 23,
-      "away": 58
-     }
-    },
-    {
-     "id": 1136,
-     "kickoff": "2026-11-29T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Brentford",
-      "tla": "BRE",
-      "elo": 1511
-     },
-     "away": {
-      "name": "Burnley",
-      "tla": "BUR",
-      "elo": 1428
-     },
-     "score": null,
-     "prob": {
-      "home": 57,
-      "draw": 23,
-      "away": 20
-     }
-    },
-    {
-     "id": 1137,
-     "kickoff": "2026-11-29T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Everton",
-      "tla": "EVE",
-      "elo": 1460
-     },
-     "away": {
-      "name": "Sunderland",
-      "tla": "SUN",
-      "elo": 1405
-     },
-     "score": null,
-     "prob": {
-      "home": 54,
-      "draw": 24,
-      "away": 22
-     }
-    },
-    {
-     "id": 1138,
-     "kickoff": "2026-11-29T17:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Wolverhampton Wanderers",
-      "tla": "WWA",
-      "elo": 1486
-     },
-     "away": {
-      "name": "Leeds United",
-      "tla": "LUN",
-      "elo": 1409
-     },
-     "score": null,
-     "prob": {
-      "home": 57,
-      "draw": 23,
-      "away": 20
-     }
-    }
-   ],
-   "table": [
-    {
-     "team": "Arsenal",
-     "tla": "ARS",
-     "p": 11,
-     "w": 9,
-     "d": 1,
-     "l": 1,
-     "gf": 21,
-     "ga": 3,
-     "pts": 28,
-     "form": [
-      "W",
-      "W",
-      "W",
-      "W",
-      "D"
-     ],
-     "pos": 1,
-     "gd": 18
-    },
-    {
-     "team": "Manchester United",
-     "tla": "MUN",
-     "p": 11,
-     "w": 8,
-     "d": 3,
-     "l": 0,
-     "gf": 18,
-     "ga": 6,
-     "pts": 27,
-     "form": [
-      "D",
-      "W",
-      "W",
-      "W",
-      "W"
-     ],
-     "pos": 2,
-     "gd": 12
-    },
-    {
-     "team": "Tottenham Hotspur",
-     "tla": "THO",
-     "p": 11,
-     "w": 6,
-     "d": 2,
-     "l": 3,
-     "gf": 21,
-     "ga": 12,
-     "pts": 20,
-     "form": [
-      "L",
-      "D",
-      "W",
-      "D",
-      "L"
-     ],
-     "pos": 3,
-     "gd": 9
-    },
-    {
-     "team": "Manchester City",
-     "tla": "MCI",
-     "p": 11,
-     "w": 6,
-     "d": 2,
-     "l": 3,
-     "gf": 16,
-     "ga": 13,
-     "pts": 20,
-     "form": [
-      "L",
-      "D",
-      "D",
-      "W",
-      "L"
-     ],
-     "pos": 4,
-     "gd": 3
-    },
-    {
-     "team": "Newcastle United",
-     "tla": "NUN",
-     "p": 11,
-     "w": 6,
-     "d": 1,
-     "l": 4,
-     "gf": 23,
-     "ga": 12,
-     "pts": 19,
-     "form": [
-      "W",
-      "W",
-      "L",
-      "L",
-      "L"
-     ],
-     "pos": 5,
-     "gd": 11
-    },
-    {
-     "team": "Chelsea",
-     "tla": "CHE",
-     "p": 11,
-     "w": 5,
-     "d": 4,
-     "l": 2,
-     "gf": 18,
-     "ga": 8,
-     "pts": 19,
-     "form": [
-      "W",
-      "D",
-      "L",
-      "W",
-      "D"
-     ],
-     "pos": 6,
-     "gd": 10
-    },
-    {
-     "team": "Liverpool",
-     "tla": "LIV",
-     "p": 11,
-     "w": 4,
-     "d": 7,
-     "l": 0,
-     "gf": 21,
-     "ga": 12,
-     "pts": 19,
-     "form": [
-      "D",
-      "D",
-      "D",
-      "D",
-      "W"
-     ],
-     "pos": 7,
-     "gd": 9
-    },
-    {
-     "team": "Leeds United",
-     "tla": "LUN",
-     "p": 11,
-     "w": 6,
-     "d": 0,
-     "l": 5,
-     "gf": 13,
-     "ga": 14,
-     "pts": 18,
-     "form": [
-      "L",
-      "W",
-      "L",
-      "L",
-      "W"
-     ],
-     "pos": 8,
-     "gd": -1
-    },
-    {
-     "team": "Wolverhampton Wanderers",
-     "tla": "WWA",
-     "p": 11,
-     "w": 5,
-     "d": 2,
-     "l": 4,
-     "gf": 19,
-     "ga": 17,
-     "pts": 17,
-     "form": [
-      "D",
-      "W",
-      "W",
-      "W",
-      "W"
-     ],
-     "pos": 9,
-     "gd": 2
-    },
-    {
-     "team": "Brentford",
-     "tla": "BRE",
-     "p": 11,
-     "w": 4,
-     "d": 4,
-     "l": 3,
-     "gf": 12,
-     "ga": 13,
-     "pts": 16,
-     "form": [
-      "D",
-      "L",
-      "D",
-      "D",
-      "W"
-     ],
-     "pos": 10,
-     "gd": -1
-    },
-    {
-     "team": "Burnley",
-     "tla": "BUR",
-     "p": 11,
-     "w": 4,
-     "d": 2,
-     "l": 5,
-     "gf": 15,
-     "ga": 14,
-     "pts": 14,
-     "form": [
-      "L",
-      "L",
-      "W",
-      "L",
-      "D"
-     ],
-     "pos": 11,
-     "gd": 1
-    },
-    {
-     "team": "West Ham United",
-     "tla": "WHA",
-     "p": 11,
-     "w": 3,
-     "d": 4,
-     "l": 4,
-     "gf": 12,
-     "ga": 20,
-     "pts": 13,
-     "form": [
-      "W",
-      "W",
-      "D",
-      "L",
-      "D"
-     ],
-     "pos": 12,
-     "gd": -8
-    },
-    {
-     "team": "Brighton Hove Albion",
-     "tla": "BHO",
-     "p": 11,
-     "w": 2,
-     "d": 5,
-     "l": 4,
-     "gf": 6,
-     "ga": 12,
-     "pts": 11,
-     "form": [
-      "W",
-      "D",
-      "L",
-      "D",
-      "D"
-     ],
-     "pos": 13,
-     "gd": -6
-    },
-    {
-     "team": "Nottingham Forest",
-     "tla": "NFO",
-     "p": 11,
-     "w": 2,
-     "d": 4,
-     "l": 5,
-     "gf": 9,
-     "ga": 14,
-     "pts": 10,
-     "form": [
-      "D",
-      "D",
-      "W",
-      "D",
-      "L"
-     ],
-     "pos": 14,
-     "gd": -5
-    },
-    {
-     "team": "Everton",
-     "tla": "EVE",
-     "p": 11,
-     "w": 3,
-     "d": 1,
-     "l": 7,
-     "gf": 14,
-     "ga": 20,
-     "pts": 10,
-     "form": [
-      "L",
-      "L",
-      "D",
-      "W",
-      "L"
-     ],
-     "pos": 15,
-     "gd": -6
-    },
-    {
-     "team": "Aston Villa",
-     "tla": "AVI",
-     "p": 11,
-     "w": 2,
-     "d": 3,
-     "l": 6,
-     "gf": 13,
-     "ga": 20,
-     "pts": 9,
-     "form": [
-      "W",
-      "L",
-      "D",
-      "L",
-      "D"
-     ],
-     "pos": 16,
-     "gd": -7
-    },
-    {
-     "team": "Crystal Palace",
-     "tla": "CPA",
-     "p": 11,
-     "w": 1,
-     "d": 5,
-     "l": 5,
-     "gf": 14,
-     "ga": 21,
-     "pts": 8,
-     "form": [
-      "D",
-      "L",
-      "D",
-      "L",
-      "D"
-     ],
-     "pos": 17,
-     "gd": -7
-    },
-    {
-     "team": "Sunderland",
-     "tla": "SUN",
-     "p": 11,
-     "w": 1,
-     "d": 5,
-     "l": 5,
-     "gf": 8,
-     "ga": 18,
-     "pts": 8,
-     "form": [
-      "L",
-      "L",
-      "L",
-      "D",
-      "D"
-     ],
-     "pos": 18,
-     "gd": -10
-    },
-    {
-     "team": "Fulham",
-     "tla": "FUL",
-     "p": 11,
-     "w": 2,
-     "d": 2,
-     "l": 7,
-     "gf": 10,
-     "ga": 22,
-     "pts": 8,
-     "form": [
-      "L",
-      "W",
-      "L",
-      "W",
-      "D"
-     ],
-     "pos": 19,
-     "gd": -12
-    },
-    {
-     "team": "Bournemouth",
-     "tla": "BOU",
-     "p": 11,
-     "w": 1,
-     "d": 3,
-     "l": 7,
-     "gf": 11,
-     "ga": 23,
-     "pts": 6,
-     "form": [
-      "W",
-      "L",
-      "D",
-      "L",
-      "D"
-     ],
-     "pos": 20,
-     "gd": -12
-    }
-   ]
-  },
-  {
-   "code": "PD",
-   "name": "La Liga",
-   "matches": [
-    {
-     "id": 1300,
-     "kickoff": "2026-11-07T12:30:00Z",
-     "status": "FINISHED",
-     "matchday": 11,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Real Madrid",
-      "tla": "RMA",
-      "elo": 1732
-     },
-     "away": {
-      "name": "Girona",
-      "tla": "GIR",
-      "elo": 1543
-     },
-     "score": {
-      "home": 3,
-      "away": 0
-     },
-     "prob": {
-      "home": 69,
-      "draw": 18,
-      "away": 13
-     }
-    },
-    {
-     "id": 1305,
-     "kickoff": "2026-11-07T12:30:00Z",
-     "status": "FINISHED",
-     "matchday": 11,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Mallorca",
-      "tla": "MAL",
-      "elo": 1425
-     },
-     "away": {
-      "name": "Real Sociedad",
-      "tla": "RSO",
-      "elo": 1587
-     },
-     "score": {
-      "home": 0,
-      "away": 3
-     },
-     "prob": {
-      "home": 28,
-      "draw": 26,
-      "away": 46
-     }
-    },
-    {
-     "id": 1301,
-     "kickoff": "2026-11-07T15:00:00Z",
-     "status": "FINISHED",
-     "matchday": 11,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Celta Vigo",
-      "tla": "CVI",
-      "elo": 1526
-     },
-     "away": {
-      "name": "Valencia",
-      "tla": "VAL",
-      "elo": 1518
-     },
-     "score": {
-      "home": 1,
-      "away": 1
-     },
-     "prob": {
-      "home": 47,
-      "draw": 26,
-      "away": 27
-     }
-    },
-    {
-     "id": 1302,
-     "kickoff": "2026-11-07T15:00:00Z",
-     "status": "FINISHED",
-     "matchday": 11,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Osasuna",
-      "tla": "OSA",
-      "elo": 1446
-     },
-     "away": {
-      "name": "Sevilla",
-      "tla": "SEV",
-      "elo": 1520
-     },
-     "score": {
-      "home": 1,
-      "away": 1
-     },
-     "prob": {
-      "home": 35,
-      "draw": 27,
-      "away": 38
-     }
-    },
-    {
-     "id": 1303,
-     "kickoff": "2026-11-07T17:30:00Z",
-     "status": "FINISHED",
-     "matchday": 11,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Getafe",
-      "tla": "GET",
-      "elo": 1464
-     },
-     "away": {
-      "name": "Real Betis",
-      "tla": "RBE",
-      "elo": 1611
-     },
-     "score": {
-      "home": 1,
-      "away": 1
-     },
-     "prob": {
-      "home": 26,
-      "draw": 25,
-      "away": 49
-     }
-    },
-    {
-     "id": 1304,
-     "kickoff": "2026-11-07T20:00:00Z",
-     "status": "FINISHED",
-     "matchday": 11,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Rayo Vallecano",
-      "tla": "RVA",
-      "elo": 1428
-     },
-     "away": {
-      "name": "Villarreal",
-      "tla": "VIL",
-      "elo": 1581
-     },
-     "score": {
-      "home": 1,
-      "away": 0
-     },
-     "prob": {
-      "home": 23,
-      "draw": 24,
-      "away": 53
-     }
-    },
-    {
-     "id": 1306,
-     "kickoff": "2026-11-08T15:00:00Z",
-     "status": "FINISHED",
-     "matchday": 11,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Espanyol",
-      "tla": "ESP",
-      "elo": 1480
-     },
-     "away": {
-      "name": "Athletic Club",
-      "tla": "ACL",
-      "elo": 1686
-     },
-     "score": {
-      "home": 0,
-      "away": 1
-     },
-     "prob": {
-      "home": 22,
-      "draw": 24,
-      "away": 54
-     }
-    },
-    {
-     "id": 1307,
-     "kickoff": "2026-11-08T15:00:00Z",
-     "status": "FINISHED",
-     "matchday": 11,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Alaves",
-      "tla": "ALA",
-      "elo": 1410
-     },
-     "away": {
-      "name": "Atletico Madrid",
-      "tla": "AMA",
-      "elo": 1712
-     },
-     "score": {
-      "home": 2,
-      "away": 2
-     },
-     "prob": {
-      "home": 12,
-      "draw": 17,
-      "away": 71
-     }
-    },
-    {
-     "id": 1308,
-     "kickoff": "2026-11-08T17:30:00Z",
-     "status": "FINISHED",
-     "matchday": 11,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Elche",
-      "tla": "ELC",
-      "elo": 1390
-     },
-     "away": {
-      "name": "Barcelona",
-      "tla": "BAR",
-      "elo": 1632
-     },
-     "score": {
-      "home": 0,
-      "away": 2
-     },
-     "prob": {
-      "home": 19,
-      "draw": 22,
-      "away": 59
-     }
-    },
-    {
-     "id": 1309,
-     "kickoff": "2026-11-09T20:00:00Z",
-     "status": "FINISHED",
-     "matchday": 11,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Levante",
-      "tla": "LEV",
-      "elo": 1338
-     },
-     "away": {
-      "name": "Oviedo",
-      "tla": "OVI",
-      "elo": 1473
-     },
-     "score": {
-      "home": 3,
-      "away": 2
-     },
-     "prob": {
-      "home": 25,
-      "draw": 25,
-      "away": 50
-     }
-    },
-    {
-     "id": 1310,
-     "kickoff": "2026-11-14T12:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Real Madrid",
-      "tla": "RMA",
-      "elo": 1732
-     },
-     "away": {
-      "name": "Valencia",
-      "tla": "VAL",
-      "elo": 1518
-     },
-     "score": null,
-     "prob": {
-      "home": 74,
-      "draw": 16,
-      "away": 10
-     }
-    },
-    {
-     "id": 1315,
-     "kickoff": "2026-11-14T12:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Rayo Vallecano",
-      "tla": "RVA",
-      "elo": 1428
-     },
-     "away": {
-      "name": "Athletic Club",
-      "tla": "ACL",
-      "elo": 1686
-     },
-     "score": null,
-     "prob": {
-      "home": 16,
-      "draw": 20,
-      "away": 64
-     }
-    },
-    {
-     "id": 1311,
-     "kickoff": "2026-11-14T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Girona",
-      "tla": "GIR",
-      "elo": 1543
-     },
-     "away": {
-      "name": "Sevilla",
-      "tla": "SEV",
-      "elo": 1520
-     },
-     "score": null,
-     "prob": {
-      "home": 49,
-      "draw": 25,
-      "away": 26
-     }
-    },
-    {
-     "id": 1312,
-     "kickoff": "2026-11-14T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Celta Vigo",
-      "tla": "CVI",
-      "elo": 1526
-     },
-     "away": {
-      "name": "Real Betis",
-      "tla": "RBE",
-      "elo": 1611
-     },
-     "score": null,
-     "prob": {
-      "home": 34,
-      "draw": 27,
-      "away": 39
-     }
-    },
-    {
-     "id": 1313,
-     "kickoff": "2026-11-14T17:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Osasuna",
-      "tla": "OSA",
-      "elo": 1446
-     },
-     "away": {
-      "name": "Villarreal",
-      "tla": "VIL",
-      "elo": 1581
-     },
-     "score": null,
-     "prob": {
-      "home": 28,
-      "draw": 26,
-      "away": 46
-     }
-    },
-    {
-     "id": 1314,
-     "kickoff": "2026-11-14T20:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Getafe",
-      "tla": "GET",
-      "elo": 1464
-     },
-     "away": {
-      "name": "Real Sociedad",
-      "tla": "RSO",
-      "elo": 1587
-     },
-     "score": null,
-     "prob": {
-      "home": 29,
-      "draw": 26,
-      "away": 45
-     }
-    },
-    {
-     "id": 1316,
-     "kickoff": "2026-11-15T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Mallorca",
-      "tla": "MAL",
-      "elo": 1425
-     },
-     "away": {
-      "name": "Atletico Madrid",
-      "tla": "AMA",
-      "elo": 1712
-     },
-     "score": null,
-     "prob": {
-      "home": 14,
-      "draw": 19,
-      "away": 67
-     }
-    },
-    {
-     "id": 1317,
-     "kickoff": "2026-11-15T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Espanyol",
-      "tla": "ESP",
-      "elo": 1480
-     },
-     "away": {
-      "name": "Barcelona",
-      "tla": "BAR",
-      "elo": 1632
-     },
-     "score": null,
-     "prob": {
-      "home": 26,
-      "draw": 25,
-      "away": 49
-     }
-    },
-    {
-     "id": 1318,
-     "kickoff": "2026-11-15T17:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Alaves",
-      "tla": "ALA",
-      "elo": 1410
-     },
-     "away": {
-      "name": "Oviedo",
-      "tla": "OVI",
-      "elo": 1473
-     },
-     "score": null,
-     "prob": {
-      "home": 37,
-      "draw": 27,
-      "away": 36
-     }
-    },
-    {
-     "id": 1319,
-     "kickoff": "2026-11-16T20:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Elche",
-      "tla": "ELC",
-      "elo": 1390
-     },
-     "away": {
-      "name": "Levante",
-      "tla": "LEV",
-      "elo": 1338
-     },
-     "score": null,
-     "prob": {
-      "home": 53,
-      "draw": 24,
-      "away": 23
-     }
-    },
-    {
-     "id": 1320,
-     "kickoff": "2026-11-21T12:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Real Madrid",
-      "tla": "RMA",
-      "elo": 1732
-     },
-     "away": {
-      "name": "Sevilla",
-      "tla": "SEV",
-      "elo": 1520
-     },
-     "score": null,
-     "prob": {
-      "home": 74,
-      "draw": 16,
-      "away": 10
-     }
-    },
-    {
-     "id": 1325,
-     "kickoff": "2026-11-21T12:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Getafe",
-      "tla": "GET",
-      "elo": 1464
-     },
-     "away": {
-      "name": "Atletico Madrid",
-      "tla": "AMA",
-      "elo": 1712
-     },
-     "score": null,
-     "prob": {
-      "home": 17,
-      "draw": 21,
-      "away": 62
-     }
-    },
-    {
-     "id": 1321,
-     "kickoff": "2026-11-21T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Valencia",
-      "tla": "VAL",
-      "elo": 1518
-     },
-     "away": {
-      "name": "Real Betis",
-      "tla": "RBE",
-      "elo": 1611
-     },
-     "score": null,
-     "prob": {
-      "home": 33,
-      "draw": 27,
-      "away": 40
-     }
-    },
-    {
-     "id": 1322,
-     "kickoff": "2026-11-21T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Girona",
-      "tla": "GIR",
-      "elo": 1543
-     },
-     "away": {
-      "name": "Villarreal",
-      "tla": "VIL",
-      "elo": 1581
-     },
-     "score": null,
-     "prob": {
-      "home": 40,
-      "draw": 27,
-      "away": 33
-     }
-    },
-    {
-     "id": 1323,
-     "kickoff": "2026-11-21T17:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Celta Vigo",
-      "tla": "CVI",
-      "elo": 1526
-     },
-     "away": {
-      "name": "Real Sociedad",
-      "tla": "RSO",
-      "elo": 1587
-     },
-     "score": null,
-     "prob": {
-      "home": 37,
-      "draw": 27,
-      "away": 36
-     }
-    },
-    {
-     "id": 1324,
-     "kickoff": "2026-11-21T20:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Osasuna",
-      "tla": "OSA",
-      "elo": 1446
-     },
-     "away": {
-      "name": "Athletic Club",
-      "tla": "ACL",
-      "elo": 1686
-     },
-     "score": null,
-     "prob": {
-      "home": 18,
-      "draw": 21,
-      "away": 61
-     }
-    },
-    {
-     "id": 1326,
-     "kickoff": "2026-11-22T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Rayo Vallecano",
-      "tla": "RVA",
-      "elo": 1428
-     },
-     "away": {
-      "name": "Barcelona",
-      "tla": "BAR",
-      "elo": 1632
-     },
-     "score": null,
-     "prob": {
-      "home": 21,
-      "draw": 23,
-      "away": 56
-     }
-    },
-    {
-     "id": 1327,
-     "kickoff": "2026-11-22T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Mallorca",
-      "tla": "MAL",
-      "elo": 1425
-     },
-     "away": {
-      "name": "Oviedo",
-      "tla": "OVI",
-      "elo": 1473
-     },
-     "score": null,
-     "prob": {
-      "home": 39,
-      "draw": 27,
-      "away": 34
-     }
-    },
-    {
-     "id": 1328,
-     "kickoff": "2026-11-22T17:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Espanyol",
-      "tla": "ESP",
-      "elo": 1480
-     },
-     "away": {
-      "name": "Levante",
-      "tla": "LEV",
-      "elo": 1338
-     },
-     "score": null,
-     "prob": {
-      "home": 66,
-      "draw": 19,
-      "away": 15
-     }
-    },
-    {
-     "id": 1329,
-     "kickoff": "2026-11-23T20:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 13,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Alaves",
-      "tla": "ALA",
-      "elo": 1410
-     },
-     "away": {
-      "name": "Elche",
-      "tla": "ELC",
-      "elo": 1390
-     },
-     "score": null,
-     "prob": {
-      "home": 49,
-      "draw": 25,
-      "away": 26
-     }
-    },
-    {
-     "id": 1330,
-     "kickoff": "2026-11-28T12:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Real Madrid",
-      "tla": "RMA",
-      "elo": 1732
-     },
-     "away": {
-      "name": "Real Betis",
-      "tla": "RBE",
-      "elo": 1611
-     },
-     "score": null,
-     "prob": {
-      "home": 63,
-      "draw": 21,
-      "away": 16
-     }
-    },
-    {
-     "id": 1335,
-     "kickoff": "2026-11-28T12:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Osasuna",
-      "tla": "OSA",
-      "elo": 1446
-     },
-     "away": {
-      "name": "Barcelona",
-      "tla": "BAR",
-      "elo": 1632
-     },
-     "score": null,
-     "prob": {
-      "home": 22,
-      "draw": 24,
-      "away": 54
-     }
-    },
-    {
-     "id": 1331,
-     "kickoff": "2026-11-28T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Sevilla",
-      "tla": "SEV",
-      "elo": 1520
-     },
-     "away": {
-      "name": "Villarreal",
-      "tla": "VIL",
-      "elo": 1581
-     },
-     "score": null,
-     "prob": {
-      "home": 37,
-      "draw": 27,
-      "away": 36
-     }
-    },
-    {
-     "id": 1332,
-     "kickoff": "2026-11-28T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Valencia",
-      "tla": "VAL",
-      "elo": 1518
-     },
-     "away": {
-      "name": "Real Sociedad",
-      "tla": "RSO",
-      "elo": 1587
-     },
-     "score": null,
-     "prob": {
-      "home": 36,
-      "draw": 27,
-      "away": 37
-     }
-    },
-    {
-     "id": 1333,
-     "kickoff": "2026-11-28T17:30:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Girona",
-      "tla": "GIR",
-      "elo": 1543
-     },
-     "away": {
-      "name": "Athletic Club",
-      "tla": "ACL",
-      "elo": 1686
-     },
-     "score": null,
-     "prob": {
-      "home": 27,
-      "draw": 26,
-      "away": 47
-     }
-    },
-    {
-     "id": 1334,
-     "kickoff": "2026-11-28T20:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Celta Vigo",
-      "tla": "CVI",
-      "elo": 1526
-     },
-     "away": {
-      "name": "Atletico Madrid",
-      "tla": "AMA",
-      "elo": 1712
-     },
-     "score": null,
-     "prob": {
-      "home": 22,
-      "draw": 24,
-      "away": 54
-     }
-    },
-    {
-     "id": 1336,
-     "kickoff": "2026-11-29T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Getafe",
-      "tla": "GET",
-      "elo": 1464
-     },
-     "away": {
-      "name": "Oviedo",
-      "tla": "OVI",
-      "elo": 1473
-     },
-     "score": null,
-     "prob": {
-      "home": 44,
-      "draw": 26,
-      "away": 30
-     }
-    },
-    {
-     "id": 1337,
-     "kickoff": "2026-11-29T15:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 14,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Rayo Vallecano",
-      "tla": "RVA",
-      "elo": 1428
-     },
-     "away": {
-      "name": "Levante",
-      "tla": "LEV",
-      "elo": 1338
+      "name": "Nottingham",
+      "tla": "NOT",
+      "crest": "https://crests.football-data.org/351.png",
+      "elo": 1560
      },
      "score": null,
      "prob": {
@@ -2253,474 +366,47 @@
      }
     },
     {
-     "id": 1338,
-     "kickoff": "2026-11-29T17:30:00Z",
+     "id": 560648,
+     "kickoff": "2026-11-21T15:00:00Z",
      "status": "UPCOMING",
-     "matchday": 14,
+     "matchday": 11,
      "stage": "REGULAR_SEASON",
      "home": {
-      "name": "Mallorca",
-      "tla": "MAL",
-      "elo": 1425
+      "name": "Tottenham",
+      "tla": "TOT",
+      "crest": "https://crests.football-data.org/73.png",
+      "elo": 1513
      },
      "away": {
-      "name": "Elche",
-      "tla": "ELC",
-      "elo": 1390
+      "name": "Ipswich Town",
+      "tla": "IPS",
+      "crest": "https://crests.football-data.org/349.png",
+      "elo": 1402
      },
      "score": null,
      "prob": {
-      "home": 51,
-      "draw": 25,
-      "away": 24
-     }
-    }
-   ],
-   "table": [
-    {
-     "team": "Real Madrid",
-     "tla": "RMA",
-     "p": 11,
-     "w": 11,
-     "d": 0,
-     "l": 0,
-     "gf": 42,
-     "ga": 3,
-     "pts": 33,
-     "form": [
-      "W",
-      "W",
-      "W",
-      "W",
-      "W"
-     ],
-     "pos": 1,
-     "gd": 39
-    },
-    {
-     "team": "Barcelona",
-     "tla": "BAR",
-     "p": 11,
-     "w": 8,
-     "d": 1,
-     "l": 2,
-     "gf": 22,
-     "ga": 9,
-     "pts": 25,
-     "form": [
-      "W",
-      "W",
-      "W",
-      "L",
-      "W"
-     ],
-     "pos": 2,
-     "gd": 13
-    },
-    {
-     "team": "Athletic Club",
-     "tla": "ACL",
-     "p": 11,
-     "w": 7,
-     "d": 3,
-     "l": 1,
-     "gf": 20,
-     "ga": 6,
-     "pts": 24,
-     "form": [
-      "D",
-      "D",
-      "L",
-      "W",
-      "W"
-     ],
-     "pos": 3,
-     "gd": 14
-    },
-    {
-     "team": "Atletico Madrid",
-     "tla": "AMA",
-     "p": 11,
-     "w": 6,
-     "d": 4,
-     "l": 1,
-     "gf": 22,
-     "ga": 5,
-     "pts": 22,
-     "form": [
-      "D",
-      "D",
-      "L",
-      "D",
-      "D"
-     ],
-     "pos": 4,
-     "gd": 17
-    },
-    {
-     "team": "Real Sociedad",
-     "tla": "RSO",
-     "p": 11,
-     "w": 5,
-     "d": 5,
-     "l": 1,
-     "gf": 18,
-     "ga": 8,
-     "pts": 20,
-     "form": [
-      "D",
-      "L",
-      "D",
-      "D",
-      "W"
-     ],
-     "pos": 5,
-     "gd": 10
-    },
-    {
-     "team": "Oviedo",
-     "tla": "OVI",
-     "p": 11,
-     "w": 6,
-     "d": 2,
-     "l": 3,
-     "gf": 17,
-     "ga": 12,
-     "pts": 20,
-     "form": [
-      "W",
-      "W",
-      "W",
-      "W",
-      "L"
-     ],
-     "pos": 6,
-     "gd": 5
-    },
-    {
-     "team": "Real Betis",
-     "tla": "RBE",
-     "p": 11,
-     "w": 6,
-     "d": 2,
-     "l": 3,
-     "gf": 17,
-     "ga": 13,
-     "pts": 20,
-     "form": [
-      "L",
-      "W",
-      "W",
-      "L",
-      "D"
-     ],
-     "pos": 7,
-     "gd": 4
-    },
-    {
-     "team": "Villarreal",
-     "tla": "VIL",
-     "p": 11,
-     "w": 3,
-     "d": 5,
-     "l": 3,
-     "gf": 12,
-     "ga": 12,
-     "pts": 14,
-     "form": [
-      "D",
-      "L",
-      "W",
-      "L",
-      "L"
-     ],
-     "pos": 8,
-     "gd": 0
-    },
-    {
-     "team": "Espanyol",
-     "tla": "ESP",
-     "p": 11,
-     "w": 4,
-     "d": 2,
-     "l": 5,
-     "gf": 16,
-     "ga": 21,
-     "pts": 14,
-     "form": [
-      "D",
-      "W",
-      "W",
-      "W",
-      "L"
-     ],
-     "pos": 9,
-     "gd": -5
-    },
-    {
-     "team": "Getafe",
-     "tla": "GET",
-     "p": 11,
-     "w": 4,
-     "d": 2,
-     "l": 5,
-     "gf": 14,
-     "ga": 20,
-     "pts": 14,
-     "form": [
-      "W",
-      "L",
-      "W",
-      "W",
-      "D"
-     ],
-     "pos": 10,
-     "gd": -6
-    },
-    {
-     "team": "Valencia",
-     "tla": "VAL",
-     "p": 11,
-     "w": 2,
-     "d": 6,
-     "l": 3,
-     "gf": 14,
-     "ga": 19,
-     "pts": 12,
-     "form": [
-      "D",
-      "D",
-      "L",
-      "L",
-      "D"
-     ],
-     "pos": 11,
-     "gd": -5
-    },
-    {
-     "team": "Girona",
-     "tla": "GIR",
-     "p": 11,
-     "w": 3,
-     "d": 3,
-     "l": 5,
-     "gf": 12,
-     "ga": 17,
-     "pts": 12,
-     "form": [
-      "D",
-      "L",
-      "L",
-      "W",
-      "L"
-     ],
-     "pos": 12,
-     "gd": -5
-    },
-    {
-     "team": "Levante",
-     "tla": "LEV",
-     "p": 11,
-     "w": 3,
-     "d": 3,
-     "l": 5,
-     "gf": 18,
-     "ga": 24,
-     "pts": 12,
-     "form": [
-      "D",
-      "L",
-      "D",
-      "D",
-      "W"
-     ],
-     "pos": 13,
-     "gd": -6
-    },
-    {
-     "team": "Alaves",
-     "tla": "ALA",
-     "p": 11,
-     "w": 3,
-     "d": 3,
-     "l": 5,
-     "gf": 14,
-     "ga": 20,
-     "pts": 12,
-     "form": [
-      "L",
-      "D",
-      "L",
-      "D",
-      "D"
-     ],
-     "pos": 14,
-     "gd": -6
-    },
-    {
-     "team": "Mallorca",
-     "tla": "MAL",
-     "p": 11,
-     "w": 4,
-     "d": 0,
-     "l": 7,
-     "gf": 11,
-     "ga": 20,
-     "pts": 12,
-     "form": [
-      "L",
-      "W",
-      "W",
-      "W",
-      "L"
-     ],
-     "pos": 15,
-     "gd": -9
-    },
-    {
-     "team": "Osasuna",
-     "tla": "OSA",
-     "p": 11,
-     "w": 2,
-     "d": 3,
-     "l": 6,
-     "gf": 10,
-     "ga": 19,
-     "pts": 9,
-     "form": [
-      "D",
-      "W",
-      "L",
-      "L",
-      "D"
-     ],
-     "pos": 16,
-     "gd": -9
-    },
-    {
-     "team": "Celta Vigo",
-     "tla": "CVI",
-     "p": 11,
-     "w": 2,
-     "d": 3,
-     "l": 6,
-     "gf": 8,
-     "ga": 18,
-     "pts": 9,
-     "form": [
-      "W",
-      "L",
-      "L",
-      "L",
-      "D"
-     ],
-     "pos": 17,
-     "gd": -10
-    },
-    {
-     "team": "Rayo Vallecano",
-     "tla": "RVA",
-     "p": 11,
-     "w": 2,
-     "d": 2,
-     "l": 7,
-     "gf": 9,
-     "ga": 22,
-     "pts": 8,
-     "form": [
-      "L",
-      "L",
-      "W",
-      "D",
-      "W"
-     ],
-     "pos": 18,
-     "gd": -13
-    },
-    {
-     "team": "Sevilla",
-     "tla": "SEV",
-     "p": 11,
-     "w": 1,
-     "d": 3,
-     "l": 7,
-     "gf": 7,
-     "ga": 20,
-     "pts": 6,
-     "form": [
-      "L",
-      "W",
-      "L",
-      "D",
-      "D"
-     ],
-     "pos": 19,
-     "gd": -13
-    },
-    {
-     "team": "Elche",
-     "tla": "ELC",
-     "p": 11,
-     "w": 1,
-     "d": 2,
-     "l": 8,
-     "gf": 6,
-     "ga": 21,
-     "pts": 5,
-     "form": [
-      "D",
-      "L",
-      "L",
-      "L",
-      "L"
-     ],
-     "pos": 20,
-     "gd": -15
-    }
-   ]
-  },
-  {
-   "code": "CL",
-   "name": "Champions League",
-   "matches": [
-    {
-     "id": 1432,
-     "kickoff": "2026-11-24T17:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 5,
-     "stage": "LEAGUE_STAGE",
-     "home": {
-      "name": "Borussia Dortmund",
-      "tla": "BOR",
-      "elo": 1482
-     },
-     "away": {
-      "name": "Atletico Madrid",
-      "tla": "ATL",
-      "elo": 1712
-     },
-     "score": null,
-     "prob": {
-      "home": 18,
-      "draw": 22,
-      "away": 60
+      "home": 62,
+      "draw": 21,
+      "away": 17
      }
     },
     {
-     "id": 1434,
-     "kickoff": "2026-11-24T17:00:00Z",
+     "id": 560650,
+     "kickoff": "2026-11-21T15:00:00Z",
      "status": "UPCOMING",
-     "matchday": 5,
-     "stage": "LEAGUE_STAGE",
+     "matchday": 11,
+     "stage": "REGULAR_SEASON",
      "home": {
-      "name": "Paris Saint Germain",
-      "tla": "PAR",
-      "elo": 1524
+      "name": "Coventry City",
+      "tla": "COV",
+      "crest": "https://crests.football-data.org/1076.png",
+      "elo": 1510
      },
      "away": {
-      "name": "Bayern Munchen",
-      "tla": "BAY",
-      "elo": 1499
+      "name": "Crystal Palace",
+      "tla": "CRY",
+      "crest": "https://crests.football-data.org/354.png",
+      "elo": 1489
      },
      "score": null,
      "prob": {
@@ -2730,251 +416,475 @@
      }
     },
     {
-     "id": 1436,
-     "kickoff": "2026-11-24T17:00:00Z",
+     "id": 560651,
+     "kickoff": "2026-11-21T17:30:00Z",
      "status": "UPCOMING",
-     "matchday": 5,
-     "stage": "LEAGUE_STAGE",
+     "matchday": 11,
+     "stage": "REGULAR_SEASON",
      "home": {
-      "name": "Napoli",
-      "tla": "NAP",
-      "elo": 1457
-     },
-     "away": {
-      "name": "Chelsea",
-      "tla": "CHE",
-      "elo": 1676
-     },
-     "score": null,
-     "prob": {
-      "home": 19,
-      "draw": 23,
-      "away": 58
-     }
-    },
-    {
-     "id": 1438,
-     "kickoff": "2026-11-24T17:00:00Z",
-     "status": "UPCOMING",
-     "matchday": 5,
-     "stage": "LEAGUE_STAGE",
-     "home": {
-      "name": "Sporting CP",
-      "tla": "SPO",
-      "elo": 1480
-     },
-     "away": {
-      "name": "Barcelona",
-      "tla": "BAR",
-      "elo": 1632
-     },
-     "score": null,
-     "prob": {
-      "home": 26,
-      "draw": 25,
-      "away": 49
-     }
-    },
-    {
-     "id": 1433,
-     "kickoff": "2026-11-24T17:45:00Z",
-     "status": "UPCOMING",
-     "matchday": 5,
-     "stage": "LEAGUE_STAGE",
-     "home": {
-      "name": "Juventus",
-      "tla": "JUV",
-      "elo": 1475
-     },
-     "away": {
-      "name": "Real Madrid",
-      "tla": "REA",
-      "elo": 1732
-     },
-     "score": null,
-     "prob": {
-      "home": 16,
-      "draw": 20,
-      "away": 64
-     }
-    },
-    {
-     "id": 1435,
-     "kickoff": "2026-11-24T17:45:00Z",
-     "status": "UPCOMING",
-     "matchday": 5,
-     "stage": "LEAGUE_STAGE",
-     "home": {
-      "name": "Manchester City",
-      "tla": "MAN",
-      "elo": 1635
-     },
-     "away": {
-      "name": "Internazionale Milano",
-      "tla": "INT",
-      "elo": 1510
-     },
-     "score": null,
-     "prob": {
-      "home": 63,
-      "draw": 21,
-      "away": 16
-     }
-    },
-    {
-     "id": 1437,
-     "kickoff": "2026-11-24T17:45:00Z",
-     "status": "UPCOMING",
-     "matchday": 5,
-     "stage": "LEAGUE_STAGE",
-     "home": {
-      "name": "Ajax",
-      "tla": "AJA",
-      "elo": 1465
+      "name": "Newcastle",
+      "tla": "NEW",
+      "crest": "https://crests.football-data.org/67.png",
+      "elo": 1567
      },
      "away": {
       "name": "Arsenal",
       "tla": "ARS",
-      "elo": 1686
+      "crest": "https://crests.football-data.org/57.png",
+      "elo": 1854
      },
      "score": null,
      "prob": {
-      "home": 19,
-      "draw": 22,
-      "away": 59
+      "home": 14,
+      "draw": 19,
+      "away": 67
      }
     },
     {
-     "id": 1439,
-     "kickoff": "2026-11-24T17:45:00Z",
+     "id": 560646,
+     "kickoff": "2026-11-22T14:00:00Z",
      "status": "UPCOMING",
-     "matchday": 5,
-     "stage": "LEAGUE_STAGE",
+     "matchday": 11,
+     "stage": "REGULAR_SEASON",
      "home": {
-      "name": "Liverpool",
-      "tla": "LIV",
-      "elo": 1695
+      "name": "Hull City",
+      "tla": "HUL",
+      "crest": "https://crests.football-data.org/322.png",
+      "elo": 1545
      },
      "away": {
-      "name": "Benfica",
-      "tla": "BEN",
-      "elo": 1473
+      "name": "Brighton Hove",
+      "tla": "BHA",
+      "crest": "https://crests.football-data.org/397.png",
+      "elo": 1687
      },
      "score": null,
      "prob": {
-      "home": 75,
-      "draw": 15,
-      "away": 10
+      "home": 27,
+      "draw": 26,
+      "away": 47
+     }
+    },
+    {
+     "id": 560645,
+     "kickoff": "2026-11-22T16:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 11,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Liverpool",
+      "tla": "LIV",
+      "crest": "https://crests.football-data.org/64.png",
+      "elo": 1704
+     },
+     "away": {
+      "name": "Man United",
+      "tla": "MUN",
+      "crest": "https://crests.football-data.org/66.png",
+      "elo": 1606
+     },
+     "score": null,
+     "prob": {
+      "home": 60,
+      "draw": 22,
+      "away": 18
+     }
+    },
+    {
+     "id": 560649,
+     "kickoff": "2026-11-23T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 11,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Brentford",
+      "tla": "BRE",
+      "crest": "https://crests.football-data.org/402.png",
+      "elo": 1608
+     },
+     "away": {
+      "name": "Everton",
+      "tla": "EVE",
+      "crest": "https://crests.football-data.org/62.png",
+      "elo": 1576
+     },
+     "score": null,
+     "prob": {
+      "home": 50,
+      "draw": 25,
+      "away": 25
+     }
+    },
+    {
+     "id": 560658,
+     "kickoff": "2026-11-27T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Nottingham",
+      "tla": "NOT",
+      "crest": "https://crests.football-data.org/351.png",
+      "elo": 1560
+     },
+     "away": {
+      "name": "Chelsea",
+      "tla": "CHE",
+      "crest": "https://crests.football-data.org/61.png",
+      "elo": 1603
+     },
+     "score": null,
+     "prob": {
+      "home": 39,
+      "draw": 27,
+      "away": 34
+     }
+    },
+    {
+     "id": 560652,
+     "kickoff": "2026-11-28T15:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Leeds United",
+      "tla": "LEE",
+      "crest": "https://crests.football-data.org/341.png",
+      "elo": 1583
+     },
+     "away": {
+      "name": "Coventry City",
+      "tla": "COV",
+      "crest": "https://crests.football-data.org/1076.png",
+      "elo": 1510
+     },
+     "score": null,
+     "prob": {
+      "home": 56,
+      "draw": 23,
+      "away": 21
+     }
+    },
+    {
+     "id": 560655,
+     "kickoff": "2026-11-28T15:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Man United",
+      "tla": "MUN",
+      "crest": "https://crests.football-data.org/66.png",
+      "elo": 1606
+     },
+     "away": {
+      "name": "Brentford",
+      "tla": "BRE",
+      "crest": "https://crests.football-data.org/402.png",
+      "elo": 1608
+     },
+     "score": null,
+     "prob": {
+      "home": 45,
+      "draw": 26,
+      "away": 29
+     }
+    },
+    {
+     "id": 560653,
+     "kickoff": "2026-11-28T17:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Ipswich Town",
+      "tla": "IPS",
+      "crest": "https://crests.football-data.org/349.png",
+      "elo": 1402
+     },
+     "away": {
+      "name": "Aston Villa",
+      "tla": "AVL",
+      "crest": "https://crests.football-data.org/58.png",
+      "elo": 1648
+     },
+     "score": null,
+     "prob": {
+      "home": 17,
+      "draw": 21,
+      "away": 62
+     }
+    },
+    {
+     "id": 560656,
+     "kickoff": "2026-11-29T12:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Everton",
+      "tla": "EVE",
+      "crest": "https://crests.football-data.org/62.png",
+      "elo": 1576
+     },
+     "away": {
+      "name": "Liverpool",
+      "tla": "LIV",
+      "crest": "https://crests.football-data.org/64.png",
+      "elo": 1704
+     },
+     "score": null,
+     "prob": {
+      "home": 29,
+      "draw": 26,
+      "away": 45
+     }
+    },
+    {
+     "id": 560657,
+     "kickoff": "2026-11-29T14:05:00Z",
+     "status": "UPCOMING",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Fulham",
+      "tla": "FUL",
+      "crest": "https://crests.football-data.org/63.png",
+      "elo": 1552
+     },
+     "away": {
+      "name": "Bournemouth",
+      "tla": "BOU",
+      "crest": "https://crests.football-data.org/bournemouth.png",
+      "elo": 1650
+     },
+     "score": null,
+     "prob": {
+      "home": 32,
+      "draw": 27,
+      "away": 41
+     }
+    },
+    {
+     "id": 560659,
+     "kickoff": "2026-11-29T14:05:00Z",
+     "status": "UPCOMING",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Brighton Hove",
+      "tla": "BHA",
+      "crest": "https://crests.football-data.org/397.png",
+      "elo": 1687
+     },
+     "away": {
+      "name": "Newcastle",
+      "tla": "NEW",
+      "crest": "https://crests.football-data.org/67.png",
+      "elo": 1567
+     },
+     "score": null,
+     "prob": {
+      "home": 62,
+      "draw": 21,
+      "away": 17
+     }
+    },
+    {
+     "id": 560660,
+     "kickoff": "2026-11-29T14:05:00Z",
+     "status": "UPCOMING",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Sunderland",
+      "tla": "SUN",
+      "crest": "https://crests.football-data.org/71.png",
+      "elo": 1520
+     },
+     "away": {
+      "name": "Tottenham",
+      "tla": "TOT",
+      "crest": "https://crests.football-data.org/73.png",
+      "elo": 1513
+     },
+     "score": null,
+     "prob": {
+      "home": 46,
+      "draw": 26,
+      "away": 28
+     }
+    },
+    {
+     "id": 560661,
+     "kickoff": "2026-11-29T14:05:00Z",
+     "status": "UPCOMING",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Crystal Palace",
+      "tla": "CRY",
+      "crest": "https://crests.football-data.org/354.png",
+      "elo": 1489
+     },
+     "away": {
+      "name": "Hull City",
+      "tla": "HUL",
+      "crest": "https://crests.football-data.org/322.png",
+      "elo": 1545
+     },
+     "score": null,
+     "prob": {
+      "home": 38,
+      "draw": 27,
+      "away": 35
+     }
+    },
+    {
+     "id": 560654,
+     "kickoff": "2026-11-29T16:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Arsenal",
+      "tla": "ARS",
+      "crest": "https://crests.football-data.org/57.png",
+      "elo": 1854
+     },
+     "away": {
+      "name": "Man City",
+      "tla": "MCI",
+      "crest": "https://crests.football-data.org/65.png",
+      "elo": 1773
+     },
+     "score": null,
+     "prob": {
+      "home": 57,
+      "draw": 23,
+      "away": 20
      }
     }
    ],
    "table": [
     {
-     "team": "Paris Saint Germain",
-     "tla": "PAR",
-     "p": 4,
-     "w": 4,
+     "team": "Arsenal",
+     "tla": "ARS",
+     "crest": "https://crests.football-data.org/57.png",
+     "p": 10,
+     "w": 9,
      "d": 0,
-     "l": 0,
-     "gf": 10,
-     "ga": 4,
-     "pts": 12,
+     "l": 1,
+     "gf": 15,
+     "ga": 5,
+     "pts": 27,
      "form": [
+      "W",
       "W",
       "W",
       "W",
       "W"
      ],
      "pos": 1,
-     "gd": 6
+     "gd": 10
     },
     {
-     "team": "Internazionale Milano",
-     "tla": "INT",
-     "p": 4,
-     "w": 3,
-     "d": 0,
-     "l": 1,
-     "gf": 7,
-     "ga": 3,
-     "pts": 9,
+     "team": "Brighton Hove",
+     "tla": "BHA",
+     "crest": "https://crests.football-data.org/397.png",
+     "p": 10,
+     "w": 7,
+     "d": 1,
+     "l": 2,
+     "gf": 26,
+     "ga": 7,
+     "pts": 22,
      "form": [
+      "W",
       "W",
       "L",
       "W",
       "W"
      ],
      "pos": 2,
-     "gd": 4
+     "gd": 19
     },
     {
-     "team": "Bayern Munchen",
-     "tla": "BAY",
-     "p": 4,
-     "w": 3,
+     "team": "Man City",
+     "tla": "MCI",
+     "crest": "https://crests.football-data.org/65.png",
+     "p": 10,
+     "w": 7,
      "d": 0,
-     "l": 1,
-     "gf": 6,
-     "ga": 2,
-     "pts": 9,
+     "l": 3,
+     "gf": 21,
+     "ga": 13,
+     "pts": 21,
      "form": [
       "W",
       "W",
-      "W",
+      "L",
+      "L",
       "L"
      ],
      "pos": 3,
+     "gd": 8
+    },
+    {
+     "team": "Liverpool",
+     "tla": "LIV",
+     "crest": "https://crests.football-data.org/64.png",
+     "p": 10,
+     "w": 5,
+     "d": 3,
+     "l": 2,
+     "gf": 14,
+     "ga": 10,
+     "pts": 18,
+     "form": [
+      "L",
+      "W",
+      "W",
+      "L",
+      "W"
+     ],
+     "pos": 4,
      "gd": 4
     },
     {
      "team": "Chelsea",
      "tla": "CHE",
-     "p": 4,
-     "w": 2,
+     "crest": "https://crests.football-data.org/61.png",
+     "p": 10,
+     "w": 5,
      "d": 1,
-     "l": 1,
-     "gf": 5,
-     "ga": 3,
-     "pts": 7,
-     "form": [
-      "L",
-      "W",
-      "D",
-      "W"
-     ],
-     "pos": 4,
-     "gd": 2
-    },
-    {
-     "team": "Juventus",
-     "tla": "JUV",
-     "p": 4,
-     "w": 2,
-     "d": 0,
-     "l": 2,
-     "gf": 8,
-     "ga": 5,
-     "pts": 6,
+     "l": 4,
+     "gf": 19,
+     "ga": 16,
+     "pts": 16,
      "form": [
       "W",
+      "W",
       "L",
-      "L",
-      "W"
+      "W",
+      "L"
      ],
      "pos": 5,
      "gd": 3
     },
     {
-     "team": "Arsenal",
-     "tla": "ARS",
-     "p": 4,
-     "w": 2,
-     "d": 0,
+     "team": "Everton",
+     "tla": "EVE",
+     "crest": "https://crests.football-data.org/62.png",
+     "p": 10,
+     "w": 4,
+     "d": 4,
      "l": 2,
-     "gf": 9,
-     "ga": 7,
-     "pts": 6,
+     "gf": 12,
+     "ga": 10,
+     "pts": 16,
      "form": [
+      "D",
       "L",
       "L",
       "W",
@@ -2984,109 +894,2367 @@
      "gd": 2
     },
     {
-     "team": "Borussia Dortmund",
-     "tla": "BOR",
-     "p": 4,
-     "w": 2,
-     "d": 0,
-     "l": 2,
-     "gf": 8,
-     "ga": 7,
-     "pts": 6,
+     "team": "Bournemouth",
+     "tla": "BOU",
+     "crest": "https://crests.football-data.org/bournemouth.png",
+     "p": 10,
+     "w": 4,
+     "d": 3,
+     "l": 3,
+     "gf": 16,
+     "ga": 14,
+     "pts": 15,
      "form": [
-      "W",
-      "W",
       "L",
-      "L"
+      "W",
+      "W",
+      "W",
+      "W"
      ],
      "pos": 7,
-     "gd": 1
+     "gd": 2
     },
     {
-     "team": "Liverpool",
-     "tla": "LIV",
-     "p": 4,
-     "w": 2,
-     "d": 0,
+     "team": "Brentford",
+     "tla": "BRE",
+     "crest": "https://crests.football-data.org/402.png",
+     "p": 10,
+     "w": 3,
+     "d": 5,
      "l": 2,
-     "gf": 4,
-     "ga": 4,
-     "pts": 6,
+     "gf": 16,
+     "ga": 11,
+     "pts": 14,
      "form": [
-      "W",
+      "D",
       "L",
+      "D",
       "W",
       "L"
      ],
      "pos": 8,
-     "gd": 0
+     "gd": 5
     },
     {
-     "team": "Napoli",
-     "tla": "NAP",
-     "p": 4,
-     "w": 2,
-     "d": 0,
+     "team": "Leeds United",
+     "tla": "LEE",
+     "crest": "https://crests.football-data.org/341.png",
+     "p": 10,
+     "w": 3,
+     "d": 5,
      "l": 2,
-     "gf": 5,
-     "ga": 9,
-     "pts": 6,
+     "gf": 10,
+     "ga": 8,
+     "pts": 14,
      "form": [
       "L",
-      "W",
-      "W",
-      "L"
+      "D",
+      "D",
+      "L",
+      "W"
      ],
      "pos": 9,
-     "gd": -4
-    },
-    {
-     "team": "Manchester City",
-     "tla": "MAN",
-     "p": 4,
-     "w": 1,
-     "d": 1,
-     "l": 2,
-     "gf": 9,
-     "ga": 7,
-     "pts": 4,
-     "form": [
-      "L",
-      "L",
-      "W",
-      "D"
-     ],
-     "pos": 10,
      "gd": 2
     },
     {
-     "team": "Atletico Madrid",
-     "tla": "ATL",
-     "p": 4,
-     "w": 1,
-     "d": 1,
-     "l": 2,
-     "gf": 6,
-     "ga": 7,
-     "pts": 4,
+     "team": "Aston Villa",
+     "tla": "AVL",
+     "crest": "https://crests.football-data.org/58.png",
+     "p": 10,
+     "w": 3,
+     "d": 4,
+     "l": 3,
+     "gf": 14,
+     "ga": 17,
+     "pts": 13,
      "form": [
-      "L",
+      "D",
       "W",
-      "L",
+      "W",
+      "D",
       "D"
+     ],
+     "pos": 10,
+     "gd": -3
+    },
+    {
+     "team": "Tottenham",
+     "tla": "TOT",
+     "crest": "https://crests.football-data.org/73.png",
+     "p": 10,
+     "w": 3,
+     "d": 3,
+     "l": 4,
+     "gf": 10,
+     "ga": 11,
+     "pts": 12,
+     "form": [
+      "D",
+      "W",
+      "W",
+      "W",
+      "L"
      ],
      "pos": 11,
      "gd": -1
     },
     {
+     "team": "Newcastle",
+     "tla": "NEW",
+     "crest": "https://crests.football-data.org/67.png",
+     "p": 10,
+     "w": 3,
+     "d": 3,
+     "l": 4,
+     "gf": 13,
+     "ga": 16,
+     "pts": 12,
+     "form": [
+      "L",
+      "L",
+      "W",
+      "L",
+      "D"
+     ],
+     "pos": 12,
+     "gd": -3
+    },
+    {
+     "team": "Hull City",
+     "tla": "HUL",
+     "crest": "https://crests.football-data.org/322.png",
+     "p": 10,
+     "w": 2,
+     "d": 5,
+     "l": 3,
+     "gf": 11,
+     "ga": 11,
+     "pts": 11,
+     "form": [
+      "D",
+      "L",
+      "D",
+      "D",
+      "L"
+     ],
+     "pos": 13,
+     "gd": 0
+    },
+    {
+     "team": "Ipswich Town",
+     "tla": "IPS",
+     "crest": "https://crests.football-data.org/349.png",
+     "p": 10,
+     "w": 3,
+     "d": 2,
+     "l": 5,
+     "gf": 15,
+     "ga": 20,
+     "pts": 11,
+     "form": [
+      "W",
+      "L",
+      "D",
+      "D",
+      "L"
+     ],
+     "pos": 14,
+     "gd": -5
+    },
+    {
+     "team": "Fulham",
+     "tla": "FUL",
+     "crest": "https://crests.football-data.org/63.png",
+     "p": 10,
+     "w": 2,
+     "d": 4,
+     "l": 4,
+     "gf": 10,
+     "ga": 12,
+     "pts": 10,
+     "form": [
+      "L",
+      "W",
+      "W",
+      "D",
+      "D"
+     ],
+     "pos": 15,
+     "gd": -2
+    },
+    {
+     "team": "Nottingham",
+     "tla": "NOT",
+     "crest": "https://crests.football-data.org/351.png",
+     "p": 10,
+     "w": 2,
+     "d": 3,
+     "l": 5,
+     "gf": 9,
+     "ga": 13,
+     "pts": 9,
+     "form": [
+      "L",
+      "L",
+      "D",
+      "L",
+      "W"
+     ],
+     "pos": 16,
+     "gd": -4
+    },
+    {
+     "team": "Coventry City",
+     "tla": "COV",
+     "crest": "https://crests.football-data.org/1076.png",
+     "p": 10,
+     "w": 3,
+     "d": 0,
+     "l": 7,
+     "gf": 10,
+     "ga": 19,
+     "pts": 9,
+     "form": [
+      "W",
+      "L",
+      "L",
+      "W",
+      "L"
+     ],
+     "pos": 17,
+     "gd": -9
+    },
+    {
+     "team": "Man United",
+     "tla": "MUN",
+     "crest": "https://crests.football-data.org/66.png",
+     "p": 10,
+     "w": 1,
+     "d": 5,
+     "l": 4,
+     "gf": 14,
+     "ga": 19,
+     "pts": 8,
+     "form": [
+      "D",
+      "D",
+      "L",
+      "L",
+      "D"
+     ],
+     "pos": 18,
+     "gd": -5
+    },
+    {
+     "team": "Sunderland",
+     "tla": "SUN",
+     "crest": "https://crests.football-data.org/71.png",
+     "p": 10,
+     "w": 2,
+     "d": 2,
+     "l": 6,
+     "gf": 8,
+     "ga": 17,
+     "pts": 8,
+     "form": [
+      "L",
+      "L",
+      "D",
+      "L",
+      "W"
+     ],
+     "pos": 19,
+     "gd": -9
+    },
+    {
+     "team": "Crystal Palace",
+     "tla": "CRY",
+     "crest": "https://crests.football-data.org/354.png",
+     "p": 10,
+     "w": 2,
+     "d": 1,
+     "l": 7,
+     "gf": 10,
+     "ga": 24,
+     "pts": 7,
+     "form": [
+      "W",
+      "L",
+      "L",
+      "L",
+      "L"
+     ],
+     "pos": 20,
+     "gd": -14
+    }
+   ]
+  },
+  {
+   "code": "PD",
+   "name": "La Liga",
+   "matches": [
+    {
+     "id": 564744,
+     "kickoff": "2026-11-07T13:00:00Z",
+     "status": "FINISHED",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Málaga",
+      "tla": "MAL",
+      "crest": "https://crests.football-data.org/84.png",
+      "elo": 1463
+     },
+     "away": {
+      "name": "Santander",
+      "tla": "SAN",
+      "crest": "https://crests.football-data.org/5335.png",
+      "elo": 1510
+     },
+     "score": {
+      "home": 1,
+      "away": 2
+     },
+     "prob": {
+      "home": 42,
+      "draw": 27,
+      "away": 31
+     }
+    },
+    {
+     "id": 564745,
+     "kickoff": "2026-11-07T15:15:00Z",
+     "status": "FINISHED",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Espanyol",
+      "tla": "ESP",
+      "crest": "https://crests.football-data.org/80.png",
+      "elo": 1492
+     },
+     "away": {
+      "name": "Deportivo",
+      "tla": "DEP",
+      "crest": "https://crests.football-data.org/560.png",
+      "elo": 1539
+     },
+     "score": {
+      "home": 0,
+      "away": 0
+     },
+     "prob": {
+      "home": 39,
+      "draw": 27,
+      "away": 34
+     }
+    },
+    {
+     "id": 564739,
+     "kickoff": "2026-11-07T17:30:00Z",
+     "status": "FINISHED",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Osasuna",
+      "tla": "OSA",
+      "crest": "https://crests.football-data.org/79.png",
+      "elo": 1475
+     },
+     "away": {
+      "name": "Athletic",
+      "tla": "ATH",
+      "crest": "https://crests.football-data.org/77.png",
+      "elo": 1563
+     },
+     "score": {
+      "home": 1,
+      "away": 1
+     },
+     "prob": {
+      "home": 33,
+      "draw": 27,
+      "away": 40
+     }
+    },
+    {
+     "id": 564741,
+     "kickoff": "2026-11-07T20:00:00Z",
+     "status": "FINISHED",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Valencia",
+      "tla": "VAL",
+      "crest": "https://crests.football-data.org/95.png",
+      "elo": 1522
+     },
+     "away": {
+      "name": "Real Madrid",
+      "tla": "RMA",
+      "crest": "https://crests.football-data.org/86.png",
+      "elo": 1863
+     },
+     "score": {
+      "home": 0,
+      "away": 3
+     },
+     "prob": {
+      "home": 11,
+      "draw": 17,
+      "away": 72
+     }
+    },
+    {
+     "id": 564738,
+     "kickoff": "2026-11-08T13:00:00Z",
+     "status": "FINISHED",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Elche",
+      "tla": "ELC",
+      "crest": "https://crests.football-data.org/285.png",
+      "elo": 1509
+     },
+     "away": {
+      "name": "Real Betis",
+      "tla": "BET",
+      "crest": "https://crests.football-data.org/90.png",
+      "elo": 1677
+     },
+     "score": {
+      "home": 0,
+      "away": 2
+     },
+     "prob": {
+      "home": 27,
+      "draw": 25,
+      "away": 48
+     }
+    },
+    {
+     "id": 564743,
+     "kickoff": "2026-11-08T15:15:00Z",
+     "status": "FINISHED",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Real Sociedad",
+      "tla": "RSO",
+      "crest": "https://crests.football-data.org/92.png",
+      "elo": 1569
+     },
+     "away": {
+      "name": "Rayo Vallecano",
+      "tla": "RAY",
+      "crest": "https://crests.football-data.org/87.png",
+      "elo": 1545
+     },
+     "score": {
+      "home": 1,
+      "away": 0
+     },
+     "prob": {
+      "home": 47,
+      "draw": 26,
+      "away": 27
+     }
+    },
+    {
+     "id": 564742,
+     "kickoff": "2026-11-08T17:30:00Z",
+     "status": "FINISHED",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Celta",
+      "tla": "CEL",
+      "crest": "https://crests.football-data.org/558.png",
+      "elo": 1548
+     },
+     "away": {
+      "name": "Levante",
+      "tla": "LEV",
+      "crest": "https://crests.football-data.org/88.png",
+      "elo": 1517
+     },
+     "score": {
+      "home": 0,
+      "away": 0
+     },
+     "prob": {
+      "home": 51,
+      "draw": 25,
+      "away": 24
+     }
+    },
+    {
+     "id": 564747,
+     "kickoff": "2026-11-08T17:30:00Z",
+     "status": "FINISHED",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Villarreal",
+      "tla": "VIL",
+      "crest": "https://crests.football-data.org/94.png",
+      "elo": 1632
+     },
+     "away": {
+      "name": "Getafe",
+      "tla": "GET",
+      "crest": "https://crests.football-data.org/82.png",
+      "elo": 1503
+     },
+     "score": {
+      "home": 2,
+      "away": 0
+     },
+     "prob": {
+      "home": 62,
+      "draw": 21,
+      "away": 17
+     }
+    },
+    {
+     "id": 564746,
+     "kickoff": "2026-11-08T20:00:00Z",
+     "status": "FINISHED",
+     "matchday": 12,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Atleti",
+      "tla": "ATL",
+      "crest": "https://crests.football-data.org/78.png",
+      "elo": 1713
+     },
+     "away": {
+      "name": "Barça",
+      "tla": "FCB",
+      "crest": "https://crests.football-data.org/81.png",
+      "elo": 1894
+     },
+     "score": {
+      "home": 1,
+      "away": 2
+     },
+     "prob": {
+      "home": 24,
+      "draw": 25,
+      "away": 51
+     }
+    },
+    {
+     "id": 564748,
+     "kickoff": "2026-11-20T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Athletic",
+      "tla": "ATH",
+      "crest": "https://crests.football-data.org/77.png",
+      "elo": 1563
+     },
+     "away": {
+      "name": "Espanyol",
+      "tla": "ESP",
+      "crest": "https://crests.football-data.org/80.png",
+      "elo": 1492
+     },
+     "score": null,
+     "prob": {
+      "home": 56,
+      "draw": 23,
+      "away": 21
+     }
+    },
+    {
+     "id": 564755,
+     "kickoff": "2026-11-21T13:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Alavés",
+      "tla": "ALA",
+      "crest": "https://crests.football-data.org/263.png",
+      "elo": 1504
+     },
+     "away": {
+      "name": "Deportivo",
+      "tla": "DEP",
+      "crest": "https://crests.football-data.org/560.png",
+      "elo": 1539
+     },
+     "score": null,
+     "prob": {
+      "home": 41,
+      "draw": 26,
+      "away": 33
+     }
+    },
+    {
+     "id": 564751,
+     "kickoff": "2026-11-21T15:15:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Rayo Vallecano",
+      "tla": "RAY",
+      "crest": "https://crests.football-data.org/87.png",
+      "elo": 1545
+     },
+     "away": {
+      "name": "Valencia",
+      "tla": "VAL",
+      "crest": "https://crests.football-data.org/95.png",
+      "elo": 1522
+     },
+     "score": null,
+     "prob": {
+      "home": 49,
+      "draw": 25,
+      "away": 26
+     }
+    },
+    {
+     "id": 564756,
+     "kickoff": "2026-11-21T17:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Sevilla FC",
+      "tla": "SEV",
+      "crest": "https://crests.football-data.org/559.png",
+      "elo": 1506
+     },
+     "away": {
+      "name": "Real Betis",
+      "tla": "BET",
+      "crest": "https://crests.football-data.org/90.png",
+      "elo": 1677
+     },
+     "score": null,
+     "prob": {
+      "home": 24,
+      "draw": 25,
+      "away": 51
+     }
+    },
+    {
+     "id": 564754,
+     "kickoff": "2026-11-21T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Real Madrid",
+      "tla": "RMA",
+      "crest": "https://crests.football-data.org/86.png",
+      "elo": 1863
+     },
+     "away": {
+      "name": "Celta",
+      "tla": "CEL",
+      "crest": "https://crests.football-data.org/558.png",
+      "elo": 1548
+     },
+     "score": null,
+     "prob": {
+      "home": 84,
+      "draw": 10,
+      "away": 6
+     }
+    },
+    {
+     "id": 564749,
+     "kickoff": "2026-11-22T13:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Barça",
+      "tla": "FCB",
+      "crest": "https://crests.football-data.org/81.png",
+      "elo": 1894
+     },
+     "away": {
+      "name": "Villarreal",
+      "tla": "VIL",
+      "crest": "https://crests.football-data.org/94.png",
+      "elo": 1632
+     },
+     "score": null,
+     "prob": {
+      "home": 79,
+      "draw": 13,
+      "away": 8
+     }
+    },
+    {
+     "id": 564750,
+     "kickoff": "2026-11-22T15:15:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Santander",
+      "tla": "SAN",
+      "crest": "https://crests.football-data.org/5335.png",
+      "elo": 1510
+     },
+     "away": {
+      "name": "Real Sociedad",
+      "tla": "RSO",
+      "crest": "https://crests.football-data.org/92.png",
+      "elo": 1569
+     },
+     "score": null,
+     "prob": {
+      "home": 37,
+      "draw": 27,
+      "away": 36
+     }
+    },
+    {
+     "id": 564752,
+     "kickoff": "2026-11-22T17:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Osasuna",
+      "tla": "OSA",
+      "crest": "https://crests.football-data.org/79.png",
+      "elo": 1475
+     },
+     "away": {
+      "name": "Málaga",
+      "tla": "MAL",
+      "crest": "https://crests.football-data.org/84.png",
+      "elo": 1463
+     },
+     "score": null,
+     "prob": {
+      "home": 47,
+      "draw": 26,
+      "away": 27
+     }
+    },
+    {
+     "id": 564753,
+     "kickoff": "2026-11-22T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Getafe",
+      "tla": "GET",
+      "crest": "https://crests.football-data.org/82.png",
+      "elo": 1503
+     },
+     "away": {
+      "name": "Atleti",
+      "tla": "ATL",
+      "crest": "https://crests.football-data.org/78.png",
+      "elo": 1713
+     },
+     "score": null,
+     "prob": {
+      "home": 20,
+      "draw": 23,
+      "away": 57
+     }
+    },
+    {
+     "id": 564757,
+     "kickoff": "2026-11-23T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Levante",
+      "tla": "LEV",
+      "crest": "https://crests.football-data.org/88.png",
+      "elo": 1517
+     },
+     "away": {
+      "name": "Elche",
+      "tla": "ELC",
+      "crest": "https://crests.football-data.org/285.png",
+      "elo": 1509
+     },
+     "score": null,
+     "prob": {
+      "home": 47,
+      "draw": 26,
+      "away": 27
+     }
+    },
+    {
+     "id": 564765,
+     "kickoff": "2026-11-27T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Levante",
+      "tla": "LEV",
+      "crest": "https://crests.football-data.org/88.png",
+      "elo": 1517
+     },
+     "away": {
+      "name": "Santander",
+      "tla": "SAN",
+      "crest": "https://crests.football-data.org/5335.png",
+      "elo": 1510
+     },
+     "score": null,
+     "prob": {
+      "home": 47,
+      "draw": 26,
+      "away": 27
+     }
+    },
+    {
+     "id": 564760,
+     "kickoff": "2026-11-28T13:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Real Betis",
+      "tla": "BET",
+      "crest": "https://crests.football-data.org/90.png",
+      "elo": 1677
+     },
+     "away": {
+      "name": "Rayo Vallecano",
+      "tla": "RAY",
+      "crest": "https://crests.football-data.org/87.png",
+      "elo": 1545
+     },
+     "score": null,
+     "prob": {
+      "home": 64,
+      "draw": 20,
+      "away": 16
+     }
+    },
+    {
+     "id": 564767,
+     "kickoff": "2026-11-28T15:15:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Málaga",
+      "tla": "MAL",
+      "crest": "https://crests.football-data.org/84.png",
+      "elo": 1463
+     },
+     "away": {
+      "name": "Athletic",
+      "tla": "ATH",
+      "crest": "https://crests.football-data.org/77.png",
+      "elo": 1563
+     },
+     "score": null,
+     "prob": {
+      "home": 32,
+      "draw": 27,
+      "away": 41
+     }
+    },
+    {
+     "id": 564759,
+     "kickoff": "2026-11-28T17:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Elche",
+      "tla": "ELC",
+      "crest": "https://crests.football-data.org/285.png",
+      "elo": 1509
+     },
+     "away": {
+      "name": "Atleti",
+      "tla": "ATL",
+      "crest": "https://crests.football-data.org/78.png",
+      "elo": 1713
+     },
+     "score": null,
+     "prob": {
+      "home": 21,
+      "draw": 23,
+      "away": 56
+     }
+    },
+    {
+     "id": 564762,
+     "kickoff": "2026-11-28T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Real Madrid",
+      "tla": "RMA",
+      "crest": "https://crests.football-data.org/86.png",
+      "elo": 1863
+     },
+     "away": {
+      "name": "Alavés",
+      "tla": "ALA",
+      "crest": "https://crests.football-data.org/263.png",
+      "elo": 1504
+     },
+     "score": null,
+     "prob": {
+      "home": 87,
+      "draw": 8,
+      "away": 5
+     }
+    },
+    {
+     "id": 564761,
+     "kickoff": "2026-11-29T13:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Valencia",
+      "tla": "VAL",
+      "crest": "https://crests.football-data.org/95.png",
+      "elo": 1522
+     },
+     "away": {
+      "name": "Osasuna",
+      "tla": "OSA",
+      "crest": "https://crests.football-data.org/79.png",
+      "elo": 1475
+     },
+     "score": null,
+     "prob": {
+      "home": 52,
+      "draw": 25,
+      "away": 23
+     }
+    },
+    {
+     "id": 564766,
+     "kickoff": "2026-11-29T15:15:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Deportivo",
+      "tla": "DEP",
+      "crest": "https://crests.football-data.org/560.png",
+      "elo": 1539
+     },
+     "away": {
+      "name": "Barça",
+      "tla": "FCB",
+      "crest": "https://crests.football-data.org/81.png",
+      "elo": 1894
+     },
+     "score": null,
+     "prob": {
+      "home": 10,
+      "draw": 15,
+      "away": 75
+     }
+    },
+    {
+     "id": 564758,
+     "kickoff": "2026-11-29T17:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Celta",
+      "tla": "CEL",
+      "crest": "https://crests.football-data.org/558.png",
+      "elo": 1548
+     },
+     "away": {
+      "name": "Villarreal",
+      "tla": "VIL",
+      "crest": "https://crests.football-data.org/94.png",
+      "elo": 1632
+     },
+     "score": null,
+     "prob": {
+      "home": 34,
+      "draw": 27,
+      "away": 39
+     }
+    },
+    {
+     "id": 564764,
+     "kickoff": "2026-11-29T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Real Sociedad",
+      "tla": "RSO",
+      "crest": "https://crests.football-data.org/92.png",
+      "elo": 1569
+     },
+     "away": {
+      "name": "Sevilla FC",
+      "tla": "SEV",
+      "crest": "https://crests.football-data.org/559.png",
+      "elo": 1506
+     },
+     "score": null,
+     "prob": {
+      "home": 54,
+      "draw": 24,
+      "away": 22
+     }
+    },
+    {
+     "id": 564763,
+     "kickoff": "2026-11-30T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Espanyol",
+      "tla": "ESP",
+      "crest": "https://crests.football-data.org/80.png",
+      "elo": 1492
+     },
+     "away": {
+      "name": "Getafe",
+      "tla": "GET",
+      "crest": "https://crests.football-data.org/82.png",
+      "elo": 1503
+     },
+     "score": null,
+     "prob": {
+      "home": 44,
+      "draw": 26,
+      "away": 30
+     }
+    }
+   ],
+   "table": [
+    {
+     "team": "Barça",
+     "tla": "FCB",
+     "crest": "https://crests.football-data.org/81.png",
+     "p": 12,
+     "w": 11,
+     "d": 0,
+     "l": 1,
+     "gf": 48,
+     "ga": 13,
+     "pts": 33,
+     "form": [
+      "W",
+      "W",
+      "L",
+      "W",
+      "W"
+     ],
+     "pos": 1,
+     "gd": 35
+    },
+    {
      "team": "Real Madrid",
-     "tla": "REA",
+     "tla": "RMA",
+     "crest": "https://crests.football-data.org/86.png",
+     "p": 12,
+     "w": 10,
+     "d": 0,
+     "l": 2,
+     "gf": 31,
+     "ga": 10,
+     "pts": 30,
+     "form": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+     ],
+     "pos": 2,
+     "gd": 21
+    },
+    {
+     "team": "Atleti",
+     "tla": "ATL",
+     "crest": "https://crests.football-data.org/78.png",
+     "p": 12,
+     "w": 9,
+     "d": 1,
+     "l": 2,
+     "gf": 23,
+     "ga": 10,
+     "pts": 28,
+     "form": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "L"
+     ],
+     "pos": 3,
+     "gd": 13
+    },
+    {
+     "team": "Real Betis",
+     "tla": "BET",
+     "crest": "https://crests.football-data.org/90.png",
+     "p": 12,
+     "w": 8,
+     "d": 2,
+     "l": 2,
+     "gf": 20,
+     "ga": 15,
+     "pts": 26,
+     "form": [
+      "W",
+      "L",
+      "D",
+      "W",
+      "W"
+     ],
+     "pos": 4,
+     "gd": 5
+    },
+    {
+     "team": "Real Sociedad",
+     "tla": "RSO",
+     "crest": "https://crests.football-data.org/92.png",
+     "p": 12,
+     "w": 7,
+     "d": 1,
+     "l": 4,
+     "gf": 21,
+     "ga": 20,
+     "pts": 22,
+     "form": [
+      "W",
+      "W",
+      "W",
+      "L",
+      "W"
+     ],
+     "pos": 5,
+     "gd": 1
+    },
+    {
+     "team": "Sevilla FC",
+     "tla": "SEV",
+     "crest": "https://crests.football-data.org/559.png",
+     "p": 12,
+     "w": 5,
+     "d": 3,
+     "l": 4,
+     "gf": 17,
+     "ga": 19,
+     "pts": 18,
+     "form": [
+      "D",
+      "L",
+      "W",
+      "L",
+      "D"
+     ],
+     "pos": 6,
+     "gd": -2
+    },
+    {
+     "team": "Athletic",
+     "tla": "ATH",
+     "crest": "https://crests.football-data.org/77.png",
+     "p": 11,
+     "w": 4,
+     "d": 4,
+     "l": 3,
+     "gf": 15,
+     "ga": 11,
+     "pts": 16,
+     "form": [
+      "D",
+      "L",
+      "W",
+      "W",
+      "D"
+     ],
+     "pos": 7,
+     "gd": 4
+    },
+    {
+     "team": "Villarreal",
+     "tla": "VIL",
+     "crest": "https://crests.football-data.org/94.png",
+     "p": 12,
+     "w": 4,
+     "d": 3,
+     "l": 5,
+     "gf": 17,
+     "ga": 15,
+     "pts": 15,
+     "form": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "W"
+     ],
+     "pos": 8,
+     "gd": 2
+    },
+    {
+     "team": "Deportivo",
+     "tla": "DEP",
+     "crest": "https://crests.football-data.org/560.png",
+     "p": 12,
+     "w": 3,
+     "d": 6,
+     "l": 3,
+     "gf": 15,
+     "ga": 14,
+     "pts": 15,
+     "form": [
+      "L",
+      "D",
+      "L",
+      "W",
+      "D"
+     ],
+     "pos": 9,
+     "gd": 1
+    },
+    {
+     "team": "Santander",
+     "tla": "SAN",
+     "crest": "https://crests.football-data.org/5335.png",
+     "p": 12,
+     "w": 4,
+     "d": 2,
+     "l": 6,
+     "gf": 17,
+     "ga": 30,
+     "pts": 14,
+     "form": [
+      "D",
+      "L",
+      "W",
+      "L",
+      "W"
+     ],
+     "pos": 10,
+     "gd": -13
+    },
+    {
+     "team": "Celta",
+     "tla": "CEL",
+     "crest": "https://crests.football-data.org/558.png",
+     "p": 12,
+     "w": 2,
+     "d": 7,
+     "l": 3,
+     "gf": 10,
+     "ga": 10,
+     "pts": 13,
+     "form": [
+      "D",
+      "W",
+      "D",
+      "L",
+      "D"
+     ],
+     "pos": 11,
+     "gd": 0
+    },
+    {
+     "team": "Alavés",
+     "tla": "ALA",
+     "crest": "https://crests.football-data.org/263.png",
+     "p": 12,
+     "w": 3,
+     "d": 4,
+     "l": 5,
+     "gf": 15,
+     "ga": 17,
+     "pts": 13,
+     "form": [
+      "L",
+      "L",
+      "D",
+      "L",
+      "D"
+     ],
+     "pos": 12,
+     "gd": -2
+    },
+    {
+     "team": "Espanyol",
+     "tla": "ESP",
+     "crest": "https://crests.football-data.org/80.png",
+     "p": 12,
+     "w": 3,
+     "d": 3,
+     "l": 6,
+     "gf": 13,
+     "ga": 14,
+     "pts": 12,
+     "form": [
+      "D",
+      "L",
+      "L",
+      "W",
+      "D"
+     ],
+     "pos": 13,
+     "gd": -1
+    },
+    {
+     "team": "Rayo Vallecano",
+     "tla": "RAY",
+     "crest": "https://crests.football-data.org/87.png",
+     "p": 11,
+     "w": 3,
+     "d": 3,
+     "l": 5,
+     "gf": 15,
+     "ga": 21,
+     "pts": 12,
+     "form": [
+      "D",
+      "D",
+      "L",
+      "W",
+      "L"
+     ],
+     "pos": 14,
+     "gd": -6
+    },
+    {
+     "team": "Getafe",
+     "tla": "GET",
+     "crest": "https://crests.football-data.org/82.png",
+     "p": 12,
+     "w": 3,
+     "d": 3,
+     "l": 6,
+     "gf": 8,
+     "ga": 18,
+     "pts": 12,
+     "form": [
+      "L",
+      "D",
+      "L",
+      "W",
+      "L"
+     ],
+     "pos": 15,
+     "gd": -10
+    },
+    {
+     "team": "Osasuna",
+     "tla": "OSA",
+     "crest": "https://crests.football-data.org/79.png",
+     "p": 12,
+     "w": 3,
+     "d": 3,
+     "l": 6,
+     "gf": 12,
+     "ga": 23,
+     "pts": 12,
+     "form": [
+      "L",
+      "W",
+      "L",
+      "L",
+      "D"
+     ],
+     "pos": 16,
+     "gd": -11
+    },
+    {
+     "team": "Levante",
+     "tla": "LEV",
+     "crest": "https://crests.football-data.org/88.png",
+     "p": 12,
+     "w": 2,
+     "d": 5,
+     "l": 5,
+     "gf": 16,
+     "ga": 21,
+     "pts": 11,
+     "form": [
+      "D",
+      "W",
+      "L",
+      "L",
+      "D"
+     ],
+     "pos": 17,
+     "gd": -5
+    },
+    {
+     "team": "Elche",
+     "tla": "ELC",
+     "crest": "https://crests.football-data.org/285.png",
+     "p": 12,
+     "w": 2,
+     "d": 4,
+     "l": 6,
+     "gf": 14,
+     "ga": 20,
+     "pts": 10,
+     "form": [
+      "D",
+      "D",
+      "W",
+      "L",
+      "L"
+     ],
+     "pos": 18,
+     "gd": -6
+    },
+    {
+     "team": "Valencia",
+     "tla": "VAL",
+     "crest": "https://crests.football-data.org/95.png",
+     "p": 12,
+     "w": 2,
+     "d": 3,
+     "l": 7,
+     "gf": 8,
+     "ga": 20,
+     "pts": 9,
+     "form": [
+      "D",
+      "D",
+      "L",
+      "W",
+      "L"
+     ],
+     "pos": 19,
+     "gd": -12
+    },
+    {
+     "team": "Málaga",
+     "tla": "MAL",
+     "crest": "https://crests.football-data.org/84.png",
+     "p": 12,
+     "w": 0,
+     "d": 5,
+     "l": 7,
+     "gf": 9,
+     "ga": 23,
+     "pts": 5,
+     "form": [
+      "D",
+      "L",
+      "D",
+      "L",
+      "L"
+     ],
+     "pos": 20,
+     "gd": -14
+    }
+   ]
+  },
+  {
+   "code": "CL",
+   "name": "Champions League",
+   "matches": [
+    {
+     "id": 575395,
+     "kickoff": "2026-11-24T17:45:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Galatasaray",
+      "tla": "GAL",
+      "crest": "https://crests.football-data.org/610.png",
+      "elo": 1496
+     },
+     "away": {
+      "name": "Aston Villa",
+      "tla": "AVL",
+      "crest": "https://crests.football-data.org/58.png",
+      "elo": 1648
+     },
+     "score": null,
+     "prob": {
+      "home": 26,
+      "draw": 25,
+      "away": 49
+     }
+    },
+    {
+     "id": 575396,
+     "kickoff": "2026-11-24T17:45:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Bodø/Glimt",
+      "tla": "FK",
+      "crest": "https://crests.football-data.org/5721.png",
+      "elo": 1480
+     },
+     "away": {
+      "name": "LASK",
+      "tla": "LIN",
+      "crest": "https://crests.football-data.org/2016.png",
+      "elo": 1479
+     },
+     "score": null,
+     "prob": {
+      "home": 46,
+      "draw": 26,
+      "away": 28
+     }
+    },
+    {
+     "id": 575397,
+     "kickoff": "2026-11-24T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Real Madrid",
+      "tla": "RMA",
+      "crest": "https://crests.football-data.org/86.png",
+      "elo": 1863
+     },
+     "away": {
+      "name": "PSV",
+      "tla": "PSV",
+      "crest": "https://crests.football-data.org/674.png",
+      "elo": 1464
+     },
+     "score": null,
+     "prob": {
+      "home": 89,
+      "draw": 7,
+      "away": 4
+     }
+    },
+    {
+     "id": 575398,
+     "kickoff": "2026-11-24T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Man City",
+      "tla": "MCI",
+      "crest": "https://crests.football-data.org/65.png",
+      "elo": 1773
+     },
+     "away": {
+      "name": "Napoli",
+      "tla": "NAP",
+      "crest": "https://crests.football-data.org/113.png",
+      "elo": 1635
+     },
+     "score": null,
+     "prob": {
+      "home": 65,
+      "draw": 20,
+      "away": 15
+     }
+    },
+    {
+     "id": 575399,
+     "kickoff": "2026-11-24T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Arsenal",
+      "tla": "ARS",
+      "crest": "https://crests.football-data.org/57.png",
+      "elo": 1854
+     },
+     "away": {
+      "name": "Dortmund",
+      "tla": "BVB",
+      "crest": "https://crests.football-data.org/4.png",
+      "elo": 1756
+     },
+     "score": null,
+     "prob": {
+      "home": 60,
+      "draw": 22,
+      "away": 18
+     }
+    },
+    {
+     "id": 575400,
+     "kickoff": "2026-11-24T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Feyenoord",
+      "tla": "FEY",
+      "crest": "https://crests.football-data.org/675.png",
+      "elo": 1471
+     },
+     "away": {
+      "name": "Porto",
+      "tla": "FCP",
+      "crest": "https://crests.football-data.org/503.png",
+      "elo": 1473
+     },
+     "score": null,
+     "prob": {
+      "home": 45,
+      "draw": 26,
+      "away": 29
+     }
+    },
+    {
+     "id": 575401,
+     "kickoff": "2026-11-24T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Sl. Bratislava",
+      "tla": "SBA",
+      "crest": "https://crests.football-data.org/7509.png",
+      "elo": 1432
+     },
+     "away": {
+      "name": "Real Betis",
+      "tla": "BET",
+      "crest": "https://crests.football-data.org/90.png",
+      "elo": 1677
+     },
+     "score": null,
+     "prob": {
+      "home": 17,
+      "draw": 21,
+      "away": 62
+     }
+    },
+    {
+     "id": 575402,
+     "kickoff": "2026-11-24T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "RB Leipzig",
+      "tla": "RBL",
+      "crest": "https://crests.football-data.org/721.png",
+      "elo": 1645
+     },
+     "away": {
+      "name": "RC Lens",
+      "tla": "RCL",
+      "crest": "https://crests.football-data.org/546.png",
+      "elo": 1578
+     },
+     "score": null,
+     "prob": {
+      "home": 55,
+      "draw": 24,
+      "away": 21
+     }
+    },
+    {
+     "id": 575403,
+     "kickoff": "2026-11-24T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Como 1907",
+      "tla": "COM",
+      "crest": "https://crests.football-data.org/7397.png",
+      "elo": 1731
+     },
+     "away": {
+      "name": "PAE AEK",
+      "tla": "AEK",
+      "crest": "https://crests.football-data.org/1899.png",
+      "elo": 1459
+     },
+     "score": null,
+     "prob": {
+      "home": 80,
+      "draw": 12,
+      "away": 8
+     }
+    },
+    {
+     "id": 575404,
+     "kickoff": "2026-11-25T17:45:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Sabah FK",
+      "tla": "SAB",
+      "crest": "https://crests.football-data.org/10233.png",
+      "elo": 1455
+     },
+     "away": {
+      "name": "Barça",
+      "tla": "FCB",
+      "crest": "https://crests.football-data.org/81.png",
+      "elo": 1894
+     },
+     "score": null,
+     "prob": {
+      "home": 6,
+      "draw": 11,
+      "away": 83
+     }
+    },
+    {
+     "id": 575405,
+     "kickoff": "2026-11-25T17:45:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Slavia Praha",
+      "tla": "SLP",
+      "crest": "https://crests.football-data.org/930.png",
+      "elo": 1449
+     },
+     "away": {
+      "name": "Villarreal",
+      "tla": "VIL",
+      "crest": "https://crests.football-data.org/94.png",
+      "elo": 1632
+     },
+     "score": null,
+     "prob": {
+      "home": 23,
+      "draw": 24,
+      "away": 53
+     }
+    },
+    {
+     "id": 575406,
+     "kickoff": "2026-11-25T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Inter",
+      "tla": "INT",
+      "crest": "https://crests.football-data.org/108.png",
+      "elo": 1824
+     },
+     "away": {
+      "name": "Stuttgart",
+      "tla": "VFB",
+      "crest": "https://crests.football-data.org/10.png",
+      "elo": 1647
+     },
+     "score": null,
+     "prob": {
+      "home": 70,
+      "draw": 18,
+      "away": 12
+     }
+    },
+    {
+     "id": 575407,
+     "kickoff": "2026-11-25T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Atleti",
+      "tla": "ATL",
+      "crest": "https://crests.football-data.org/78.png",
+      "elo": 1713
+     },
+     "away": {
+      "name": "Viking",
+      "tla": "VIK",
+      "crest": "https://crests.football-data.org/5720.png",
+      "elo": 1480
+     },
+     "score": null,
+     "prob": {
+      "home": 76,
+      "draw": 14,
+      "away": 10
+     }
+    },
+    {
+     "id": 575408,
+     "kickoff": "2026-11-25T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "PSG",
+      "tla": "PSG",
+      "crest": "https://crests.football-data.org/524.png",
+      "elo": 1797
+     },
+     "away": {
+      "name": "Roma",
+      "tla": "ROM",
+      "crest": "https://crests.football-data.org/100.png",
+      "elo": 1741
+     },
+     "score": null,
+     "prob": {
+      "home": 54,
+      "draw": 24,
+      "away": 22
+     }
+    },
+    {
+     "id": 575409,
+     "kickoff": "2026-11-25T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Club Brugge",
+      "tla": "BRU",
+      "crest": "https://crests.football-data.org/851.png",
+      "elo": 1513
+     },
+     "away": {
+      "name": "Liverpool",
+      "tla": "LIV",
+      "crest": "https://crests.football-data.org/64.png",
+      "elo": 1704
+     },
+     "score": null,
+     "prob": {
+      "home": 22,
+      "draw": 24,
+      "away": 54
+     }
+    },
+    {
+     "id": 575410,
+     "kickoff": "2026-11-25T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Lille",
+      "tla": "LIL",
+      "crest": "https://crests.football-data.org/521.png",
+      "elo": 1618
+     },
+     "away": {
+      "name": "Bayern",
+      "tla": "FCB",
+      "crest": "https://crests.football-data.org/5.png",
+      "elo": 1893
+     },
+     "score": null,
+     "prob": {
+      "home": 15,
+      "draw": 19,
+      "away": 66
+     }
+    },
+    {
+     "id": 575411,
+     "kickoff": "2026-11-25T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Sporting CP",
+      "tla": "SPO",
+      "crest": "https://crests.football-data.org/498.png",
+      "elo": 1504
+     },
+     "away": {
+      "name": "Man United",
+      "tla": "MUN",
+      "crest": "https://crests.football-data.org/66.png",
+      "elo": 1606
+     },
+     "score": null,
+     "prob": {
+      "home": 32,
+      "draw": 26,
+      "away": 42
+     }
+    },
+    {
+     "id": 575412,
+     "kickoff": "2026-11-25T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 5,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Shaktar",
+      "tla": "SHD",
+      "crest": "https://crests.football-data.org/1887.png",
+      "elo": 1471
+     },
+     "away": {
+      "name": "Fenerbahçe",
+      "tla": "FEN",
+      "crest": "https://crests.football-data.org/613.png",
+      "elo": 1477
+     },
+     "score": null,
+     "prob": {
+      "home": 45,
+      "draw": 26,
+      "away": 29
+     }
+    }
+   ],
+   "table": [
+    {
+     "team": "PSG",
+     "tla": "PSG",
+     "crest": "https://crests.football-data.org/524.png",
+     "p": 4,
+     "w": 4,
+     "d": 0,
+     "l": 0,
+     "gf": 20,
+     "ga": 5,
+     "pts": 12,
+     "form": [
+      "W",
+      "W",
+      "W",
+      "W"
+     ],
+     "pos": 1,
+     "gd": 15
+    },
+    {
+     "team": "Real Madrid",
+     "tla": "RMA",
+     "crest": "https://crests.football-data.org/86.png",
+     "p": 4,
+     "w": 4,
+     "d": 0,
+     "l": 0,
+     "gf": 13,
+     "ga": 7,
+     "pts": 12,
+     "form": [
+      "W",
+      "W",
+      "W",
+      "W"
+     ],
+     "pos": 2,
+     "gd": 6
+    },
+    {
+     "team": "Arsenal",
+     "tla": "ARS",
+     "crest": "https://crests.football-data.org/57.png",
+     "p": 4,
+     "w": 3,
+     "d": 1,
+     "l": 0,
+     "gf": 8,
+     "ga": 3,
+     "pts": 10,
+     "form": [
+      "W",
+      "W",
+      "D",
+      "W"
+     ],
+     "pos": 3,
+     "gd": 5
+    },
+    {
+     "team": "Como 1907",
+     "tla": "COM",
+     "crest": "https://crests.football-data.org/7397.png",
+     "p": 4,
+     "w": 3,
+     "d": 0,
+     "l": 1,
+     "gf": 19,
+     "ga": 6,
+     "pts": 9,
+     "form": [
+      "W",
+      "L",
+      "W",
+      "W"
+     ],
+     "pos": 4,
+     "gd": 13
+    },
+    {
+     "team": "Barça",
+     "tla": "FCB",
+     "crest": "https://crests.football-data.org/81.png",
+     "p": 4,
+     "w": 3,
+     "d": 0,
+     "l": 1,
+     "gf": 14,
+     "ga": 6,
+     "pts": 9,
+     "form": [
+      "W",
+      "W",
+      "L",
+      "W"
+     ],
+     "pos": 5,
+     "gd": 8
+    },
+    {
+     "team": "Aston Villa",
+     "tla": "AVL",
+     "crest": "https://crests.football-data.org/58.png",
+     "p": 4,
+     "w": 3,
+     "d": 0,
+     "l": 1,
+     "gf": 12,
+     "ga": 6,
+     "pts": 9,
+     "form": [
+      "W",
+      "W",
+      "W",
+      "L"
+     ],
+     "pos": 6,
+     "gd": 6
+    },
+    {
+     "team": "Man City",
+     "tla": "MCI",
+     "crest": "https://crests.football-data.org/65.png",
+     "p": 4,
+     "w": 3,
+     "d": 0,
+     "l": 1,
+     "gf": 12,
+     "ga": 7,
+     "pts": 9,
+     "form": [
+      "W",
+      "L",
+      "W",
+      "W"
+     ],
+     "pos": 7,
+     "gd": 5
+    },
+    {
+     "team": "Liverpool",
+     "tla": "LIV",
+     "crest": "https://crests.football-data.org/64.png",
+     "p": 4,
+     "w": 3,
+     "d": 0,
+     "l": 1,
+     "gf": 14,
+     "ga": 10,
+     "pts": 9,
+     "form": [
+      "W",
+      "W",
+      "W",
+      "L"
+     ],
+     "pos": 8,
+     "gd": 4
+    },
+    {
+     "team": "Club Brugge",
+     "tla": "BRU",
+     "crest": "https://crests.football-data.org/851.png",
+     "p": 4,
+     "w": 3,
+     "d": 0,
+     "l": 1,
+     "gf": 11,
+     "ga": 7,
+     "pts": 9,
+     "form": [
+      "L",
+      "W",
+      "W",
+      "W"
+     ],
+     "pos": 9,
+     "gd": 4
+    },
+    {
+     "team": "Sporting CP",
+     "tla": "SPO",
+     "crest": "https://crests.football-data.org/498.png",
+     "p": 4,
+     "w": 3,
+     "d": 0,
+     "l": 1,
+     "gf": 8,
+     "ga": 4,
+     "pts": 9,
+     "form": [
+      "W",
+      "W",
+      "L",
+      "W"
+     ],
+     "pos": 10,
+     "gd": 4
+    },
+    {
+     "team": "Real Betis",
+     "tla": "BET",
+     "crest": "https://crests.football-data.org/90.png",
+     "p": 4,
+     "w": 3,
+     "d": 0,
+     "l": 1,
+     "gf": 8,
+     "ga": 6,
+     "pts": 9,
+     "form": [
+      "W",
+      "W",
+      "W",
+      "L"
+     ],
+     "pos": 11,
+     "gd": 2
+    },
+    {
+     "team": "Dortmund",
+     "tla": "BVB",
+     "crest": "https://crests.football-data.org/4.png",
+     "p": 4,
+     "w": 3,
+     "d": 0,
+     "l": 1,
+     "gf": 7,
+     "ga": 5,
+     "pts": 9,
+     "form": [
+      "W",
+      "L",
+      "W",
+      "W"
+     ],
+     "pos": 12,
+     "gd": 2
+    },
+    {
+     "team": "Bayern",
+     "tla": "FCB",
+     "crest": "https://crests.football-data.org/5.png",
+     "p": 4,
+     "w": 2,
+     "d": 2,
+     "l": 0,
+     "gf": 12,
+     "ga": 5,
+     "pts": 8,
+     "form": [
+      "W",
+      "D",
+      "D",
+      "W"
+     ],
+     "pos": 13,
+     "gd": 7
+    },
+    {
+     "team": "Stuttgart",
+     "tla": "VFB",
+     "crest": "https://crests.football-data.org/10.png",
+     "p": 4,
+     "w": 2,
+     "d": 1,
+     "l": 1,
+     "gf": 7,
+     "ga": 4,
+     "pts": 7,
+     "form": [
+      "W",
+      "W",
+      "D",
+      "L"
+     ],
+     "pos": 14,
+     "gd": 3
+    },
+    {
+     "team": "Inter",
+     "tla": "INT",
+     "crest": "https://crests.football-data.org/108.png",
+     "p": 4,
+     "w": 2,
+     "d": 0,
+     "l": 2,
+     "gf": 8,
+     "ga": 6,
+     "pts": 6,
+     "form": [
+      "L",
+      "L",
+      "W",
+      "W"
+     ],
+     "pos": 15,
+     "gd": 2
+    },
+    {
+     "team": "LASK",
+     "tla": "LIN",
+     "crest": "https://crests.football-data.org/2016.png",
+     "p": 4,
+     "w": 2,
+     "d": 0,
+     "l": 2,
+     "gf": 10,
+     "ga": 9,
+     "pts": 6,
+     "form": [
+      "L",
+      "L",
+      "W",
+      "W"
+     ],
+     "pos": 16,
+     "gd": 1
+    },
+    {
+     "team": "Man United",
+     "tla": "MUN",
+     "crest": "https://crests.football-data.org/66.png",
+     "p": 4,
+     "w": 2,
+     "d": 0,
+     "l": 2,
+     "gf": 8,
+     "ga": 8,
+     "pts": 6,
+     "form": [
+      "W",
+      "L",
+      "L",
+      "W"
+     ],
+     "pos": 17,
+     "gd": 0
+    },
+    {
+     "team": "Galatasaray",
+     "tla": "GAL",
+     "crest": "https://crests.football-data.org/610.png",
+     "p": 4,
+     "w": 2,
+     "d": 0,
+     "l": 2,
+     "gf": 8,
+     "ga": 9,
+     "pts": 6,
+     "form": [
+      "L",
+      "L",
+      "W",
+      "W"
+     ],
+     "pos": 18,
+     "gd": -1
+    },
+    {
+     "team": "Fenerbahçe",
+     "tla": "FEN",
+     "crest": "https://crests.football-data.org/613.png",
+     "p": 4,
+     "w": 1,
+     "d": 2,
+     "l": 1,
+     "gf": 6,
+     "ga": 11,
+     "pts": 5,
+     "form": [
+      "D",
+      "L",
+      "D",
+      "W"
+     ],
+     "pos": 19,
+     "gd": -5
+    },
+    {
+     "team": "Roma",
+     "tla": "ROM",
+     "crest": "https://crests.football-data.org/100.png",
      "p": 4,
      "w": 1,
      "d": 1,
      "l": 2,
-     "gf": 6,
+     "gf": 10,
      "ga": 8,
+     "pts": 4,
+     "form": [
+      "D",
+      "L",
+      "W",
+      "L"
+     ],
+     "pos": 20,
+     "gd": 2
+    },
+    {
+     "team": "Shaktar",
+     "tla": "SHD",
+     "crest": "https://crests.football-data.org/1887.png",
+     "p": 4,
+     "w": 1,
+     "d": 1,
+     "l": 2,
+     "gf": 4,
+     "ga": 4,
+     "pts": 4,
+     "form": [
+      "D",
+      "W",
+      "L",
+      "L"
+     ],
+     "pos": 21,
+     "gd": 0
+    },
+    {
+     "team": "Viking",
+     "tla": "VIK",
+     "crest": "https://crests.football-data.org/5720.png",
+     "p": 4,
+     "w": 1,
+     "d": 1,
+     "l": 2,
+     "gf": 9,
+     "ga": 10,
      "pts": 4,
      "form": [
       "L",
@@ -3094,37 +3262,59 @@
       "L",
       "W"
      ],
-     "pos": 12,
-     "gd": -2
+     "pos": 22,
+     "gd": -1
     },
     {
-     "team": "Benfica",
-     "tla": "BEN",
+     "team": "Atleti",
+     "tla": "ATL",
+     "crest": "https://crests.football-data.org/78.png",
+     "p": 4,
+     "w": 1,
+     "d": 1,
+     "l": 2,
+     "gf": 4,
+     "ga": 5,
+     "pts": 4,
+     "form": [
+      "L",
+      "W",
+      "D",
+      "L"
+     ],
+     "pos": 23,
+     "gd": -1
+    },
+    {
+     "team": "PSV",
+     "tla": "PSV",
+     "crest": "https://crests.football-data.org/674.png",
      "p": 4,
      "w": 1,
      "d": 1,
      "l": 2,
      "gf": 3,
-     "ga": 5,
+     "ga": 4,
      "pts": 4,
      "form": [
-      "W",
-      "L",
       "D",
+      "L",
+      "W",
       "L"
      ],
-     "pos": 13,
-     "gd": -2
+     "pos": 24,
+     "gd": -1
     },
     {
-     "team": "Sporting CP",
-     "tla": "SPO",
+     "team": "Bodø/Glimt",
+     "tla": "FK",
+     "crest": "https://crests.football-data.org/5721.png",
      "p": 4,
      "w": 1,
      "d": 1,
      "l": 2,
-     "gf": 6,
-     "ga": 11,
+     "gf": 4,
+     "ga": 9,
      "pts": 4,
      "form": [
       "L",
@@ -3132,18 +3322,79 @@
       "L",
       "D"
      ],
-     "pos": 14,
+     "pos": 25,
      "gd": -5
     },
     {
-     "team": "Barcelona",
-     "tla": "BAR",
+     "team": "Porto",
+     "tla": "FCP",
+     "crest": "https://crests.football-data.org/503.png",
      "p": 4,
      "w": 1,
      "d": 0,
      "l": 3,
-     "gf": 4,
-     "ga": 12,
+     "gf": 6,
+     "ga": 7,
+     "pts": 3,
+     "form": [
+      "L",
+      "L",
+      "L",
+      "W"
+     ],
+     "pos": 26,
+     "gd": -1
+    },
+    {
+     "team": "Napoli",
+     "tla": "NAP",
+     "crest": "https://crests.football-data.org/113.png",
+     "p": 4,
+     "w": 1,
+     "d": 0,
+     "l": 3,
+     "gf": 6,
+     "ga": 11,
+     "pts": 3,
+     "form": [
+      "L",
+      "L",
+      "W",
+      "L"
+     ],
+     "pos": 27,
+     "gd": -5
+    },
+    {
+     "team": "Villarreal",
+     "tla": "VIL",
+     "crest": "https://crests.football-data.org/94.png",
+     "p": 4,
+     "w": 1,
+     "d": 0,
+     "l": 3,
+     "gf": 8,
+     "ga": 14,
+     "pts": 3,
+     "form": [
+      "L",
+      "W",
+      "L",
+      "L"
+     ],
+     "pos": 28,
+     "gd": -6
+    },
+    {
+     "team": "PAE AEK",
+     "tla": "AEK",
+     "crest": "https://crests.football-data.org/1899.png",
+     "p": 4,
+     "w": 1,
+     "d": 0,
+     "l": 3,
+     "gf": 5,
+     "ga": 11,
      "pts": 3,
      "form": [
       "W",
@@ -3151,27 +3402,148 @@
       "L",
       "L"
      ],
-     "pos": 15,
-     "gd": -8
+     "pos": 29,
+     "gd": -6
     },
     {
-     "team": "Ajax",
-     "tla": "AJA",
+     "team": "RB Leipzig",
+     "tla": "RBL",
+     "crest": "https://crests.football-data.org/721.png",
      "p": 4,
-     "w": 0,
-     "d": 2,
-     "l": 2,
-     "gf": 4,
-     "ga": 6,
-     "pts": 2,
+     "w": 1,
+     "d": 0,
+     "l": 3,
+     "gf": 5,
+     "ga": 11,
+     "pts": 3,
      "form": [
       "L",
+      "W",
+      "L",
+      "L"
+     ],
+     "pos": 30,
+     "gd": -6
+    },
+    {
+     "team": "Sabah FK",
+     "tla": "SAB",
+     "crest": "https://crests.football-data.org/10233.png",
+     "p": 4,
+     "w": 1,
+     "d": 0,
+     "l": 3,
+     "gf": 4,
+     "ga": 10,
+     "pts": 3,
+     "form": [
+      "L",
+      "W",
+      "L",
+      "L"
+     ],
+     "pos": 31,
+     "gd": -6
+    },
+    {
+     "team": "Feyenoord",
+     "tla": "FEY",
+     "crest": "https://crests.football-data.org/675.png",
+     "p": 4,
+     "w": 1,
+     "d": 0,
+     "l": 3,
+     "gf": 4,
+     "ga": 11,
+     "pts": 3,
+     "form": [
+      "L",
+      "W",
+      "L",
+      "L"
+     ],
+     "pos": 32,
+     "gd": -7
+    },
+    {
+     "team": "RC Lens",
+     "tla": "RCL",
+     "crest": "https://crests.football-data.org/546.png",
+     "p": 4,
+     "w": 1,
+     "d": 0,
+     "l": 3,
+     "gf": 4,
+     "ga": 16,
+     "pts": 3,
+     "form": [
+      "W",
+      "L",
+      "L",
+      "L"
+     ],
+     "pos": 33,
+     "gd": -12
+    },
+    {
+     "team": "Slavia Praha",
+     "tla": "SLP",
+     "crest": "https://crests.football-data.org/930.png",
+     "p": 4,
+     "w": 0,
+     "d": 1,
+     "l": 3,
+     "gf": 5,
+     "ga": 9,
+     "pts": 1,
+     "form": [
+      "L",
+      "L",
       "D",
+      "L"
+     ],
+     "pos": 34,
+     "gd": -4
+    },
+    {
+     "team": "Lille",
+     "tla": "LIL",
+     "crest": "https://crests.football-data.org/521.png",
+     "p": 4,
+     "w": 0,
+     "d": 1,
+     "l": 3,
+     "gf": 4,
+     "ga": 10,
+     "pts": 1,
+     "form": [
+      "L",
+      "L",
       "L",
       "D"
      ],
-     "pos": 16,
-     "gd": -2
+     "pos": 35,
+     "gd": -6
+    },
+    {
+     "team": "Sl. Bratislava",
+     "tla": "SBA",
+     "crest": "https://crests.football-data.org/7509.png",
+     "p": 4,
+     "w": 0,
+     "d": 0,
+     "l": 4,
+     "gf": 1,
+     "ga": 17,
+     "pts": 0,
+     "form": [
+      "L",
+      "L",
+      "L",
+      "L"
+     ],
+     "pos": 36,
+     "gd": -16
     }
    ]
   }
