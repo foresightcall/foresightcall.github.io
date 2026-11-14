@@ -6,7 +6,7 @@
   var $ = function (s, r) { return (r || document).querySelector(s); };
   var esc = function (s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); };
   var app = $('#app'), client = null, data = null, tm;
-  document.querySelectorAll('[data-site-name]').forEach(function (e) { e.textContent = CFG.siteName || 'Pitchcall'; });
+  document.querySelectorAll('[data-site-name]').forEach(function (e) { e.textContent = CFG.siteName || 'Foresight Call'; });
 
   function toast(msg, err) {
     var t = $('#toast'); t.textContent = msg; t.hidden = false; t.className = 'toast' + (err ? ' err' : '');

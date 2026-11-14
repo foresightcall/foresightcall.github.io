@@ -1,8 +1,8 @@
-# Pitchcall: free football predictions site
+# Foresight Call: free football predictions site
 
 A mobile-friendly website with Premier League, La Liga and Champions League fixtures, Home / Draw / Away percentages from a rating model, and a pick-and-points game for your visitors. Everything runs on free services.
 
-The name "Pitchcall" is a placeholder. Change `siteName` in `config.js`.
+The site is called "Foresight Call". Change `siteName` in `config.js`.
 
 ## What is in the folder
 

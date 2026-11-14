@@ -1,7 +1,7 @@
 // Site settings. Edit this file to rename the site or connect the fan-voting database.
 window.SITE_CONFIG = {
   // Your site name. Change it here and it updates everywhere on the page.
-  siteName: "PITCHCALL",
+  siteName: "FORESIGHT CALL",
 
   // Fan voting (optional). Leave both empty to run in demo mode, where picks
   // are saved only in the visitor's own browser. See README.md, step 3.

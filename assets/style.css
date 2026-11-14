@@ -438,3 +438,5 @@ dialog.sheet::backdrop { background: rgba(3, 7, 18, .72); }
   .tabbar a[aria-current="page"] { color: var(--turf); }
   .toast { bottom: calc(78px + env(safe-area-inset-bottom)); }
 }
+.logo { white-space: nowrap; min-width: 0; }
+@media (max-width: 420px) { .logo { font-size: 1.3rem; gap: 8px; letter-spacing: .02em; } }
