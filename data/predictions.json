@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T13:07:49Z",
+ "generated_at": "2026-11-15T15:52:55Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -13,62 +13,6 @@
    "code": "PL",
    "name": "Premier League",
    "matches": [
-    {
-     "id": 560640,
-     "kickoff": "2026-11-07T15:00:00Z",
-     "status": "FINISHED",
-     "matchday": 10,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Arsenal",
-      "tla": "ARS",
-      "crest": "https://crests.football-data.org/57.png",
-      "elo": 1854
-     },
-     "away": {
-      "name": "Hull City",
-      "tla": "HUL",
-      "crest": "https://crests.football-data.org/322.png",
-      "elo": 1545
-     },
-     "score": {
-      "home": 1,
-      "away": 0
-     },
-     "prob": {
-      "home": 83,
-      "draw": 11,
-      "away": 6
-     }
-    },
-    {
-     "id": 560633,
-     "kickoff": "2026-11-07T15:00:00Z",
-     "status": "FINISHED",
-     "matchday": 10,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Fulham",
-      "tla": "FUL",
-      "crest": "https://crests.football-data.org/63.png",
-      "elo": 1552
-     },
-     "away": {
-      "name": "Newcastle",
-      "tla": "NEW",
-      "crest": "https://crests.football-data.org/67.png",
-      "elo": 1567
-     },
-     "score": {
-      "home": 1,
-      "away": 1
-     },
-     "prob": {
-      "home": 44,
-      "draw": 26,
-      "away": 30
-     }
-    },
     {
      "id": 560641,
      "kickoff": "2026-11-07T17:30:00Z",
@@ -1165,34 +1109,6 @@
    "code": "PD",
    "name": "La Liga",
    "matches": [
-    {
-     "id": 564745,
-     "kickoff": "2026-11-07T15:15:00Z",
-     "status": "FINISHED",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Espanyol",
-      "tla": "ESP",
-      "crest": "https://crests.football-data.org/80.png",
-      "elo": 1492
-     },
-     "away": {
-      "name": "Deportivo",
-      "tla": "DEP",
-      "crest": "https://crests.football-data.org/560.png",
-      "elo": 1539
-     },
-     "score": {
-      "home": 0,
-      "away": 0
-     },
-     "prob": {
-      "home": 39,
-      "draw": 27,
-      "away": 34
-     }
-    },
     {
      "id": 564739,
      "kickoff": "2026-11-07T17:30:00Z",
