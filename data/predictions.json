@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T22:39:30Z",
+ "generated_at": "2026-11-15T13:07:49Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -13,34 +13,6 @@
    "code": "PL",
    "name": "Premier League",
    "matches": [
-    {
-     "id": 560632,
-     "kickoff": "2026-11-07T12:30:00Z",
-     "status": "FINISHED",
-     "matchday": 10,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Leeds United",
-      "tla": "LEE",
-      "crest": "https://crests.football-data.org/341.png",
-      "elo": 1583
-     },
-     "away": {
-      "name": "Tottenham",
-      "tla": "TOT",
-      "crest": "https://crests.football-data.org/73.png",
-      "elo": 1513
-     },
-     "score": {
-      "home": 1,
-      "away": 0
-     },
-     "prob": {
-      "home": 54,
-      "draw": 24,
-      "away": 22
-     }
-    },
     {
      "id": 560640,
      "kickoff": "2026-11-07T15:00:00Z",
@@ -1193,34 +1165,6 @@
    "code": "PD",
    "name": "La Liga",
    "matches": [
-    {
-     "id": 564744,
-     "kickoff": "2026-11-07T13:00:00Z",
-     "status": "FINISHED",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Málaga",
-      "tla": "MAL",
-      "crest": "https://crests.football-data.org/84.png",
-      "elo": 1463
-     },
-     "away": {
-      "name": "Santander",
-      "tla": "SAN",
-      "crest": "https://crests.football-data.org/5335.png",
-      "elo": 1510
-     },
-     "score": {
-      "home": 1,
-      "away": 2
-     },
-     "prob": {
-      "home": 42,
-      "draw": 27,
-      "away": 31
-     }
-    },
     {
      "id": 564745,
      "kickoff": "2026-11-07T15:15:00Z",
