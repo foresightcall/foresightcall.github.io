@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T18:58:52Z",
+ "generated_at": "2026-11-15T21:51:18Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -652,6 +652,31 @@
       "draw": 23,
       "away": 20
      }
+    },
+    {
+     "id": 560668,
+     "kickoff": "2026-12-01T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Coventry City",
+      "tla": "COV",
+      "crest": "https://crests.football-data.org/1076.png",
+      "elo": 1510
+     },
+     "away": {
+      "name": "Ipswich Town",
+      "tla": "IPS",
+      "crest": "https://crests.football-data.org/349.png",
+      "elo": 1402
+     },
+     "score": null,
+     "prob": {
+      "home": 61,
+      "draw": 21,
+      "away": 18
+     }
     }
    ],
    "table": [
@@ -1081,34 +1106,6 @@
    "code": "PD",
    "name": "La Liga",
    "matches": [
-    {
-     "id": 564741,
-     "kickoff": "2026-11-07T20:00:00Z",
-     "status": "FINISHED",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Valencia",
-      "tla": "VAL",
-      "crest": "https://crests.football-data.org/95.png",
-      "elo": 1522
-     },
-     "away": {
-      "name": "Real Madrid",
-      "tla": "RMA",
-      "crest": "https://crests.football-data.org/86.png",
-      "elo": 1863
-     },
-     "score": {
-      "home": 0,
-      "away": 3
-     },
-     "prob": {
-      "home": 11,
-      "draw": 17,
-      "away": 72
-     }
-    },
     {
      "id": 564738,
      "kickoff": "2026-11-08T13:00:00Z",
