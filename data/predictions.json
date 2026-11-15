@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T15:52:55Z",
+ "generated_at": "2026-11-15T18:58:52Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -13,34 +13,6 @@
    "code": "PL",
    "name": "Premier League",
    "matches": [
-    {
-     "id": 560641,
-     "kickoff": "2026-11-07T17:30:00Z",
-     "status": "FINISHED",
-     "matchday": 10,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Nottingham",
-      "tla": "NOT",
-      "crest": "https://crests.football-data.org/351.png",
-      "elo": 1560
-     },
-     "away": {
-      "name": "Man City",
-      "tla": "MCI",
-      "crest": "https://crests.football-data.org/65.png",
-      "elo": 1773
-     },
-     "score": {
-      "home": 3,
-      "away": 1
-     },
-     "prob": {
-      "home": 16,
-      "draw": 20,
-      "away": 64
-     }
-    },
     {
      "id": 560635,
      "kickoff": "2026-11-08T14:00:00Z",
@@ -1109,34 +1081,6 @@
    "code": "PD",
    "name": "La Liga",
    "matches": [
-    {
-     "id": 564739,
-     "kickoff": "2026-11-07T17:30:00Z",
-     "status": "FINISHED",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Osasuna",
-      "tla": "OSA",
-      "crest": "https://crests.football-data.org/79.png",
-      "elo": 1475
-     },
-     "away": {
-      "name": "Athletic",
-      "tla": "ATH",
-      "crest": "https://crests.football-data.org/77.png",
-      "elo": 1563
-     },
-     "score": {
-      "home": 1,
-      "away": 1
-     },
-     "prob": {
-      "home": 33,
-      "draw": 27,
-      "away": 40
-     }
-    },
     {
      "id": 564741,
      "kickoff": "2026-11-07T20:00:00Z",
