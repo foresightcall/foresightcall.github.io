@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T21:51:18Z",
+ "generated_at": "2026-11-16T15:20:17Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -13,118 +13,6 @@
    "code": "PL",
    "name": "Premier League",
    "matches": [
-    {
-     "id": 560635,
-     "kickoff": "2026-11-08T14:00:00Z",
-     "status": "FINISHED",
-     "matchday": 10,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Crystal Palace",
-      "tla": "CRY",
-      "crest": "https://crests.football-data.org/354.png",
-      "elo": 1489
-     },
-     "away": {
-      "name": "Liverpool",
-      "tla": "LIV",
-      "crest": "https://crests.football-data.org/64.png",
-      "elo": 1704
-     },
-     "score": {
-      "home": 1,
-      "away": 3
-     },
-     "prob": {
-      "home": 21,
-      "draw": 24,
-      "away": 55
-     }
-    },
-    {
-     "id": 560636,
-     "kickoff": "2026-11-08T14:00:00Z",
-     "status": "FINISHED",
-     "matchday": 10,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Sunderland",
-      "tla": "SUN",
-      "crest": "https://crests.football-data.org/71.png",
-      "elo": 1520
-     },
-     "away": {
-      "name": "Chelsea",
-      "tla": "CHE",
-      "crest": "https://crests.football-data.org/61.png",
-      "elo": 1603
-     },
-     "score": {
-      "home": 1,
-      "away": 0
-     },
-     "prob": {
-      "home": 31,
-      "draw": 27,
-      "away": 42
-     }
-    },
-    {
-     "id": 560637,
-     "kickoff": "2026-11-08T14:00:00Z",
-     "status": "FINISHED",
-     "matchday": 10,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Ipswich Town",
-      "tla": "IPS",
-      "crest": "https://crests.football-data.org/349.png",
-      "elo": 1402
-     },
-     "away": {
-      "name": "Bournemouth",
-      "tla": "BOU",
-      "crest": "https://crests.football-data.org/bournemouth.png",
-      "elo": 1650
-     },
-     "score": {
-      "home": 1,
-      "away": 2
-     },
-     "prob": {
-      "home": 18,
-      "draw": 21,
-      "away": 61
-     }
-    },
-    {
-     "id": 560638,
-     "kickoff": "2026-11-08T14:00:00Z",
-     "status": "FINISHED",
-     "matchday": 10,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Brighton Hove",
-      "tla": "BHA",
-      "crest": "https://crests.football-data.org/397.png",
-      "elo": 1687
-     },
-     "away": {
-      "name": "Brentford",
-      "tla": "BRE",
-      "crest": "https://crests.football-data.org/402.png",
-      "elo": 1608
-     },
-     "score": {
-      "home": 2,
-      "away": 0
-     },
-     "prob": {
-      "home": 54,
-      "draw": 24,
-      "away": 22
-     }
-    },
     {
      "id": 560639,
      "kickoff": "2026-11-08T16:30:00Z",
@@ -1106,62 +994,6 @@
    "code": "PD",
    "name": "La Liga",
    "matches": [
-    {
-     "id": 564738,
-     "kickoff": "2026-11-08T13:00:00Z",
-     "status": "FINISHED",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Elche",
-      "tla": "ELC",
-      "crest": "https://crests.football-data.org/285.png",
-      "elo": 1509
-     },
-     "away": {
-      "name": "Real Betis",
-      "tla": "BET",
-      "crest": "https://crests.football-data.org/90.png",
-      "elo": 1677
-     },
-     "score": {
-      "home": 0,
-      "away": 2
-     },
-     "prob": {
-      "home": 27,
-      "draw": 25,
-      "away": 48
-     }
-    },
-    {
-     "id": 564743,
-     "kickoff": "2026-11-08T15:15:00Z",
-     "status": "FINISHED",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Real Sociedad",
-      "tla": "RSO",
-      "crest": "https://crests.football-data.org/92.png",
-      "elo": 1569
-     },
-     "away": {
-      "name": "Rayo Vallecano",
-      "tla": "RAY",
-      "crest": "https://crests.football-data.org/87.png",
-      "elo": 1545
-     },
-     "score": {
-      "home": 1,
-      "away": 0
-     },
-     "prob": {
-      "home": 47,
-      "draw": 26,
-      "away": 27
-     }
-    },
     {
      "id": 564742,
      "kickoff": "2026-11-08T17:30:00Z",
