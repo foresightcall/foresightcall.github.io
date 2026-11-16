@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T15:20:17Z",
+ "generated_at": "2026-11-16T19:11:12Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -13,34 +13,6 @@
    "code": "PL",
    "name": "Premier League",
    "matches": [
-    {
-     "id": 560639,
-     "kickoff": "2026-11-08T16:30:00Z",
-     "status": "FINISHED",
-     "matchday": 10,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Man United",
-      "tla": "MUN",
-      "crest": "https://crests.football-data.org/66.png",
-      "elo": 1606
-     },
-     "away": {
-      "name": "Aston Villa",
-      "tla": "AVL",
-      "crest": "https://crests.football-data.org/58.png",
-      "elo": 1648
-     },
-     "score": {
-      "home": 4,
-      "away": 4
-     },
-     "prob": {
-      "home": 40,
-      "draw": 27,
-      "away": 33
-     }
-    },
     {
      "id": 560643,
      "kickoff": "2026-11-21T12:30:00Z",
@@ -995,62 +967,6 @@
    "name": "La Liga",
    "matches": [
     {
-     "id": 564742,
-     "kickoff": "2026-11-08T17:30:00Z",
-     "status": "FINISHED",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Celta",
-      "tla": "CEL",
-      "crest": "https://crests.football-data.org/558.png",
-      "elo": 1548
-     },
-     "away": {
-      "name": "Levante",
-      "tla": "LEV",
-      "crest": "https://crests.football-data.org/88.png",
-      "elo": 1517
-     },
-     "score": {
-      "home": 0,
-      "away": 0
-     },
-     "prob": {
-      "home": 51,
-      "draw": 25,
-      "away": 24
-     }
-    },
-    {
-     "id": 564747,
-     "kickoff": "2026-11-08T17:30:00Z",
-     "status": "FINISHED",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Villarreal",
-      "tla": "VIL",
-      "crest": "https://crests.football-data.org/94.png",
-      "elo": 1632
-     },
-     "away": {
-      "name": "Getafe",
-      "tla": "GET",
-      "crest": "https://crests.football-data.org/82.png",
-      "elo": 1503
-     },
-     "score": {
-      "home": 2,
-      "away": 0
-     },
-     "prob": {
-      "home": 62,
-      "draw": 21,
-      "away": 17
-     }
-    },
-    {
      "id": 564746,
      "kickoff": "2026-11-08T20:00:00Z",
      "status": "FINISHED",
@@ -1576,6 +1492,31 @@
       "home": 44,
       "draw": 26,
       "away": 30
+     }
+    },
+    {
+     "id": 564855,
+     "kickoff": "2026-12-02T18:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 23,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Real Sociedad",
+      "tla": "RSO",
+      "crest": "https://crests.football-data.org/92.png",
+      "elo": 1569
+     },
+     "away": {
+      "name": "Real Madrid",
+      "tla": "RMA",
+      "crest": "https://crests.football-data.org/86.png",
+      "elo": 1863
+     },
+     "score": null,
+     "prob": {
+      "home": 13,
+      "draw": 18,
+      "away": 69
      }
     }
    ],
