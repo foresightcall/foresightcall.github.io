@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T19:11:12Z",
+ "generated_at": "2026-11-16T21:59:24Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -537,6 +537,206 @@
       "draw": 21,
       "away": 18
      }
+    },
+    {
+     "id": 560663,
+     "kickoff": "2026-12-02T19:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Liverpool",
+      "tla": "LIV",
+      "crest": "https://crests.football-data.org/64.png",
+      "elo": 1704
+     },
+     "away": {
+      "name": "Sunderland",
+      "tla": "SUN",
+      "crest": "https://crests.football-data.org/71.png",
+      "elo": 1520
+     },
+     "score": null,
+     "prob": {
+      "home": 71,
+      "draw": 17,
+      "away": 12
+     }
+    },
+    {
+     "id": 560664,
+     "kickoff": "2026-12-02T19:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Hull City",
+      "tla": "HUL",
+      "crest": "https://crests.football-data.org/322.png",
+      "elo": 1545
+     },
+     "away": {
+      "name": "Nottingham",
+      "tla": "NOT",
+      "crest": "https://crests.football-data.org/351.png",
+      "elo": 1560
+     },
+     "score": null,
+     "prob": {
+      "home": 44,
+      "draw": 26,
+      "away": 30
+     }
+    },
+    {
+     "id": 560665,
+     "kickoff": "2026-12-02T19:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Chelsea",
+      "tla": "CHE",
+      "crest": "https://crests.football-data.org/61.png",
+      "elo": 1603
+     },
+     "away": {
+      "name": "Crystal Palace",
+      "tla": "CRY",
+      "crest": "https://crests.football-data.org/354.png",
+      "elo": 1489
+     },
+     "score": null,
+     "prob": {
+      "home": 62,
+      "draw": 21,
+      "away": 17
+     }
+    },
+    {
+     "id": 560669,
+     "kickoff": "2026-12-02T19:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Man City",
+      "tla": "MCI",
+      "crest": "https://crests.football-data.org/65.png",
+      "elo": 1773
+     },
+     "away": {
+      "name": "Leeds United",
+      "tla": "LEE",
+      "crest": "https://crests.football-data.org/341.png",
+      "elo": 1583
+     },
+     "score": null,
+     "prob": {
+      "home": 71,
+      "draw": 17,
+      "away": 12
+     }
+    },
+    {
+     "id": 560666,
+     "kickoff": "2026-12-02T20:15:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Aston Villa",
+      "tla": "AVL",
+      "crest": "https://crests.football-data.org/58.png",
+      "elo": 1648
+     },
+     "away": {
+      "name": "Everton",
+      "tla": "EVE",
+      "crest": "https://crests.football-data.org/62.png",
+      "elo": 1576
+     },
+     "score": null,
+     "prob": {
+      "home": 56,
+      "draw": 23,
+      "away": 21
+     }
+    },
+    {
+     "id": 560667,
+     "kickoff": "2026-12-02T20:15:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Brentford",
+      "tla": "BRE",
+      "crest": "https://crests.football-data.org/402.png",
+      "elo": 1608
+     },
+     "away": {
+      "name": "Arsenal",
+      "tla": "ARS",
+      "crest": "https://crests.football-data.org/57.png",
+      "elo": 1854
+     },
+     "score": null,
+     "prob": {
+      "home": 17,
+      "draw": 21,
+      "away": 62
+     }
+    },
+    {
+     "id": 560670,
+     "kickoff": "2026-12-02T20:15:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Newcastle",
+      "tla": "NEW",
+      "crest": "https://crests.football-data.org/67.png",
+      "elo": 1567
+     },
+     "away": {
+      "name": "Man United",
+      "tla": "MUN",
+      "crest": "https://crests.football-data.org/66.png",
+      "elo": 1606
+     },
+     "score": null,
+     "prob": {
+      "home": 40,
+      "draw": 27,
+      "away": 33
+     }
+    },
+    {
+     "id": 560671,
+     "kickoff": "2026-12-02T20:15:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Bournemouth",
+      "tla": "BOU",
+      "crest": "https://crests.football-data.org/bournemouth.png",
+      "elo": 1650
+     },
+     "away": {
+      "name": "Brighton Hove",
+      "tla": "BHA",
+      "crest": "https://crests.football-data.org/397.png",
+      "elo": 1687
+     },
+     "score": null,
+     "prob": {
+      "home": 40,
+      "draw": 27,
+      "away": 33
+     }
     }
    ],
    "table": [
@@ -966,34 +1166,6 @@
    "code": "PD",
    "name": "La Liga",
    "matches": [
-    {
-     "id": 564746,
-     "kickoff": "2026-11-08T20:00:00Z",
-     "status": "FINISHED",
-     "matchday": 12,
-     "stage": "REGULAR_SEASON",
-     "home": {
-      "name": "Atleti",
-      "tla": "ATL",
-      "crest": "https://crests.football-data.org/78.png",
-      "elo": 1713
-     },
-     "away": {
-      "name": "Barça",
-      "tla": "FCB",
-      "crest": "https://crests.football-data.org/81.png",
-      "elo": 1894
-     },
-     "score": {
-      "home": 1,
-      "away": 2
-     },
-     "prob": {
-      "home": 24,
-      "draw": 25,
-      "away": 51
-     }
-    },
     {
      "id": 564748,
      "kickoff": "2026-11-20T20:00:00Z",
@@ -1517,6 +1689,31 @@
       "home": 13,
       "draw": 18,
       "away": 69
+     }
+    },
+    {
+     "id": 564857,
+     "kickoff": "2026-12-02T20:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 23,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Barça",
+      "tla": "FCB",
+      "crest": "https://crests.football-data.org/81.png",
+      "elo": 1894
+     },
+     "away": {
+      "name": "Atleti",
+      "tla": "ATL",
+      "crest": "https://crests.football-data.org/78.png",
+      "elo": 1713
+     },
+     "score": null,
+     "prob": {
+      "home": 71,
+      "draw": 17,
+      "away": 12
      }
     }
    ],
