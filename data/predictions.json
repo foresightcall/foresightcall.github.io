@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T21:59:24Z",
+ "generated_at": "2026-11-17T22:04:49Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -730,6 +730,31 @@
       "tla": "BHA",
       "crest": "https://crests.football-data.org/397.png",
       "elo": 1687
+     },
+     "score": null,
+     "prob": {
+      "home": 40,
+      "draw": 27,
+      "away": 33
+     }
+    },
+    {
+     "id": 560662,
+     "kickoff": "2026-12-03T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 13,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Tottenham",
+      "tla": "TOT",
+      "crest": "https://crests.football-data.org/73.png",
+      "elo": 1513
+     },
+     "away": {
+      "name": "Fulham",
+      "tla": "FUL",
+      "crest": "https://crests.football-data.org/63.png",
+      "elo": 1552
      },
      "score": null,
      "prob": {
