@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T22:04:49Z",
+ "generated_at": "2026-11-18T22:02:15Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -1739,6 +1739,31 @@
       "home": 71,
       "draw": 17,
       "away": 12
+     }
+    },
+    {
+     "id": 564770,
+     "kickoff": "2026-12-04T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Alavés",
+      "tla": "ALA",
+      "crest": "https://crests.football-data.org/263.png",
+      "elo": 1504
+     },
+     "away": {
+      "name": "Espanyol",
+      "tla": "ESP",
+      "crest": "https://crests.football-data.org/80.png",
+      "elo": 1492
+     },
+     "score": null,
+     "prob": {
+      "home": 47,
+      "draw": 26,
+      "away": 27
      }
     }
    ],
