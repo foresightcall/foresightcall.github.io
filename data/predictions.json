@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T16:16:13Z",
+ "generated_at": "2026-11-19T19:13:35Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -886,6 +886,31 @@
       "home": 68,
       "draw": 18,
       "away": 14
+     }
+    },
+    {
+     "id": 560680,
+     "kickoff": "2026-12-05T17:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Nottingham",
+      "tla": "NOT",
+      "crest": "https://crests.football-data.org/351.png",
+      "elo": 1560
+     },
+     "away": {
+      "name": "Brighton Hove",
+      "tla": "BHA",
+      "crest": "https://crests.football-data.org/397.png",
+      "elo": 1687
+     },
+     "score": null,
+     "prob": {
+      "home": 29,
+      "draw": 26,
+      "away": 45
      }
     }
    ],
@@ -1939,6 +1964,31 @@
       "home": 50,
       "draw": 25,
       "away": 25
+     }
+    },
+    {
+     "id": 564776,
+     "kickoff": "2026-12-05T17:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Villarreal",
+      "tla": "VIL",
+      "crest": "https://crests.football-data.org/94.png",
+      "elo": 1632
+     },
+     "away": {
+      "name": "Real Sociedad",
+      "tla": "RSO",
+      "crest": "https://crests.football-data.org/92.png",
+      "elo": 1569
+     },
+     "score": null,
+     "prob": {
+      "home": 55,
+      "draw": 24,
+      "away": 21
      }
     }
    ],
