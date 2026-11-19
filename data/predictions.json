@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:31:48Z",
+ "generated_at": "2026-11-19T16:16:13Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -786,6 +786,106 @@
       "home": 32,
       "draw": 27,
       "away": 41
+     }
+    },
+    {
+     "id": 560673,
+     "kickoff": "2026-12-05T15:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Man United",
+      "tla": "MUN",
+      "crest": "https://crests.football-data.org/66.png",
+      "elo": 1606
+     },
+     "away": {
+      "name": "Coventry City",
+      "tla": "COV",
+      "crest": "https://crests.football-data.org/1076.png",
+      "elo": 1510
+     },
+     "score": null,
+     "prob": {
+      "home": 59,
+      "draw": 22,
+      "away": 19
+     }
+    },
+    {
+     "id": 560674,
+     "kickoff": "2026-12-05T15:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Leeds United",
+      "tla": "LEE",
+      "crest": "https://crests.football-data.org/341.png",
+      "elo": 1583
+     },
+     "away": {
+      "name": "Ipswich Town",
+      "tla": "IPS",
+      "crest": "https://crests.football-data.org/349.png",
+      "elo": 1402
+     },
+     "score": null,
+     "prob": {
+      "home": 71,
+      "draw": 17,
+      "away": 12
+     }
+    },
+    {
+     "id": 560678,
+     "kickoff": "2026-12-05T15:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Bournemouth",
+      "tla": "BOU",
+      "crest": "https://crests.football-data.org/bournemouth.png",
+      "elo": 1650
+     },
+     "away": {
+      "name": "Hull City",
+      "tla": "HUL",
+      "crest": "https://crests.football-data.org/322.png",
+      "elo": 1545
+     },
+     "score": null,
+     "prob": {
+      "home": 60,
+      "draw": 22,
+      "away": 18
+     }
+    },
+    {
+     "id": 560679,
+     "kickoff": "2026-12-05T15:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Aston Villa",
+      "tla": "AVL",
+      "crest": "https://crests.football-data.org/58.png",
+      "elo": 1648
+     },
+     "away": {
+      "name": "Crystal Palace",
+      "tla": "CRY",
+      "crest": "https://crests.football-data.org/354.png",
+      "elo": 1489
+     },
+     "score": null,
+     "prob": {
+      "home": 68,
+      "draw": 18,
+      "away": 14
      }
     }
    ],
@@ -1814,6 +1914,31 @@
       "home": 41,
       "draw": 27,
       "away": 32
+     }
+    },
+    {
+     "id": 564777,
+     "kickoff": "2026-12-05T15:15:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Rayo Vallecano",
+      "tla": "RAY",
+      "crest": "https://crests.football-data.org/87.png",
+      "elo": 1545
+     },
+     "away": {
+      "name": "Levante",
+      "tla": "LEV",
+      "crest": "https://crests.football-data.org/88.png",
+      "elo": 1517
+     },
+     "score": null,
+     "prob": {
+      "home": 50,
+      "draw": 25,
+      "away": 25
      }
     }
    ],
