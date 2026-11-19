@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T19:13:35Z",
+ "generated_at": "2026-11-19T22:02:09Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -911,6 +911,31 @@
       "home": 29,
       "draw": 26,
       "away": 45
+     }
+    },
+    {
+     "id": 560677,
+     "kickoff": "2026-12-05T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Brentford",
+      "tla": "BRE",
+      "crest": "https://crests.football-data.org/402.png",
+      "elo": 1608
+     },
+     "away": {
+      "name": "Man City",
+      "tla": "MCI",
+      "crest": "https://crests.football-data.org/65.png",
+      "elo": 1773
+     },
+     "score": null,
+     "prob": {
+      "home": 24,
+      "draw": 25,
+      "away": 51
      }
     }
    ],
@@ -1989,6 +2014,31 @@
       "home": 55,
       "draw": 24,
       "away": 21
+     }
+    },
+    {
+     "id": 564773,
+     "kickoff": "2026-12-05T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Barça",
+      "tla": "FCB",
+      "crest": "https://crests.football-data.org/81.png",
+      "elo": 1894
+     },
+     "away": {
+      "name": "Celta",
+      "tla": "CEL",
+      "crest": "https://crests.football-data.org/558.png",
+      "elo": 1548
+     },
+     "score": null,
+     "prob": {
+      "home": 86,
+      "draw": 9,
+      "away": 5
      }
     }
    ],
