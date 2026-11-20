@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T16:10:23Z",
+ "generated_at": "2026-11-20T19:16:00Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -986,6 +986,31 @@
       "home": 49,
       "draw": 25,
       "away": 26
+     }
+    },
+    {
+     "id": 560672,
+     "kickoff": "2026-12-06T16:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Tottenham",
+      "tla": "TOT",
+      "crest": "https://crests.football-data.org/73.png",
+      "elo": 1513
+     },
+     "away": {
+      "name": "Arsenal",
+      "tla": "ARS",
+      "crest": "https://crests.football-data.org/57.png",
+      "elo": 1854
+     },
+     "score": null,
+     "prob": {
+      "home": 10,
+      "draw": 16,
+      "away": 74
      }
     }
    ],
@@ -2139,6 +2164,31 @@
       "home": 13,
       "draw": 18,
       "away": 69
+     }
+    },
+    {
+     "id": 564774,
+     "kickoff": "2026-12-06T17:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Getafe",
+      "tla": "GET",
+      "crest": "https://crests.football-data.org/82.png",
+      "elo": 1503
+     },
+     "away": {
+      "name": "Valencia",
+      "tla": "VAL",
+      "crest": "https://crests.football-data.org/95.png",
+      "elo": 1522
+     },
+     "score": null,
+     "prob": {
+      "home": 43,
+      "draw": 26,
+      "away": 31
      }
     }
    ],
