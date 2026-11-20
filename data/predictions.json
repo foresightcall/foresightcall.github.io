@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T13:27:42Z",
+ "generated_at": "2026-11-20T16:10:23Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -936,6 +936,56 @@
       "home": 24,
       "draw": 25,
       "away": 51
+     }
+    },
+    {
+     "id": 560675,
+     "kickoff": "2026-12-06T14:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Newcastle",
+      "tla": "NEW",
+      "crest": "https://crests.football-data.org/67.png",
+      "elo": 1567
+     },
+     "away": {
+      "name": "Sunderland",
+      "tla": "SUN",
+      "crest": "https://crests.football-data.org/71.png",
+      "elo": 1520
+     },
+     "score": null,
+     "prob": {
+      "home": 53,
+      "draw": 24,
+      "away": 23
+     }
+    },
+    {
+     "id": 560681,
+     "kickoff": "2026-12-06T14:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 14,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Everton",
+      "tla": "EVE",
+      "crest": "https://crests.football-data.org/62.png",
+      "elo": 1576
+     },
+     "away": {
+      "name": "Fulham",
+      "tla": "FUL",
+      "crest": "https://crests.football-data.org/63.png",
+      "elo": 1552
+     },
+     "score": null,
+     "prob": {
+      "home": 49,
+      "draw": 25,
+      "away": 26
      }
     }
    ],
@@ -2064,6 +2114,31 @@
       "home": 41,
       "draw": 27,
       "away": 32
+     }
+    },
+    {
+     "id": 564775,
+     "kickoff": "2026-12-06T15:15:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Athletic",
+      "tla": "ATH",
+      "crest": "https://crests.football-data.org/77.png",
+      "elo": 1563
+     },
+     "away": {
+      "name": "Real Madrid",
+      "tla": "RMA",
+      "crest": "https://crests.football-data.org/86.png",
+      "elo": 1863
+     },
+     "score": null,
+     "prob": {
+      "home": 13,
+      "draw": 18,
+      "away": 69
      }
     }
    ],
