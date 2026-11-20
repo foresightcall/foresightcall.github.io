@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T22:02:09Z",
+ "generated_at": "2026-11-20T13:27:42Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -2039,6 +2039,31 @@
       "home": 86,
       "draw": 9,
       "away": 5
+     }
+    },
+    {
+     "id": 564768,
+     "kickoff": "2026-12-06T13:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Osasuna",
+      "tla": "OSA",
+      "crest": "https://crests.football-data.org/79.png",
+      "elo": 1475
+     },
+     "away": {
+      "name": "Elche",
+      "tla": "ELC",
+      "crest": "https://crests.football-data.org/285.png",
+      "elo": 1509
+     },
+     "score": null,
+     "prob": {
+      "home": 41,
+      "draw": 27,
+      "away": 32
      }
     }
    ],
