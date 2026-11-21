@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-20T22:00:09Z",
+ "generated_at": "2026-11-21T13:13:20Z",
  "sample": false,
  "season": "2026/27",
  "model": {
   "name": "Elo ratings + ordered logit",
-  "matches": 750,
-  "accuracy": 0.5,
-  "always_home_accuracy": 0.435
+  "matches": 749,
+  "accuracy": 0.499,
+  "always_home_accuracy": 0.434
  },
  "competitions": [
   {
@@ -16,7 +16,7 @@
     {
      "id": 560643,
      "kickoff": "2026-11-21T12:30:00Z",
-     "status": "UPCOMING",
+     "status": "LIVE",
      "matchday": 11,
      "stage": "REGULAR_SEASON",
      "home": {
@@ -31,7 +31,10 @@
       "crest": "https://crests.football-data.org/63.png",
       "elo": 1552
      },
-     "score": null,
+     "score": {
+      "home": 0,
+      "away": 1
+     },
      "prob": {
       "home": 75,
       "draw": 15,
@@ -1472,7 +1475,7 @@
     {
      "id": 564755,
      "kickoff": "2026-11-21T13:00:00Z",
-     "status": "UPCOMING",
+     "status": "LIVE",
      "matchday": 13,
      "stage": "REGULAR_SEASON",
      "home": {
@@ -1487,7 +1490,10 @@
       "crest": "https://crests.football-data.org/560.png",
       "elo": 1539
      },
-     "score": null,
+     "score": {
+      "home": 1,
+      "away": 0
+     },
      "prob": {
       "home": 41,
       "draw": 26,
