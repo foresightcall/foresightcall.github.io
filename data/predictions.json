@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-21T19:01:39Z",
+ "generated_at": "2026-11-21T21:53:52Z",
  "sample": false,
  "season": "2026/27",
  "model": {
   "name": "Elo ratings + ordered logit",
-  "matches": 757,
-  "accuracy": 0.499,
-  "always_home_accuracy": 0.435
+  "matches": 759,
+  "accuracy": 0.498,
+  "always_home_accuracy": 0.433
  },
  "competitions": [
   {
@@ -184,24 +184,24 @@
     {
      "id": 560651,
      "kickoff": "2026-11-21T17:30:00Z",
-     "status": "LIVE",
+     "status": "FINISHED",
      "matchday": 11,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Newcastle",
       "tla": "NEW",
       "crest": "https://crests.football-data.org/67.png",
-      "elo": 1567
+      "elo": 1572
      },
      "away": {
       "name": "Arsenal",
       "tla": "ARS",
       "crest": "https://crests.football-data.org/57.png",
-      "elo": 1854
+      "elo": 1848
      },
      "score": {
       "home": 2,
-      "away": 1
+      "away": 2
      },
      "prob": {
       "home": 14,
@@ -450,7 +450,7 @@
       "name": "Newcastle",
       "tla": "NEW",
       "crest": "https://crests.football-data.org/67.png",
-      "elo": 1567
+      "elo": 1572
      },
      "score": null,
      "prob": {
@@ -519,7 +519,7 @@
       "name": "Arsenal",
       "tla": "ARS",
       "crest": "https://crests.football-data.org/57.png",
-      "elo": 1854
+      "elo": 1848
      },
      "away": {
       "name": "Man City",
@@ -529,9 +529,9 @@
      },
      "score": null,
      "prob": {
-      "home": 58,
+      "home": 57,
       "draw": 23,
-      "away": 19
+      "away": 20
      }
     },
     {
@@ -700,7 +700,7 @@
       "name": "Arsenal",
       "tla": "ARS",
       "crest": "https://crests.football-data.org/57.png",
-      "elo": 1854
+      "elo": 1848
      },
      "score": null,
      "prob": {
@@ -719,7 +719,7 @@
       "name": "Newcastle",
       "tla": "NEW",
       "crest": "https://crests.football-data.org/67.png",
-      "elo": 1567
+      "elo": 1572
      },
      "away": {
       "name": "Man United",
@@ -729,9 +729,9 @@
      },
      "score": null,
      "prob": {
-      "home": 40,
+      "home": 41,
       "draw": 27,
-      "away": 33
+      "away": 32
      }
     },
     {
@@ -969,7 +969,7 @@
       "name": "Newcastle",
       "tla": "NEW",
       "crest": "https://crests.football-data.org/67.png",
-      "elo": 1567
+      "elo": 1572
      },
      "away": {
       "name": "Sunderland",
@@ -979,9 +979,9 @@
      },
      "score": null,
      "prob": {
-      "home": 52,
+      "home": 53,
       "draw": 24,
-      "away": 24
+      "away": 23
      }
     },
     {
@@ -1025,13 +1025,13 @@
       "name": "Arsenal",
       "tla": "ARS",
       "crest": "https://crests.football-data.org/57.png",
-      "elo": 1854
+      "elo": 1848
      },
      "score": null,
      "prob": {
       "home": 11,
-      "draw": 16,
-      "away": 73
+      "draw": 17,
+      "away": 72
      }
     }
    ],
@@ -1040,19 +1040,19 @@
      "team": "Arsenal",
      "tla": "ARS",
      "crest": "https://crests.football-data.org/57.png",
-     "p": 10,
+     "p": 11,
      "w": 9,
-     "d": 0,
+     "d": 1,
      "l": 1,
-     "gf": 15,
-     "ga": 5,
-     "pts": 27,
+     "gf": 17,
+     "ga": 7,
+     "pts": 28,
      "form": [
       "W",
       "W",
       "W",
       "W",
-      "W"
+      "D"
      ],
      "pos": 1,
      "gd": 10
@@ -1271,18 +1271,18 @@
      "team": "Newcastle",
      "tla": "NEW",
      "crest": "https://crests.football-data.org/67.png",
-     "p": 10,
+     "p": 11,
      "w": 3,
-     "d": 3,
+     "d": 4,
      "l": 4,
-     "gf": 13,
-     "ga": 16,
-     "pts": 12,
+     "gf": 15,
+     "ga": 18,
+     "pts": 13,
      "form": [
-      "L",
       "L",
       "W",
       "L",
+      "D",
       "D"
      ],
      "pos": 12,
@@ -1549,23 +1549,23 @@
     {
      "id": 564756,
      "kickoff": "2026-11-21T17:30:00Z",
-     "status": "LIVE",
+     "status": "FINISHED",
      "matchday": 13,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Sevilla FC",
       "tla": "SEV",
       "crest": "https://crests.football-data.org/559.png",
-      "elo": 1506
+      "elo": 1509
      },
      "away": {
       "name": "Real Betis",
       "tla": "BET",
       "crest": "https://crests.football-data.org/90.png",
-      "elo": 1677
+      "elo": 1675
      },
      "score": {
-      "home": 0,
+      "home": 1,
       "away": 1
      },
      "prob": {
@@ -1577,7 +1577,7 @@
     {
      "id": 564754,
      "kickoff": "2026-11-21T20:00:00Z",
-     "status": "UPCOMING",
+     "status": "LIVE",
      "matchday": 13,
      "stage": "REGULAR_SEASON",
      "home": {
@@ -1592,7 +1592,10 @@
       "crest": "https://crests.football-data.org/558.png",
       "elo": 1548
      },
-     "score": null,
+     "score": {
+      "home": 1,
+      "away": 1
+     },
      "prob": {
       "home": 84,
       "draw": 10,
@@ -1759,7 +1762,7 @@
       "name": "Real Betis",
       "tla": "BET",
       "crest": "https://crests.football-data.org/90.png",
-      "elo": 1677
+      "elo": 1675
      },
      "away": {
       "name": "Rayo Vallecano",
@@ -1769,8 +1772,8 @@
      },
      "score": null,
      "prob": {
-      "home": 66,
-      "draw": 19,
+      "home": 65,
+      "draw": 20,
       "away": 15
      }
     },
@@ -1940,7 +1943,7 @@
       "name": "Sevilla FC",
       "tla": "SEV",
       "crest": "https://crests.football-data.org/559.png",
-      "elo": 1506
+      "elo": 1509
      },
      "score": null,
      "prob": {
@@ -2240,13 +2243,38 @@
       "name": "Real Betis",
       "tla": "BET",
       "crest": "https://crests.football-data.org/90.png",
-      "elo": 1677
+      "elo": 1675
      },
      "score": null,
      "prob": {
       "home": 51,
       "draw": 25,
       "away": 24
+     }
+    },
+    {
+     "id": 564769,
+     "kickoff": "2026-12-07T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Sevilla FC",
+      "tla": "SEV",
+      "crest": "https://crests.football-data.org/559.png",
+      "elo": 1509
+     },
+     "away": {
+      "name": "Málaga",
+      "tla": "MAL",
+      "crest": "https://crests.football-data.org/84.png",
+      "elo": 1463
+     },
+     "score": null,
+     "prob": {
+      "home": 52,
+      "draw": 25,
+      "away": 23
      }
     }
    ],
@@ -2318,19 +2346,19 @@
      "team": "Real Betis",
      "tla": "BET",
      "crest": "https://crests.football-data.org/90.png",
-     "p": 12,
+     "p": 13,
      "w": 8,
-     "d": 2,
+     "d": 3,
      "l": 2,
-     "gf": 20,
-     "ga": 15,
-     "pts": 26,
+     "gf": 21,
+     "ga": 16,
+     "pts": 27,
      "form": [
-      "W",
       "L",
       "D",
       "W",
-      "W"
+      "W",
+      "D"
      ],
      "pos": 4,
      "gd": 5
@@ -2360,18 +2388,18 @@
      "team": "Sevilla FC",
      "tla": "SEV",
      "crest": "https://crests.football-data.org/559.png",
-     "p": 12,
+     "p": 13,
      "w": 5,
-     "d": 3,
+     "d": 4,
      "l": 4,
-     "gf": 17,
-     "ga": 19,
-     "pts": 18,
+     "gf": 18,
+     "ga": 20,
+     "pts": 19,
      "form": [
-      "D",
       "L",
       "W",
       "L",
+      "D",
       "D"
      ],
      "pos": 6,
@@ -2787,7 +2815,7 @@
       "name": "Arsenal",
       "tla": "ARS",
       "crest": "https://crests.football-data.org/57.png",
-      "elo": 1854
+      "elo": 1848
      },
      "away": {
       "name": "Dortmund",
@@ -2797,9 +2825,9 @@
      },
      "score": null,
      "prob": {
-      "home": 60,
+      "home": 59,
       "draw": 22,
-      "away": 18
+      "away": 19
      }
     },
     {
@@ -2843,7 +2871,7 @@
       "name": "Real Betis",
       "tla": "BET",
       "crest": "https://crests.football-data.org/90.png",
-      "elo": 1677
+      "elo": 1675
      },
      "score": null,
      "prob": {
