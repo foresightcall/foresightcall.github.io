@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-21T13:13:20Z",
+ "generated_at": "2026-11-21T15:57:27Z",
  "sample": false,
  "season": "2026/27",
  "model": {
   "name": "Elo ratings + ordered logit",
-  "matches": 749,
+  "matches": 750,
   "accuracy": 0.499,
-  "always_home_accuracy": 0.434
+  "always_home_accuracy": 0.433
  },
  "competitions": [
   {
@@ -16,23 +16,23 @@
     {
      "id": 560643,
      "kickoff": "2026-11-21T12:30:00Z",
-     "status": "LIVE",
+     "status": "FINISHED",
      "matchday": 11,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Man City",
       "tla": "MCI",
       "crest": "https://crests.football-data.org/65.png",
-      "elo": 1773
+      "elo": 1767
      },
      "away": {
       "name": "Fulham",
       "tla": "FUL",
       "crest": "https://crests.football-data.org/63.png",
-      "elo": 1552
+      "elo": 1558
      },
      "score": {
-      "home": 0,
+      "home": 1,
       "away": 1
      },
      "prob": {
@@ -44,7 +44,7 @@
     {
      "id": 560642,
      "kickoff": "2026-11-21T15:00:00Z",
-     "status": "UPCOMING",
+     "status": "LIVE",
      "matchday": 11,
      "stage": "REGULAR_SEASON",
      "home": {
@@ -59,7 +59,10 @@
       "crest": "https://crests.football-data.org/341.png",
       "elo": 1583
      },
-     "score": null,
+     "score": {
+      "home": 1,
+      "away": 1
+     },
      "prob": {
       "home": 49,
       "draw": 25,
@@ -69,7 +72,7 @@
     {
      "id": 560644,
      "kickoff": "2026-11-21T15:00:00Z",
-     "status": "UPCOMING",
+     "status": "LIVE",
      "matchday": 11,
      "stage": "REGULAR_SEASON",
      "home": {
@@ -84,7 +87,10 @@
       "crest": "https://crests.football-data.org/71.png",
       "elo": 1520
      },
-     "score": null,
+     "score": {
+      "home": 0,
+      "away": 0
+     },
      "prob": {
       "home": 64,
       "draw": 20,
@@ -94,7 +100,7 @@
     {
      "id": 560647,
      "kickoff": "2026-11-21T15:00:00Z",
-     "status": "UPCOMING",
+     "status": "LIVE",
      "matchday": 11,
      "stage": "REGULAR_SEASON",
      "home": {
@@ -109,7 +115,10 @@
       "crest": "https://crests.football-data.org/351.png",
       "elo": 1560
      },
-     "score": null,
+     "score": {
+      "home": 2,
+      "away": 0
+     },
      "prob": {
       "home": 59,
       "draw": 22,
@@ -119,7 +128,7 @@
     {
      "id": 560648,
      "kickoff": "2026-11-21T15:00:00Z",
-     "status": "UPCOMING",
+     "status": "LIVE",
      "matchday": 11,
      "stage": "REGULAR_SEASON",
      "home": {
@@ -134,7 +143,10 @@
       "crest": "https://crests.football-data.org/349.png",
       "elo": 1402
      },
-     "score": null,
+     "score": {
+      "home": 1,
+      "away": 0
+     },
      "prob": {
       "home": 62,
       "draw": 21,
@@ -144,7 +156,7 @@
     {
      "id": 560650,
      "kickoff": "2026-11-21T15:00:00Z",
-     "status": "UPCOMING",
+     "status": "LIVE",
      "matchday": 11,
      "stage": "REGULAR_SEASON",
      "home": {
@@ -159,7 +171,10 @@
       "crest": "https://crests.football-data.org/354.png",
       "elo": 1489
      },
-     "score": null,
+     "score": {
+      "home": 2,
+      "away": 2
+     },
      "prob": {
       "home": 49,
       "draw": 25,
@@ -401,7 +416,7 @@
       "name": "Fulham",
       "tla": "FUL",
       "crest": "https://crests.football-data.org/63.png",
-      "elo": 1552
+      "elo": 1558
      },
      "away": {
       "name": "Bournemouth",
@@ -411,9 +426,9 @@
      },
      "score": null,
      "prob": {
-      "home": 32,
+      "home": 33,
       "draw": 27,
-      "away": 41
+      "away": 40
      }
     },
     {
@@ -507,13 +522,13 @@
       "name": "Man City",
       "tla": "MCI",
       "crest": "https://crests.football-data.org/65.png",
-      "elo": 1773
+      "elo": 1767
      },
      "score": null,
      "prob": {
-      "home": 57,
+      "home": 58,
       "draw": 23,
-      "away": 20
+      "away": 19
      }
     },
     {
@@ -626,7 +641,7 @@
       "name": "Man City",
       "tla": "MCI",
       "crest": "https://crests.football-data.org/65.png",
-      "elo": 1773
+      "elo": 1767
      },
      "away": {
       "name": "Leeds United",
@@ -757,13 +772,13 @@
       "name": "Fulham",
       "tla": "FUL",
       "crest": "https://crests.football-data.org/63.png",
-      "elo": 1552
+      "elo": 1558
      },
      "score": null,
      "prob": {
-      "home": 40,
+      "home": 39,
       "draw": 27,
-      "away": 33
+      "away": 34
      }
     },
     {
@@ -932,13 +947,13 @@
       "name": "Man City",
       "tla": "MCI",
       "crest": "https://crests.football-data.org/65.png",
-      "elo": 1773
+      "elo": 1767
      },
      "score": null,
      "prob": {
-      "home": 24,
+      "home": 25,
       "draw": 25,
-      "away": 51
+      "away": 50
      }
     },
     {
@@ -982,12 +997,12 @@
       "name": "Fulham",
       "tla": "FUL",
       "crest": "https://crests.football-data.org/63.png",
-      "elo": 1552
+      "elo": 1558
      },
      "score": null,
      "prob": {
-      "home": 49,
-      "draw": 25,
+      "home": 48,
+      "draw": 26,
       "away": 26
      }
     },
@@ -1064,19 +1079,19 @@
      "team": "Man City",
      "tla": "MCI",
      "crest": "https://crests.football-data.org/65.png",
-     "p": 10,
+     "p": 11,
      "w": 7,
-     "d": 0,
+     "d": 1,
      "l": 3,
-     "gf": 21,
-     "ga": 13,
-     "pts": 21,
+     "gf": 22,
+     "ga": 14,
+     "pts": 22,
      "form": [
       "W",
-      "W",
       "L",
       "L",
-      "L"
+      "L",
+      "D"
      ],
      "pos": 3,
      "gd": 8
@@ -1292,6 +1307,27 @@
      "gd": 0
     },
     {
+     "team": "Fulham",
+     "tla": "FUL",
+     "crest": "https://crests.football-data.org/63.png",
+     "p": 11,
+     "w": 2,
+     "d": 5,
+     "l": 4,
+     "gf": 11,
+     "ga": 13,
+     "pts": 11,
+     "form": [
+      "W",
+      "W",
+      "D",
+      "D",
+      "D"
+     ],
+     "pos": 14,
+     "gd": -2
+    },
+    {
      "team": "Ipswich Town",
      "tla": "IPS",
      "crest": "https://crests.football-data.org/349.png",
@@ -1309,29 +1345,8 @@
       "D",
       "L"
      ],
-     "pos": 14,
-     "gd": -5
-    },
-    {
-     "team": "Fulham",
-     "tla": "FUL",
-     "crest": "https://crests.football-data.org/63.png",
-     "p": 10,
-     "w": 2,
-     "d": 4,
-     "l": 4,
-     "gf": 10,
-     "ga": 12,
-     "pts": 10,
-     "form": [
-      "L",
-      "W",
-      "W",
-      "D",
-      "D"
-     ],
      "pos": 15,
-     "gd": -2
+     "gd": -5
     },
     {
      "team": "Nottingham",
@@ -1475,7 +1490,7 @@
     {
      "id": 564755,
      "kickoff": "2026-11-21T13:00:00Z",
-     "status": "LIVE",
+     "status": "UPCOMING",
      "matchday": 13,
      "stage": "REGULAR_SEASON",
      "home": {
@@ -1490,10 +1505,7 @@
       "crest": "https://crests.football-data.org/560.png",
       "elo": 1539
      },
-     "score": {
-      "home": 1,
-      "away": 0
-     },
+     "score": null,
      "prob": {
       "home": 41,
       "draw": 26,
@@ -2738,7 +2750,7 @@
       "name": "Man City",
       "tla": "MCI",
       "crest": "https://crests.football-data.org/65.png",
-      "elo": 1773
+      "elo": 1767
      },
      "away": {
       "name": "Napoli",
@@ -2748,9 +2760,9 @@
      },
      "score": null,
      "prob": {
-      "home": 65,
+      "home": 64,
       "draw": 20,
-      "away": 15
+      "away": 16
      }
     },
     {
