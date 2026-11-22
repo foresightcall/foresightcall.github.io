@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-21T21:53:52Z",
+ "generated_at": "2026-11-22T01:24:43Z",
  "sample": false,
  "season": "2026/27",
  "model": {
   "name": "Elo ratings + ordered logit",
-  "matches": 759,
-  "accuracy": 0.498,
-  "always_home_accuracy": 0.433
+  "matches": 760,
+  "accuracy": 0.499,
+  "always_home_accuracy": 0.434
  },
  "competitions": [
   {
@@ -1577,23 +1577,23 @@
     {
      "id": 564754,
      "kickoff": "2026-11-21T20:00:00Z",
-     "status": "LIVE",
+     "status": "FINISHED",
      "matchday": 13,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Real Madrid",
       "tla": "RMA",
       "crest": "https://crests.football-data.org/86.png",
-      "elo": 1863
+      "elo": 1865
      },
      "away": {
       "name": "Celta",
       "tla": "CEL",
       "crest": "https://crests.football-data.org/558.png",
-      "elo": 1548
+      "elo": 1546
      },
      "score": {
-      "home": 1,
+      "home": 2,
       "away": 1
      },
      "prob": {
@@ -1837,7 +1837,7 @@
       "name": "Real Madrid",
       "tla": "RMA",
       "crest": "https://crests.football-data.org/86.png",
-      "elo": 1863
+      "elo": 1865
      },
      "away": {
       "name": "Alavés",
@@ -1912,7 +1912,7 @@
       "name": "Celta",
       "tla": "CEL",
       "crest": "https://crests.football-data.org/558.png",
-      "elo": 1548
+      "elo": 1546
      },
      "away": {
       "name": "Villarreal",
@@ -1993,7 +1993,7 @@
       "name": "Real Madrid",
       "tla": "RMA",
       "crest": "https://crests.football-data.org/86.png",
-      "elo": 1863
+      "elo": 1865
      },
      "score": null,
      "prob": {
@@ -2143,7 +2143,7 @@
       "name": "Celta",
       "tla": "CEL",
       "crest": "https://crests.football-data.org/558.png",
-      "elo": 1548
+      "elo": 1546
      },
      "score": null,
      "prob": {
@@ -2193,7 +2193,7 @@
       "name": "Real Madrid",
       "tla": "RMA",
       "crest": "https://crests.football-data.org/86.png",
-      "elo": 1863
+      "elo": 1865
      },
      "score": null,
      "prob": {
@@ -2304,13 +2304,13 @@
      "team": "Real Madrid",
      "tla": "RMA",
      "crest": "https://crests.football-data.org/86.png",
-     "p": 12,
-     "w": 10,
+     "p": 13,
+     "w": 11,
      "d": 0,
      "l": 2,
-     "gf": 31,
-     "ga": 10,
-     "pts": 30,
+     "gf": 33,
+     "ga": 11,
+     "pts": 33,
      "form": [
       "W",
       "W",
@@ -2319,7 +2319,7 @@
       "W"
      ],
      "pos": 2,
-     "gd": 21
+     "gd": 22
     },
     {
      "team": "Atleti",
@@ -2535,22 +2535,22 @@
      "team": "Celta",
      "tla": "CEL",
      "crest": "https://crests.football-data.org/558.png",
-     "p": 12,
+     "p": 13,
      "w": 2,
      "d": 7,
-     "l": 3,
-     "gf": 10,
-     "ga": 10,
+     "l": 4,
+     "gf": 11,
+     "ga": 12,
      "pts": 13,
      "form": [
-      "D",
       "W",
       "D",
       "L",
-      "D"
+      "D",
+      "L"
      ],
      "pos": 13,
-     "gd": 0
+     "gd": -1
     },
     {
      "team": "Rayo Vallecano",
@@ -2765,7 +2765,7 @@
       "name": "Real Madrid",
       "tla": "RMA",
       "crest": "https://crests.football-data.org/86.png",
-      "elo": 1863
+      "elo": 1865
      },
      "away": {
       "name": "PSV",
