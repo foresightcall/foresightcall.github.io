@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-22T15:56:56Z",
+ "generated_at": "2026-11-22T19:02:35Z",
  "sample": false,
  "season": "2026/27",
  "model": {
   "name": "Elo ratings + ordered logit",
-  "matches": 750,
+  "matches": 753,
   "accuracy": 0.499,
-  "always_home_accuracy": 0.435
+  "always_home_accuracy": 0.437
  },
  "competitions": [
   {
@@ -212,23 +212,23 @@
     {
      "id": 560646,
      "kickoff": "2026-11-22T14:00:00Z",
-     "status": "LIVE",
+     "status": "FINISHED",
      "matchday": 11,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Hull City",
       "tla": "HUL",
       "crest": "https://crests.football-data.org/322.png",
-      "elo": 1545
+      "elo": 1563
      },
      "away": {
       "name": "Brighton Hove",
       "tla": "BHA",
       "crest": "https://crests.football-data.org/397.png",
-      "elo": 1687
+      "elo": 1669
      },
      "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
      },
      "prob": {
@@ -240,22 +240,25 @@
     {
      "id": 560645,
      "kickoff": "2026-11-22T16:30:00Z",
-     "status": "UPCOMING",
+     "status": "FINISHED",
      "matchday": 11,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Liverpool",
       "tla": "LIV",
       "crest": "https://crests.football-data.org/64.png",
-      "elo": 1704
+      "elo": 1715
      },
      "away": {
       "name": "Man United",
       "tla": "MUN",
       "crest": "https://crests.football-data.org/66.png",
-      "elo": 1606
+      "elo": 1595
      },
-     "score": null,
+     "score": {
+      "home": 4,
+      "away": 0
+     },
      "prob": {
       "home": 60,
       "draw": 22,
@@ -347,7 +350,7 @@
       "name": "Man United",
       "tla": "MUN",
       "crest": "https://crests.football-data.org/66.png",
-      "elo": 1606
+      "elo": 1595
      },
      "away": {
       "name": "Brentford",
@@ -357,9 +360,9 @@
      },
      "score": null,
      "prob": {
-      "home": 45,
+      "home": 44,
       "draw": 26,
-      "away": 29
+      "away": 30
      }
     },
     {
@@ -403,13 +406,13 @@
       "name": "Liverpool",
       "tla": "LIV",
       "crest": "https://crests.football-data.org/64.png",
-      "elo": 1704
+      "elo": 1715
      },
      "score": null,
      "prob": {
-      "home": 29,
+      "home": 27,
       "draw": 26,
-      "away": 45
+      "away": 47
      }
     },
     {
@@ -447,7 +450,7 @@
       "name": "Brighton Hove",
       "tla": "BHA",
       "crest": "https://crests.football-data.org/397.png",
-      "elo": 1687
+      "elo": 1669
      },
      "away": {
       "name": "Newcastle",
@@ -457,9 +460,9 @@
      },
      "score": null,
      "prob": {
-      "home": 62,
-      "draw": 21,
-      "away": 17
+      "home": 59,
+      "draw": 22,
+      "away": 19
      }
     },
     {
@@ -503,13 +506,13 @@
       "name": "Hull City",
       "tla": "HUL",
       "crest": "https://crests.football-data.org/322.png",
-      "elo": 1545
+      "elo": 1563
      },
      "score": null,
      "prob": {
-      "home": 37,
+      "home": 34,
       "draw": 27,
-      "away": 36
+      "away": 39
      }
     },
     {
@@ -572,7 +575,7 @@
       "name": "Liverpool",
       "tla": "LIV",
       "crest": "https://crests.football-data.org/64.png",
-      "elo": 1704
+      "elo": 1715
      },
      "away": {
       "name": "Sunderland",
@@ -582,8 +585,8 @@
      },
      "score": null,
      "prob": {
-      "home": 70,
-      "draw": 18,
+      "home": 71,
+      "draw": 17,
       "away": 12
      }
     },
@@ -597,7 +600,7 @@
       "name": "Hull City",
       "tla": "HUL",
       "crest": "https://crests.football-data.org/322.png",
-      "elo": 1545
+      "elo": 1563
      },
      "away": {
       "name": "Nottingham",
@@ -607,9 +610,9 @@
      },
      "score": null,
      "prob": {
-      "home": 45,
+      "home": 47,
       "draw": 26,
-      "away": 29
+      "away": 27
      }
     },
     {
@@ -728,13 +731,13 @@
       "name": "Man United",
       "tla": "MUN",
       "crest": "https://crests.football-data.org/66.png",
-      "elo": 1606
+      "elo": 1595
      },
      "score": null,
      "prob": {
-      "home": 41,
+      "home": 42,
       "draw": 27,
-      "away": 32
+      "away": 31
      }
     },
     {
@@ -753,13 +756,13 @@
       "name": "Brighton Hove",
       "tla": "BHA",
       "crest": "https://crests.football-data.org/397.png",
-      "elo": 1687
+      "elo": 1669
      },
      "score": null,
      "prob": {
-      "home": 42,
+      "home": 44,
       "draw": 26,
-      "away": 32
+      "away": 30
      }
     },
     {
@@ -803,13 +806,13 @@
       "name": "Liverpool",
       "tla": "LIV",
       "crest": "https://crests.football-data.org/64.png",
-      "elo": 1704
+      "elo": 1715
      },
      "score": null,
      "prob": {
-      "home": 29,
+      "home": 28,
       "draw": 26,
-      "away": 45
+      "away": 46
      }
     },
     {
@@ -822,7 +825,7 @@
       "name": "Man United",
       "tla": "MUN",
       "crest": "https://crests.football-data.org/66.png",
-      "elo": 1606
+      "elo": 1595
      },
      "away": {
       "name": "Coventry City",
@@ -832,9 +835,9 @@
      },
      "score": null,
      "prob": {
-      "home": 58,
+      "home": 57,
       "draw": 23,
-      "away": 19
+      "away": 20
      }
     },
     {
@@ -878,13 +881,13 @@
       "name": "Hull City",
       "tla": "HUL",
       "crest": "https://crests.football-data.org/322.png",
-      "elo": 1545
+      "elo": 1563
      },
      "score": null,
      "prob": {
-      "home": 62,
-      "draw": 21,
-      "away": 17
+      "home": 59,
+      "draw": 22,
+      "away": 19
      }
     },
     {
@@ -928,13 +931,13 @@
       "name": "Brighton Hove",
       "tla": "BHA",
       "crest": "https://crests.football-data.org/397.png",
-      "elo": 1687
+      "elo": 1669
      },
      "score": null,
      "prob": {
-      "home": 28,
+      "home": 30,
       "draw": 26,
-      "away": 46
+      "away": 44
      }
     },
     {
@@ -1064,22 +1067,22 @@
      "team": "Brighton Hove",
      "tla": "BHA",
      "crest": "https://crests.football-data.org/397.png",
-     "p": 10,
+     "p": 11,
      "w": 7,
      "d": 1,
-     "l": 2,
+     "l": 3,
      "gf": 26,
-     "ga": 7,
+     "ga": 9,
      "pts": 22,
      "form": [
       "W",
-      "W",
       "L",
       "W",
-      "W"
+      "W",
+      "L"
      ],
      "pos": 2,
-     "gd": 19
+     "gd": 17
     },
     {
      "team": "Man City",
@@ -1103,6 +1106,27 @@
      "gd": 8
     },
     {
+     "team": "Liverpool",
+     "tla": "LIV",
+     "crest": "https://crests.football-data.org/64.png",
+     "p": 11,
+     "w": 6,
+     "d": 3,
+     "l": 2,
+     "gf": 18,
+     "ga": 10,
+     "pts": 21,
+     "form": [
+      "W",
+      "W",
+      "L",
+      "W",
+      "W"
+     ],
+     "pos": 4,
+     "gd": 8
+    },
+    {
      "team": "Bournemouth",
      "tla": "BOU",
      "crest": "https://crests.football-data.org/bournemouth.png",
@@ -1118,27 +1142,6 @@
       "W",
       "W",
       "W",
-      "W"
-     ],
-     "pos": 4,
-     "gd": 4
-    },
-    {
-     "team": "Liverpool",
-     "tla": "LIV",
-     "crest": "https://crests.football-data.org/64.png",
-     "p": 10,
-     "w": 5,
-     "d": 3,
-     "l": 2,
-     "gf": 14,
-     "ga": 10,
-     "pts": 18,
-     "form": [
-      "L",
-      "W",
-      "W",
-      "L",
       "W"
      ],
      "pos": 5,
@@ -1250,6 +1253,27 @@
      "gd": 5
     },
     {
+     "team": "Hull City",
+     "tla": "HUL",
+     "crest": "https://crests.football-data.org/322.png",
+     "p": 11,
+     "w": 3,
+     "d": 5,
+     "l": 3,
+     "gf": 13,
+     "ga": 11,
+     "pts": 14,
+     "form": [
+      "L",
+      "D",
+      "D",
+      "L",
+      "W"
+     ],
+     "pos": 11,
+     "gd": 2
+    },
+    {
      "team": "Aston Villa",
      "tla": "AVL",
      "crest": "https://crests.football-data.org/58.png",
@@ -1267,7 +1291,7 @@
       "D",
       "D"
      ],
-     "pos": 11,
+     "pos": 12,
      "gd": -3
     },
     {
@@ -1288,7 +1312,7 @@
       "D",
       "D"
      ],
-     "pos": 12,
+     "pos": 13,
      "gd": -3
     },
     {
@@ -1309,29 +1333,8 @@
       "L",
       "W"
      ],
-     "pos": 13,
-     "gd": -8
-    },
-    {
-     "team": "Hull City",
-     "tla": "HUL",
-     "crest": "https://crests.football-data.org/322.png",
-     "p": 10,
-     "w": 2,
-     "d": 5,
-     "l": 3,
-     "gf": 11,
-     "ga": 11,
-     "pts": 11,
-     "form": [
-      "D",
-      "L",
-      "D",
-      "D",
-      "L"
-     ],
      "pos": 14,
-     "gd": 0
+     "gd": -8
     },
     {
      "team": "Fulham",
@@ -1421,22 +1424,22 @@
      "team": "Man United",
      "tla": "MUN",
      "crest": "https://crests.football-data.org/66.png",
-     "p": 10,
+     "p": 11,
      "w": 1,
      "d": 5,
-     "l": 4,
+     "l": 5,
      "gf": 14,
-     "ga": 19,
+     "ga": 23,
      "pts": 8,
      "form": [
       "D",
+      "L",
+      "L",
       "D",
-      "L",
-      "L",
-      "D"
+      "L"
      ],
      "pos": 19,
-     "gd": -5
+     "gd": -9
     },
     {
      "team": "Crystal Palace",
@@ -1636,24 +1639,24 @@
     {
      "id": 564750,
      "kickoff": "2026-11-22T15:15:00Z",
-     "status": "LIVE",
+     "status": "FINISHED",
      "matchday": 13,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Santander",
       "tla": "SAN",
       "crest": "https://crests.football-data.org/5335.png",
-      "elo": 1510
+      "elo": 1520
      },
      "away": {
       "name": "Real Sociedad",
       "tla": "RSO",
       "crest": "https://crests.football-data.org/92.png",
-      "elo": 1569
+      "elo": 1559
      },
      "score": {
-      "home": 2,
-      "away": 0
+      "home": 3,
+      "away": 2
      },
      "prob": {
       "home": 37,
@@ -1664,7 +1667,7 @@
     {
      "id": 564752,
      "kickoff": "2026-11-22T17:30:00Z",
-     "status": "UPCOMING",
+     "status": "LIVE",
      "matchday": 13,
      "stage": "REGULAR_SEASON",
      "home": {
@@ -1679,7 +1682,10 @@
       "crest": "https://crests.football-data.org/84.png",
       "elo": 1463
      },
-     "score": null,
+     "score": {
+      "home": 1,
+      "away": 0
+     },
      "prob": {
       "home": 47,
       "draw": 26,
@@ -1752,13 +1758,13 @@
       "name": "Santander",
       "tla": "SAN",
       "crest": "https://crests.football-data.org/5335.png",
-      "elo": 1510
+      "elo": 1520
      },
      "score": null,
      "prob": {
-      "home": 47,
+      "home": 45,
       "draw": 26,
-      "away": 27
+      "away": 29
      }
     },
     {
@@ -1946,7 +1952,7 @@
       "name": "Real Sociedad",
       "tla": "RSO",
       "crest": "https://crests.football-data.org/92.png",
-      "elo": 1569
+      "elo": 1559
      },
      "away": {
       "name": "Sevilla FC",
@@ -1956,9 +1962,9 @@
      },
      "score": null,
      "prob": {
-      "home": 54,
+      "home": 53,
       "draw": 24,
-      "away": 22
+      "away": 23
      }
     },
     {
@@ -1996,7 +2002,7 @@
       "name": "Real Sociedad",
       "tla": "RSO",
       "crest": "https://crests.football-data.org/92.png",
-      "elo": 1569
+      "elo": 1559
      },
      "away": {
       "name": "Real Madrid",
@@ -2006,9 +2012,9 @@
      },
      "score": null,
      "prob": {
-      "home": 13,
+      "home": 12,
       "draw": 18,
-      "away": 69
+      "away": 70
      }
     },
     {
@@ -2071,7 +2077,7 @@
       "name": "Santander",
       "tla": "SAN",
       "crest": "https://crests.football-data.org/5335.png",
-      "elo": 1510
+      "elo": 1520
      },
      "away": {
       "name": "Deportivo",
@@ -2081,9 +2087,9 @@
      },
      "score": null,
      "prob": {
-      "home": 44,
+      "home": 45,
       "draw": 26,
-      "away": 30
+      "away": 29
      }
     },
     {
@@ -2127,13 +2133,13 @@
       "name": "Real Sociedad",
       "tla": "RSO",
       "crest": "https://crests.football-data.org/92.png",
-      "elo": 1569
+      "elo": 1559
      },
      "score": null,
      "prob": {
-      "home": 54,
-      "draw": 24,
-      "away": 22
+      "home": 56,
+      "draw": 23,
+      "away": 21
      }
     },
     {
@@ -2376,22 +2382,22 @@
      "team": "Real Sociedad",
      "tla": "RSO",
      "crest": "https://crests.football-data.org/92.png",
-     "p": 12,
+     "p": 13,
      "w": 7,
      "d": 1,
-     "l": 4,
-     "gf": 21,
-     "ga": 20,
+     "l": 5,
+     "gf": 23,
+     "ga": 23,
      "pts": 22,
      "form": [
       "W",
       "W",
-      "W",
       "L",
-      "W"
+      "W",
+      "L"
      ],
      "pos": 5,
-     "gd": 1
+     "gd": 0
     },
     {
      "team": "Sevilla FC",
@@ -2415,6 +2421,27 @@
      "gd": -2
     },
     {
+     "team": "Santander",
+     "tla": "SAN",
+     "crest": "https://crests.football-data.org/5335.png",
+     "p": 13,
+     "w": 5,
+     "d": 2,
+     "l": 6,
+     "gf": 20,
+     "ga": 32,
+     "pts": 17,
+     "form": [
+      "L",
+      "W",
+      "L",
+      "W",
+      "W"
+     ],
+     "pos": 7,
+     "gd": -12
+    },
+    {
      "team": "Athletic",
      "tla": "ATH",
      "crest": "https://crests.football-data.org/77.png",
@@ -2432,7 +2459,7 @@
       "D",
       "L"
      ],
-     "pos": 7,
+     "pos": 8,
      "gd": 3
     },
     {
@@ -2453,7 +2480,7 @@
       "D",
       "W"
      ],
-     "pos": 8,
+     "pos": 9,
      "gd": 0
     },
     {
@@ -2474,7 +2501,7 @@
       "W",
       "L"
      ],
-     "pos": 9,
+     "pos": 10,
      "gd": 1
     },
     {
@@ -2495,7 +2522,7 @@
       "D",
       "W"
      ],
-     "pos": 10,
+     "pos": 11,
      "gd": 0
     },
     {
@@ -2516,29 +2543,8 @@
       "D",
       "L"
      ],
-     "pos": 11,
-     "gd": -1
-    },
-    {
-     "team": "Santander",
-     "tla": "SAN",
-     "crest": "https://crests.football-data.org/5335.png",
-     "p": 12,
-     "w": 4,
-     "d": 2,
-     "l": 6,
-     "gf": 17,
-     "ga": 30,
-     "pts": 14,
-     "form": [
-      "D",
-      "L",
-      "W",
-      "L",
-      "W"
-     ],
      "pos": 12,
-     "gd": -13
+     "gd": -1
     },
     {
      "team": "Celta",
@@ -3080,13 +3086,13 @@
       "name": "Liverpool",
       "tla": "LIV",
       "crest": "https://crests.football-data.org/64.png",
-      "elo": 1704
+      "elo": 1715
      },
      "score": null,
      "prob": {
-      "home": 22,
-      "draw": 24,
-      "away": 54
+      "home": 21,
+      "draw": 23,
+      "away": 56
      }
     },
     {
@@ -3130,13 +3136,13 @@
       "name": "Man United",
       "tla": "MUN",
       "crest": "https://crests.football-data.org/66.png",
-      "elo": 1606
+      "elo": 1595
      },
      "score": null,
      "prob": {
-      "home": 32,
-      "draw": 26,
-      "away": 42
+      "home": 33,
+      "draw": 27,
+      "away": 40
      }
     },
     {
@@ -3162,6 +3168,56 @@
       "home": 45,
       "draw": 26,
       "away": 29
+     }
+    },
+    {
+     "id": 575413,
+     "kickoff": "2026-12-08T17:45:00Z",
+     "status": "UPCOMING",
+     "matchday": 6,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Villarreal",
+      "tla": "VIL",
+      "crest": "https://crests.football-data.org/94.png",
+      "elo": 1630
+     },
+     "away": {
+      "name": "Sabah FK",
+      "tla": "SAB",
+      "crest": "https://crests.football-data.org/10233.png",
+      "elo": 1455
+     },
+     "score": null,
+     "prob": {
+      "home": 69,
+      "draw": 18,
+      "away": 13
+     }
+    },
+    {
+     "id": 575414,
+     "kickoff": "2026-12-08T17:45:00Z",
+     "status": "UPCOMING",
+     "matchday": 6,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Viking",
+      "tla": "VIK",
+      "crest": "https://crests.football-data.org/5720.png",
+      "elo": 1480
+     },
+     "away": {
+      "name": "Feyenoord",
+      "tla": "FEY",
+      "crest": "https://crests.football-data.org/675.png",
+      "elo": 1471
+     },
+     "score": null,
+     "prob": {
+      "home": 47,
+      "draw": 26,
+      "away": 27
      }
     }
    ],
