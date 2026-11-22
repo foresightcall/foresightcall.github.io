@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-22T19:02:35Z",
+ "generated_at": "2026-11-22T21:55:56Z",
  "sample": false,
  "season": "2026/27",
  "model": {
   "name": "Elo ratings + ordered logit",
-  "matches": 753,
-  "accuracy": 0.499,
-  "always_home_accuracy": 0.437
+  "matches": 754,
+  "accuracy": 0.5,
+  "always_home_accuracy": 0.438
  },
  "competitions": [
   {
@@ -1667,20 +1667,20 @@
     {
      "id": 564752,
      "kickoff": "2026-11-22T17:30:00Z",
-     "status": "LIVE",
+     "status": "FINISHED",
      "matchday": 13,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Osasuna",
       "tla": "OSA",
       "crest": "https://crests.football-data.org/79.png",
-      "elo": 1475
+      "elo": 1483
      },
      "away": {
       "name": "Málaga",
       "tla": "MAL",
       "crest": "https://crests.football-data.org/84.png",
-      "elo": 1463
+      "elo": 1455
      },
      "score": {
       "home": 1,
@@ -1695,7 +1695,7 @@
     {
      "id": 564753,
      "kickoff": "2026-11-22T20:00:00Z",
-     "status": "UPCOMING",
+     "status": "LIVE",
      "matchday": 13,
      "stage": "REGULAR_SEASON",
      "home": {
@@ -1710,7 +1710,10 @@
       "crest": "https://crests.football-data.org/78.png",
       "elo": 1713
      },
-     "score": null,
+     "score": {
+      "home": 0,
+      "away": 2
+     },
      "prob": {
       "home": 20,
       "draw": 23,
@@ -1802,7 +1805,7 @@
       "name": "Málaga",
       "tla": "MAL",
       "crest": "https://crests.football-data.org/84.png",
-      "elo": 1463
+      "elo": 1455
      },
      "away": {
       "name": "Athletic",
@@ -1812,9 +1815,9 @@
      },
      "score": null,
      "prob": {
-      "home": 34,
+      "home": 33,
       "draw": 27,
-      "away": 39
+      "away": 40
      }
     },
     {
@@ -1883,13 +1886,13 @@
       "name": "Osasuna",
       "tla": "OSA",
       "crest": "https://crests.football-data.org/79.png",
-      "elo": 1475
+      "elo": 1483
      },
      "score": null,
      "prob": {
-      "home": 54,
+      "home": 53,
       "draw": 24,
-      "away": 22
+      "away": 23
      }
     },
     {
@@ -2177,7 +2180,7 @@
       "name": "Osasuna",
       "tla": "OSA",
       "crest": "https://crests.football-data.org/79.png",
-      "elo": 1475
+      "elo": 1483
      },
      "away": {
       "name": "Elche",
@@ -2187,8 +2190,8 @@
      },
      "score": null,
      "prob": {
-      "home": 41,
-      "draw": 27,
+      "home": 42,
+      "draw": 26,
       "away": 32
      }
     },
@@ -2283,12 +2286,12 @@
       "name": "Málaga",
       "tla": "MAL",
       "crest": "https://crests.football-data.org/84.png",
-      "elo": 1463
+      "elo": 1455
      },
      "score": null,
      "prob": {
-      "home": 52,
-      "draw": 25,
+      "home": 53,
+      "draw": 24,
       "away": 23
      }
     }
@@ -2547,6 +2550,27 @@
      "gd": -1
     },
     {
+     "team": "Osasuna",
+     "tla": "OSA",
+     "crest": "https://crests.football-data.org/79.png",
+     "p": 13,
+     "w": 4,
+     "d": 3,
+     "l": 6,
+     "gf": 13,
+     "ga": 23,
+     "pts": 15,
+     "form": [
+      "W",
+      "L",
+      "L",
+      "D",
+      "W"
+     ],
+     "pos": 13,
+     "gd": -10
+    },
+    {
      "team": "Celta",
      "tla": "CEL",
      "crest": "https://crests.football-data.org/558.png",
@@ -2564,7 +2588,7 @@
       "D",
       "L"
      ],
-     "pos": 13,
+     "pos": 14,
      "gd": -1
     },
     {
@@ -2585,7 +2609,7 @@
       "L",
       "L"
      ],
-     "pos": 14,
+     "pos": 15,
      "gd": -7
     },
     {
@@ -2606,29 +2630,8 @@
       "W",
       "L"
      ],
-     "pos": 15,
-     "gd": -10
-    },
-    {
-     "team": "Osasuna",
-     "tla": "OSA",
-     "crest": "https://crests.football-data.org/79.png",
-     "p": 12,
-     "w": 3,
-     "d": 3,
-     "l": 6,
-     "gf": 12,
-     "ga": 23,
-     "pts": 12,
-     "form": [
-      "L",
-      "W",
-      "L",
-      "L",
-      "D"
-     ],
      "pos": 16,
-     "gd": -11
+     "gd": -10
     },
     {
      "team": "Valencia",
@@ -2697,22 +2700,22 @@
      "team": "Málaga",
      "tla": "MAL",
      "crest": "https://crests.football-data.org/84.png",
-     "p": 12,
+     "p": 13,
      "w": 0,
      "d": 5,
-     "l": 7,
+     "l": 8,
      "gf": 9,
-     "ga": 23,
+     "ga": 24,
      "pts": 5,
      "form": [
-      "D",
       "L",
       "D",
+      "L",
       "L",
       "L"
      ],
      "pos": 20,
-     "gd": -14
+     "gd": -15
     }
    ]
   },
@@ -3218,6 +3221,181 @@
       "home": 47,
       "draw": 26,
       "away": 27
+     }
+    },
+    {
+     "id": 575415,
+     "kickoff": "2026-12-08T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 6,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Barça",
+      "tla": "FCB",
+      "crest": "https://crests.football-data.org/81.png",
+      "elo": 1897
+     },
+     "away": {
+      "name": "Man City",
+      "tla": "MCI",
+      "crest": "https://crests.football-data.org/65.png",
+      "elo": 1767
+     },
+     "score": null,
+     "prob": {
+      "home": 64,
+      "draw": 20,
+      "away": 16
+     }
+    },
+    {
+     "id": 575416,
+     "kickoff": "2026-12-08T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 6,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Aston Villa",
+      "tla": "AVL",
+      "crest": "https://crests.football-data.org/58.png",
+      "elo": 1643
+     },
+     "away": {
+      "name": "PSG",
+      "tla": "PSG",
+      "crest": "https://crests.football-data.org/524.png",
+      "elo": 1797
+     },
+     "score": null,
+     "prob": {
+      "home": 26,
+      "draw": 25,
+      "away": 49
+     }
+    },
+    {
+     "id": 575417,
+     "kickoff": "2026-12-08T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 6,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Bayern",
+      "tla": "FCB",
+      "crest": "https://crests.football-data.org/5.png",
+      "elo": 1893
+     },
+     "away": {
+      "name": "Slavia Praha",
+      "tla": "SLP",
+      "crest": "https://crests.football-data.org/930.png",
+      "elo": 1449
+     },
+     "score": null,
+     "prob": {
+      "home": 92,
+      "draw": 5,
+      "away": 3
+     }
+    },
+    {
+     "id": 575418,
+     "kickoff": "2026-12-08T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 6,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Napoli",
+      "tla": "NAP",
+      "crest": "https://crests.football-data.org/113.png",
+      "elo": 1635
+     },
+     "away": {
+      "name": "Club Brugge",
+      "tla": "BRU",
+      "crest": "https://crests.football-data.org/851.png",
+      "elo": 1513
+     },
+     "score": null,
+     "prob": {
+      "home": 63,
+      "draw": 21,
+      "away": 16
+     }
+    },
+    {
+     "id": 575419,
+     "kickoff": "2026-12-08T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 6,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Roma",
+      "tla": "ROM",
+      "crest": "https://crests.football-data.org/100.png",
+      "elo": 1741
+     },
+     "away": {
+      "name": "Sporting CP",
+      "tla": "SPO",
+      "crest": "https://crests.football-data.org/498.png",
+      "elo": 1504
+     },
+     "score": null,
+     "prob": {
+      "home": 77,
+      "draw": 14,
+      "away": 9
+     }
+    },
+    {
+     "id": 575420,
+     "kickoff": "2026-12-08T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 6,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Man United",
+      "tla": "MUN",
+      "crest": "https://crests.football-data.org/66.png",
+      "elo": 1595
+     },
+     "away": {
+      "name": "RB Leipzig",
+      "tla": "RBL",
+      "crest": "https://crests.football-data.org/721.png",
+      "elo": 1645
+     },
+     "score": null,
+     "prob": {
+      "home": 39,
+      "draw": 27,
+      "away": 34
+     }
+    },
+    {
+     "id": 575421,
+     "kickoff": "2026-12-08T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 6,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "PAE AEK",
+      "tla": "AEK",
+      "crest": "https://crests.football-data.org/1899.png",
+      "elo": 1459
+     },
+     "away": {
+      "name": "Galatasaray",
+      "tla": "GAL",
+      "crest": "https://crests.football-data.org/610.png",
+      "elo": 1496
+     },
+     "score": null,
+     "prob": {
+      "home": 40,
+      "draw": 27,
+      "away": 33
      }
     }
    ],
