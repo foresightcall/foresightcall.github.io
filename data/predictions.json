@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-22T13:10:48Z",
+ "generated_at": "2026-11-22T15:56:56Z",
  "sample": false,
  "season": "2026/27",
  "model": {
   "name": "Elo ratings + ordered logit",
-  "matches": 749,
-  "accuracy": 0.498,
-  "always_home_accuracy": 0.434
+  "matches": 750,
+  "accuracy": 0.499,
+  "always_home_accuracy": 0.435
  },
  "competitions": [
   {
@@ -212,7 +212,7 @@
     {
      "id": 560646,
      "kickoff": "2026-11-22T14:00:00Z",
-     "status": "UPCOMING",
+     "status": "LIVE",
      "matchday": 11,
      "stage": "REGULAR_SEASON",
      "home": {
@@ -227,7 +227,10 @@
       "crest": "https://crests.football-data.org/397.png",
       "elo": 1687
      },
-     "score": null,
+     "score": {
+      "home": 0,
+      "away": 0
+     },
      "prob": {
       "home": 27,
       "draw": 26,
@@ -1605,22 +1608,25 @@
     {
      "id": 564749,
      "kickoff": "2026-11-22T13:00:00Z",
-     "status": "UPCOMING",
+     "status": "FINISHED",
      "matchday": 13,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Barça",
       "tla": "FCB",
       "crest": "https://crests.football-data.org/81.png",
-      "elo": 1894
+      "elo": 1897
      },
      "away": {
       "name": "Villarreal",
       "tla": "VIL",
       "crest": "https://crests.football-data.org/94.png",
-      "elo": 1632
+      "elo": 1630
      },
-     "score": null,
+     "score": {
+      "home": 3,
+      "away": 2
+     },
      "prob": {
       "home": 79,
       "draw": 13,
@@ -1630,7 +1636,7 @@
     {
      "id": 564750,
      "kickoff": "2026-11-22T15:15:00Z",
-     "status": "UPCOMING",
+     "status": "LIVE",
      "matchday": 13,
      "stage": "REGULAR_SEASON",
      "home": {
@@ -1645,7 +1651,10 @@
       "crest": "https://crests.football-data.org/92.png",
       "elo": 1569
      },
-     "score": null,
+     "score": {
+      "home": 2,
+      "away": 0
+     },
      "prob": {
       "home": 37,
       "draw": 27,
@@ -1893,7 +1902,7 @@
       "name": "Barça",
       "tla": "FCB",
       "crest": "https://crests.football-data.org/81.png",
-      "elo": 1894
+      "elo": 1897
      },
      "score": null,
      "prob": {
@@ -1918,7 +1927,7 @@
       "name": "Villarreal",
       "tla": "VIL",
       "crest": "https://crests.football-data.org/94.png",
-      "elo": 1632
+      "elo": 1630
      },
      "score": null,
      "prob": {
@@ -2012,7 +2021,7 @@
       "name": "Barça",
       "tla": "FCB",
       "crest": "https://crests.football-data.org/81.png",
-      "elo": 1894
+      "elo": 1897
      },
      "away": {
       "name": "Atleti",
@@ -2112,7 +2121,7 @@
       "name": "Villarreal",
       "tla": "VIL",
       "crest": "https://crests.football-data.org/94.png",
-      "elo": 1632
+      "elo": 1630
      },
      "away": {
       "name": "Real Sociedad",
@@ -2122,9 +2131,9 @@
      },
      "score": null,
      "prob": {
-      "home": 55,
+      "home": 54,
       "draw": 24,
-      "away": 21
+      "away": 22
      }
     },
     {
@@ -2137,7 +2146,7 @@
       "name": "Barça",
       "tla": "FCB",
       "crest": "https://crests.football-data.org/81.png",
-      "elo": 1894
+      "elo": 1897
      },
      "away": {
       "name": "Celta",
@@ -2283,22 +2292,22 @@
      "team": "Barça",
      "tla": "FCB",
      "crest": "https://crests.football-data.org/81.png",
-     "p": 12,
-     "w": 11,
+     "p": 13,
+     "w": 12,
      "d": 0,
      "l": 1,
-     "gf": 48,
-     "ga": 13,
-     "pts": 33,
+     "gf": 51,
+     "ga": 15,
+     "pts": 36,
      "form": [
       "W",
-      "W",
       "L",
+      "W",
       "W",
       "W"
      ],
      "pos": 1,
-     "gd": 35
+     "gd": 36
     },
     {
      "team": "Real Madrid",
@@ -2451,22 +2460,22 @@
      "team": "Villarreal",
      "tla": "VIL",
      "crest": "https://crests.football-data.org/94.png",
-     "p": 12,
+     "p": 13,
      "w": 4,
      "d": 3,
-     "l": 5,
-     "gf": 17,
-     "ga": 15,
+     "l": 6,
+     "gf": 19,
+     "ga": 18,
      "pts": 15,
      "form": [
-      "L",
       "D",
       "W",
       "L",
-      "W"
+      "W",
+      "L"
      ],
      "pos": 9,
-     "gd": 2
+     "gd": 1
     },
     {
      "team": "Espanyol",
@@ -2946,13 +2955,13 @@
       "name": "Barça",
       "tla": "FCB",
       "crest": "https://crests.football-data.org/81.png",
-      "elo": 1894
+      "elo": 1897
      },
      "score": null,
      "prob": {
       "home": 6,
-      "draw": 11,
-      "away": 83
+      "draw": 10,
+      "away": 84
      }
     },
     {
@@ -2971,7 +2980,7 @@
       "name": "Villarreal",
       "tla": "VIL",
       "crest": "https://crests.football-data.org/94.png",
-      "elo": 1632
+      "elo": 1630
      },
      "score": null,
      "prob": {
