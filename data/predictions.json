@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T13:35:55Z",
+ "generated_at": "2026-11-23T19:15:08Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -2294,6 +2294,31 @@
       "draw": 24,
       "away": 23
      }
+    },
+    {
+     "id": 564698,
+     "kickoff": "2026-12-09T19:00:00Z",
+     "status": "POSTPONED",
+     "matchday": 8,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Rayo Vallecano",
+      "tla": "RAY",
+      "crest": "https://crests.football-data.org/87.png",
+      "elo": 1533
+     },
+     "away": {
+      "name": "Athletic",
+      "tla": "ATH",
+      "crest": "https://crests.football-data.org/77.png",
+      "elo": 1549
+     },
+     "score": null,
+     "prob": {
+      "home": 43,
+      "draw": 26,
+      "away": 31
+     }
     }
    ],
    "table": [
@@ -2814,7 +2839,7 @@
       "name": "Napoli",
       "tla": "NAP",
       "crest": "https://crests.football-data.org/113.png",
-      "elo": 1635
+      "elo": 1640
      },
      "score": null,
      "prob": {
@@ -2839,12 +2864,12 @@
       "name": "Dortmund",
       "tla": "BVB",
       "crest": "https://crests.football-data.org/4.png",
-      "elo": 1756
+      "elo": 1760
      },
      "score": null,
      "prob": {
-      "home": 59,
-      "draw": 22,
+      "home": 58,
+      "draw": 23,
       "away": 19
      }
     },
@@ -2908,19 +2933,19 @@
       "name": "RB Leipzig",
       "tla": "RBL",
       "crest": "https://crests.football-data.org/721.png",
-      "elo": 1645
+      "elo": 1657
      },
      "away": {
       "name": "RC Lens",
       "tla": "RCL",
       "crest": "https://crests.football-data.org/546.png",
-      "elo": 1578
+      "elo": 1575
      },
      "score": null,
      "prob": {
-      "home": 55,
-      "draw": 24,
-      "away": 21
+      "home": 57,
+      "draw": 23,
+      "away": 20
      }
     },
     {
@@ -2933,7 +2958,7 @@
       "name": "Como 1907",
       "tla": "COM",
       "crest": "https://crests.football-data.org/7397.png",
-      "elo": 1731
+      "elo": 1735
      },
      "away": {
       "name": "PAE AEK",
@@ -3008,13 +3033,13 @@
       "name": "Inter",
       "tla": "INT",
       "crest": "https://crests.football-data.org/108.png",
-      "elo": 1824
+      "elo": 1820
      },
      "away": {
       "name": "Stuttgart",
       "tla": "VFB",
       "crest": "https://crests.football-data.org/10.png",
-      "elo": 1647
+      "elo": 1645
      },
      "score": null,
      "prob": {
@@ -3058,13 +3083,13 @@
       "name": "PSG",
       "tla": "PSG",
       "crest": "https://crests.football-data.org/524.png",
-      "elo": 1797
+      "elo": 1805
      },
      "away": {
       "name": "Roma",
       "tla": "ROM",
       "crest": "https://crests.football-data.org/100.png",
-      "elo": 1741
+      "elo": 1750
      },
      "score": null,
      "prob": {
@@ -3108,13 +3133,13 @@
       "name": "Lille",
       "tla": "LIL",
       "crest": "https://crests.football-data.org/521.png",
-      "elo": 1618
+      "elo": 1606
      },
      "away": {
       "name": "Bayern",
       "tla": "FCB",
       "crest": "https://crests.football-data.org/5.png",
-      "elo": 1893
+      "elo": 1884
      },
      "score": null,
      "prob": {
@@ -3264,13 +3289,13 @@
       "name": "PSG",
       "tla": "PSG",
       "crest": "https://crests.football-data.org/524.png",
-      "elo": 1797
+      "elo": 1805
      },
      "score": null,
      "prob": {
-      "home": 26,
+      "home": 25,
       "draw": 25,
-      "away": 49
+      "away": 50
      }
     },
     {
@@ -3283,7 +3308,7 @@
       "name": "Bayern",
       "tla": "FCB",
       "crest": "https://crests.football-data.org/5.png",
-      "elo": 1893
+      "elo": 1884
      },
      "away": {
       "name": "Slavia Praha",
@@ -3293,8 +3318,8 @@
      },
      "score": null,
      "prob": {
-      "home": 92,
-      "draw": 5,
+      "home": 91,
+      "draw": 6,
       "away": 3
      }
     },
@@ -3308,7 +3333,7 @@
       "name": "Napoli",
       "tla": "NAP",
       "crest": "https://crests.football-data.org/113.png",
-      "elo": 1635
+      "elo": 1640
      },
      "away": {
       "name": "Club Brugge",
@@ -3318,8 +3343,8 @@
      },
      "score": null,
      "prob": {
-      "home": 63,
-      "draw": 21,
+      "home": 64,
+      "draw": 20,
       "away": 16
      }
     },
@@ -3333,7 +3358,7 @@
       "name": "Roma",
       "tla": "ROM",
       "crest": "https://crests.football-data.org/100.png",
-      "elo": 1741
+      "elo": 1750
      },
      "away": {
       "name": "Sporting CP",
@@ -3364,13 +3389,13 @@
       "name": "RB Leipzig",
       "tla": "RBL",
       "crest": "https://crests.football-data.org/721.png",
-      "elo": 1645
+      "elo": 1657
      },
      "score": null,
      "prob": {
-      "home": 39,
+      "home": 37,
       "draw": 27,
-      "away": 34
+      "away": 36
      }
     },
     {
@@ -3390,6 +3415,56 @@
       "tla": "GAL",
       "crest": "https://crests.football-data.org/610.png",
       "elo": 1496
+     },
+     "score": null,
+     "prob": {
+      "home": 40,
+      "draw": 27,
+      "away": 33
+     }
+    },
+    {
+     "id": 575422,
+     "kickoff": "2026-12-09T17:45:00Z",
+     "status": "UPCOMING",
+     "matchday": 6,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Real Betis",
+      "tla": "BET",
+      "crest": "https://crests.football-data.org/90.png",
+      "elo": 1675
+     },
+     "away": {
+      "name": "Como 1907",
+      "tla": "COM",
+      "crest": "https://crests.football-data.org/7397.png",
+      "elo": 1735
+     },
+     "score": null,
+     "prob": {
+      "home": 37,
+      "draw": 27,
+      "away": 36
+     }
+    },
+    {
+     "id": 575423,
+     "kickoff": "2026-12-09T17:45:00Z",
+     "status": "UPCOMING",
+     "matchday": 6,
+     "stage": "LEAGUE_STAGE",
+     "home": {
+      "name": "Sl. Bratislava",
+      "tla": "SBA",
+      "crest": "https://crests.football-data.org/7509.png",
+      "elo": 1432
+     },
+     "away": {
+      "name": "Shaktar",
+      "tla": "SHD",
+      "crest": "https://crests.football-data.org/1887.png",
+      "elo": 1471
      },
      "score": null,
      "prob": {
