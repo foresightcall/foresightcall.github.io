@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-23T01:29:27Z",
+ "generated_at": "2026-11-23T13:35:55Z",
  "sample": false,
  "season": "2026/27",
  "model": {
   "name": "Elo ratings + ordered logit",
-  "matches": 755,
+  "matches": 749,
   "accuracy": 0.501,
-  "always_home_accuracy": 0.437
+  "always_home_accuracy": 0.439
  },
  "competitions": [
   {
