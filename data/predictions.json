@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-23T22:03:54Z",
+ "generated_at": "2026-11-24T01:28:06Z",
  "sample": false,
  "season": "2026/27",
  "model": {
   "name": "Elo ratings + ordered logit",
-  "matches": 750,
-  "accuracy": 0.5,
+  "matches": 751,
+  "accuracy": 0.501,
   "always_home_accuracy": 0.439
  },
  "competitions": [
@@ -268,23 +268,23 @@
     {
      "id": 560649,
      "kickoff": "2026-11-23T20:00:00Z",
-     "status": "LIVE",
+     "status": "FINISHED",
      "matchday": 11,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Brentford",
       "tla": "BRE",
       "crest": "https://crests.football-data.org/402.png",
-      "elo": 1608
+      "elo": 1622
      },
      "away": {
       "name": "Everton",
       "tla": "EVE",
       "crest": "https://crests.football-data.org/62.png",
-      "elo": 1576
+      "elo": 1562
      },
      "score": {
-      "home": 3,
+      "home": 4,
       "away": 0
      },
      "prob": {
@@ -359,13 +359,13 @@
       "name": "Brentford",
       "tla": "BRE",
       "crest": "https://crests.football-data.org/402.png",
-      "elo": 1608
+      "elo": 1622
      },
      "score": null,
      "prob": {
-      "home": 44,
+      "home": 42,
       "draw": 26,
-      "away": 30
+      "away": 32
      }
     },
     {
@@ -403,7 +403,7 @@
       "name": "Everton",
       "tla": "EVE",
       "crest": "https://crests.football-data.org/62.png",
-      "elo": 1576
+      "elo": 1562
      },
      "away": {
       "name": "Liverpool",
@@ -413,9 +413,9 @@
      },
      "score": null,
      "prob": {
-      "home": 27,
-      "draw": 26,
-      "away": 47
+      "home": 26,
+      "draw": 25,
+      "away": 49
      }
     },
     {
@@ -684,13 +684,13 @@
       "name": "Everton",
       "tla": "EVE",
       "crest": "https://crests.football-data.org/62.png",
-      "elo": 1576
+      "elo": 1562
      },
      "score": null,
      "prob": {
-      "home": 55,
-      "draw": 24,
-      "away": 21
+      "home": 57,
+      "draw": 23,
+      "away": 20
      }
     },
     {
@@ -703,7 +703,7 @@
       "name": "Brentford",
       "tla": "BRE",
       "crest": "https://crests.football-data.org/402.png",
-      "elo": 1608
+      "elo": 1622
      },
      "away": {
       "name": "Arsenal",
@@ -713,9 +713,9 @@
      },
      "score": null,
      "prob": {
-      "home": 17,
-      "draw": 21,
-      "away": 62
+      "home": 19,
+      "draw": 22,
+      "away": 59
      }
     },
     {
@@ -953,7 +953,7 @@
       "name": "Brentford",
       "tla": "BRE",
       "crest": "https://crests.football-data.org/402.png",
-      "elo": 1608
+      "elo": 1622
      },
      "away": {
       "name": "Man City",
@@ -963,9 +963,9 @@
      },
      "score": null,
      "prob": {
-      "home": 25,
+      "home": 27,
       "draw": 25,
-      "away": 50
+      "away": 48
      }
     },
     {
@@ -1003,7 +1003,7 @@
       "name": "Everton",
       "tla": "EVE",
       "crest": "https://crests.football-data.org/62.png",
-      "elo": 1576
+      "elo": 1562
      },
      "away": {
       "name": "Fulham",
@@ -1013,9 +1013,9 @@
      },
      "score": null,
      "prob": {
-      "home": 48,
+      "home": 46,
       "draw": 26,
-      "away": 26
+      "away": 28
      }
     },
     {
@@ -1151,6 +1151,27 @@
      "gd": 4
     },
     {
+     "team": "Brentford",
+     "tla": "BRE",
+     "crest": "https://crests.football-data.org/402.png",
+     "p": 11,
+     "w": 4,
+     "d": 5,
+     "l": 2,
+     "gf": 20,
+     "ga": 11,
+     "pts": 17,
+     "form": [
+      "L",
+      "D",
+      "W",
+      "L",
+      "W"
+     ],
+     "pos": 6,
+     "gd": 9
+    },
+    {
      "team": "Leeds United",
      "tla": "LEE",
      "crest": "https://crests.football-data.org/341.png",
@@ -1168,29 +1189,8 @@
       "W",
       "W"
      ],
-     "pos": 6,
-     "gd": 5
-    },
-    {
-     "team": "Everton",
-     "tla": "EVE",
-     "crest": "https://crests.football-data.org/62.png",
-     "p": 10,
-     "w": 4,
-     "d": 4,
-     "l": 2,
-     "gf": 12,
-     "ga": 10,
-     "pts": 16,
-     "form": [
-      "D",
-      "L",
-      "L",
-      "W",
-      "W"
-     ],
      "pos": 7,
-     "gd": 2
+     "gd": 5
     },
     {
      "team": "Chelsea",
@@ -1214,6 +1214,27 @@
      "gd": 0
     },
     {
+     "team": "Everton",
+     "tla": "EVE",
+     "crest": "https://crests.football-data.org/62.png",
+     "p": 11,
+     "w": 4,
+     "d": 4,
+     "l": 3,
+     "gf": 12,
+     "ga": 14,
+     "pts": 16,
+     "form": [
+      "L",
+      "L",
+      "W",
+      "W",
+      "L"
+     ],
+     "pos": 9,
+     "gd": -2
+    },
+    {
      "team": "Tottenham",
      "tla": "TOT",
      "crest": "https://crests.football-data.org/73.png",
@@ -1231,29 +1252,8 @@
       "L",
       "W"
      ],
-     "pos": 9,
-     "gd": 1
-    },
-    {
-     "team": "Brentford",
-     "tla": "BRE",
-     "crest": "https://crests.football-data.org/402.png",
-     "p": 10,
-     "w": 3,
-     "d": 5,
-     "l": 2,
-     "gf": 16,
-     "ga": 11,
-     "pts": 14,
-     "form": [
-      "D",
-      "L",
-      "D",
-      "W",
-      "L"
-     ],
      "pos": 10,
-     "gd": 5
+     "gd": 1
     },
     {
      "team": "Hull City",
