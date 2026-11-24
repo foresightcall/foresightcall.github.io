@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T19:14:44Z",
+ "generated_at": "2026-11-24T22:11:22Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -23,7 +23,7 @@
       "name": "Man City",
       "tla": "MCI",
       "crest": "https://crests.football-data.org/65.png",
-      "elo": 1767
+      "elo": 1762
      },
      "away": {
       "name": "Fulham",
@@ -79,7 +79,7 @@
       "name": "Aston Villa",
       "tla": "AVL",
       "crest": "https://crests.football-data.org/58.png",
-      "elo": 1643
+      "elo": 1631
      },
      "away": {
       "name": "Sunderland",
@@ -197,7 +197,7 @@
       "name": "Arsenal",
       "tla": "ARS",
       "crest": "https://crests.football-data.org/57.png",
-      "elo": 1848
+      "elo": 1845
      },
      "score": {
       "home": 2,
@@ -384,13 +384,13 @@
       "name": "Aston Villa",
       "tla": "AVL",
       "crest": "https://crests.football-data.org/58.png",
-      "elo": 1643
+      "elo": 1631
      },
      "score": null,
      "prob": {
-      "home": 16,
+      "home": 18,
       "draw": 21,
-      "away": 63
+      "away": 61
      }
     },
     {
@@ -528,13 +528,13 @@
       "name": "Arsenal",
       "tla": "ARS",
       "crest": "https://crests.football-data.org/57.png",
-      "elo": 1848
+      "elo": 1845
      },
      "away": {
       "name": "Man City",
       "tla": "MCI",
       "crest": "https://crests.football-data.org/65.png",
-      "elo": 1767
+      "elo": 1762
      },
      "score": null,
      "prob": {
@@ -653,7 +653,7 @@
       "name": "Man City",
       "tla": "MCI",
       "crest": "https://crests.football-data.org/65.png",
-      "elo": 1767
+      "elo": 1762
      },
      "away": {
       "name": "Leeds United",
@@ -663,8 +663,8 @@
      },
      "score": null,
      "prob": {
-      "home": 68,
-      "draw": 18,
+      "home": 67,
+      "draw": 19,
       "away": 14
      }
     },
@@ -678,7 +678,7 @@
       "name": "Aston Villa",
       "tla": "AVL",
       "crest": "https://crests.football-data.org/58.png",
-      "elo": 1643
+      "elo": 1631
      },
      "away": {
       "name": "Everton",
@@ -688,9 +688,9 @@
      },
      "score": null,
      "prob": {
-      "home": 57,
+      "home": 56,
       "draw": 23,
-      "away": 20
+      "away": 21
      }
     },
     {
@@ -709,7 +709,7 @@
       "name": "Arsenal",
       "tla": "ARS",
       "crest": "https://crests.football-data.org/57.png",
-      "elo": 1848
+      "elo": 1845
      },
      "score": null,
      "prob": {
@@ -903,7 +903,7 @@
       "name": "Aston Villa",
       "tla": "AVL",
       "crest": "https://crests.football-data.org/58.png",
-      "elo": 1643
+      "elo": 1631
      },
      "away": {
       "name": "Crystal Palace",
@@ -913,8 +913,8 @@
      },
      "score": null,
      "prob": {
-      "home": 68,
-      "draw": 18,
+      "home": 67,
+      "draw": 19,
       "away": 14
      }
     },
@@ -959,13 +959,13 @@
       "name": "Man City",
       "tla": "MCI",
       "crest": "https://crests.football-data.org/65.png",
-      "elo": 1767
+      "elo": 1762
      },
      "score": null,
      "prob": {
       "home": 27,
-      "draw": 25,
-      "away": 48
+      "draw": 26,
+      "away": 47
      }
     },
     {
@@ -1034,7 +1034,7 @@
       "name": "Arsenal",
       "tla": "ARS",
       "crest": "https://crests.football-data.org/57.png",
-      "elo": 1848
+      "elo": 1845
      },
      "score": null,
      "prob": {
@@ -1571,7 +1571,7 @@
       "name": "Real Betis",
       "tla": "BET",
       "crest": "https://crests.football-data.org/90.png",
-      "elo": 1675
+      "elo": 1683
      },
      "score": {
       "home": 1,
@@ -1593,7 +1593,7 @@
       "name": "Real Madrid",
       "tla": "RMA",
       "crest": "https://crests.football-data.org/86.png",
-      "elo": 1865
+      "elo": 1868
      },
      "away": {
       "name": "Celta",
@@ -1786,7 +1786,7 @@
       "name": "Real Betis",
       "tla": "BET",
       "crest": "https://crests.football-data.org/90.png",
-      "elo": 1675
+      "elo": 1683
      },
      "away": {
       "name": "Rayo Vallecano",
@@ -1796,9 +1796,9 @@
      },
      "score": null,
      "prob": {
-      "home": 65,
-      "draw": 20,
-      "away": 15
+      "home": 67,
+      "draw": 19,
+      "away": 14
      }
     },
     {
@@ -1861,7 +1861,7 @@
       "name": "Real Madrid",
       "tla": "RMA",
       "crest": "https://crests.football-data.org/86.png",
-      "elo": 1865
+      "elo": 1868
      },
      "away": {
       "name": "Alavés",
@@ -2017,7 +2017,7 @@
       "name": "Real Madrid",
       "tla": "RMA",
       "crest": "https://crests.football-data.org/86.png",
-      "elo": 1865
+      "elo": 1868
      },
      "score": null,
      "prob": {
@@ -2217,7 +2217,7 @@
       "name": "Real Madrid",
       "tla": "RMA",
       "crest": "https://crests.football-data.org/86.png",
-      "elo": 1865
+      "elo": 1868
      },
      "score": null,
      "prob": {
@@ -2267,13 +2267,13 @@
       "name": "Real Betis",
       "tla": "BET",
       "crest": "https://crests.football-data.org/90.png",
-      "elo": 1675
+      "elo": 1683
      },
      "score": null,
      "prob": {
-      "home": 53,
-      "draw": 24,
-      "away": 23
+      "home": 51,
+      "draw": 25,
+      "away": 24
      }
     },
     {
@@ -2757,23 +2757,23 @@
     {
      "id": 575395,
      "kickoff": "2026-11-24T17:45:00Z",
-     "status": "LIVE",
+     "status": "FINISHED",
      "matchday": 5,
      "stage": "LEAGUE_STAGE",
      "home": {
       "name": "Galatasaray",
       "tla": "GAL",
       "crest": "https://crests.football-data.org/610.png",
-      "elo": 1496
+      "elo": 1509
      },
      "away": {
       "name": "Aston Villa",
       "tla": "AVL",
       "crest": "https://crests.football-data.org/58.png",
-      "elo": 1643
+      "elo": 1631
      },
      "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
      },
      "prob": {
@@ -2785,23 +2785,23 @@
     {
      "id": 575396,
      "kickoff": "2026-11-24T17:45:00Z",
-     "status": "LIVE",
+     "status": "FINISHED",
      "matchday": 5,
      "stage": "LEAGUE_STAGE",
      "home": {
       "name": "Bodø/Glimt",
       "tla": "FK",
       "crest": "https://crests.football-data.org/5721.png",
-      "elo": 1480
+      "elo": 1488
      },
      "away": {
       "name": "LASK",
       "tla": "LIN",
       "crest": "https://crests.football-data.org/2016.png",
-      "elo": 1479
+      "elo": 1470
      },
      "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
      },
      "prob": {
@@ -2813,22 +2813,25 @@
     {
      "id": 575397,
      "kickoff": "2026-11-24T20:00:00Z",
-     "status": "UPCOMING",
+     "status": "FINISHED",
      "matchday": 5,
      "stage": "LEAGUE_STAGE",
      "home": {
       "name": "Real Madrid",
       "tla": "RMA",
       "crest": "https://crests.football-data.org/86.png",
-      "elo": 1865
+      "elo": 1868
      },
      "away": {
       "name": "PSV",
       "tla": "PSV",
       "crest": "https://crests.football-data.org/674.png",
-      "elo": 1464
+      "elo": 1462
      },
-     "score": null,
+     "score": {
+      "home": 5,
+      "away": 1
+     },
      "prob": {
       "home": 89,
       "draw": 7,
@@ -2838,22 +2841,25 @@
     {
      "id": 575398,
      "kickoff": "2026-11-24T20:00:00Z",
-     "status": "UPCOMING",
+     "status": "FINISHED",
      "matchday": 5,
      "stage": "LEAGUE_STAGE",
      "home": {
       "name": "Man City",
       "tla": "MCI",
       "crest": "https://crests.football-data.org/65.png",
-      "elo": 1767
+      "elo": 1762
      },
      "away": {
       "name": "Napoli",
       "tla": "NAP",
       "crest": "https://crests.football-data.org/113.png",
-      "elo": 1640
+      "elo": 1645
      },
-     "score": null,
+     "score": {
+      "home": 2,
+      "away": 2
+     },
      "prob": {
       "home": 64,
       "draw": 20,
@@ -2863,22 +2869,25 @@
     {
      "id": 575399,
      "kickoff": "2026-11-24T20:00:00Z",
-     "status": "UPCOMING",
+     "status": "FINISHED",
      "matchday": 5,
      "stage": "LEAGUE_STAGE",
      "home": {
       "name": "Arsenal",
       "tla": "ARS",
       "crest": "https://crests.football-data.org/57.png",
-      "elo": 1848
+      "elo": 1845
      },
      "away": {
       "name": "Dortmund",
       "tla": "BVB",
       "crest": "https://crests.football-data.org/4.png",
-      "elo": 1760
+      "elo": 1764
      },
-     "score": null,
+     "score": {
+      "home": 1,
+      "away": 1
+     },
      "prob": {
       "home": 58,
       "draw": 23,
@@ -2888,22 +2897,25 @@
     {
      "id": 575400,
      "kickoff": "2026-11-24T20:00:00Z",
-     "status": "UPCOMING",
+     "status": "FINISHED",
      "matchday": 5,
      "stage": "LEAGUE_STAGE",
      "home": {
       "name": "Feyenoord",
       "tla": "FEY",
       "crest": "https://crests.football-data.org/675.png",
-      "elo": 1471
+      "elo": 1459
      },
      "away": {
       "name": "Porto",
       "tla": "FCP",
       "crest": "https://crests.football-data.org/503.png",
-      "elo": 1473
+      "elo": 1485
      },
-     "score": null,
+     "score": {
+      "home": 0,
+      "away": 1
+     },
      "prob": {
       "home": 45,
       "draw": 26,
@@ -2913,22 +2925,25 @@
     {
      "id": 575401,
      "kickoff": "2026-11-24T20:00:00Z",
-     "status": "UPCOMING",
+     "status": "FINISHED",
      "matchday": 5,
      "stage": "LEAGUE_STAGE",
      "home": {
       "name": "Sl. Bratislava",
       "tla": "SBA",
       "crest": "https://crests.football-data.org/7509.png",
-      "elo": 1432
+      "elo": 1423
      },
      "away": {
       "name": "Real Betis",
       "tla": "BET",
       "crest": "https://crests.football-data.org/90.png",
-      "elo": 1675
+      "elo": 1683
      },
-     "score": null,
+     "score": {
+      "home": 0,
+      "away": 2
+     },
      "prob": {
       "home": 17,
       "draw": 21,
@@ -2938,22 +2953,25 @@
     {
      "id": 575402,
      "kickoff": "2026-11-24T20:00:00Z",
-     "status": "UPCOMING",
+     "status": "FINISHED",
      "matchday": 5,
      "stage": "LEAGUE_STAGE",
      "home": {
       "name": "RB Leipzig",
       "tla": "RBL",
       "crest": "https://crests.football-data.org/721.png",
-      "elo": 1657
+      "elo": 1666
      },
      "away": {
       "name": "RC Lens",
       "tla": "RCL",
       "crest": "https://crests.football-data.org/546.png",
-      "elo": 1575
+      "elo": 1566
      },
-     "score": null,
+     "score": {
+      "home": 3,
+      "away": 1
+     },
      "prob": {
       "home": 57,
       "draw": 23,
@@ -2963,22 +2981,25 @@
     {
      "id": 575403,
      "kickoff": "2026-11-24T20:00:00Z",
-     "status": "UPCOMING",
+     "status": "FINISHED",
      "matchday": 5,
      "stage": "LEAGUE_STAGE",
      "home": {
       "name": "Como 1907",
       "tla": "COM",
       "crest": "https://crests.football-data.org/7397.png",
-      "elo": 1735
+      "elo": 1738
      },
      "away": {
       "name": "PAE AEK",
       "tla": "AEK",
       "crest": "https://crests.football-data.org/1899.png",
-      "elo": 1459
+      "elo": 1456
      },
-     "score": null,
+     "score": {
+      "home": 1,
+      "away": 0
+     },
      "prob": {
       "home": 80,
       "draw": 12,
@@ -3251,13 +3272,13 @@
       "name": "Feyenoord",
       "tla": "FEY",
       "crest": "https://crests.football-data.org/675.png",
-      "elo": 1471
+      "elo": 1459
      },
      "score": null,
      "prob": {
-      "home": 47,
-      "draw": 26,
-      "away": 27
+      "home": 49,
+      "draw": 25,
+      "away": 26
      }
     },
     {
@@ -3276,13 +3297,13 @@
       "name": "Man City",
       "tla": "MCI",
       "crest": "https://crests.football-data.org/65.png",
-      "elo": 1767
+      "elo": 1762
      },
      "score": null,
      "prob": {
-      "home": 64,
+      "home": 65,
       "draw": 20,
-      "away": 16
+      "away": 15
      }
     },
     {
@@ -3295,7 +3316,7 @@
       "name": "Aston Villa",
       "tla": "AVL",
       "crest": "https://crests.football-data.org/58.png",
-      "elo": 1643
+      "elo": 1631
      },
      "away": {
       "name": "PSG",
@@ -3305,9 +3326,9 @@
      },
      "score": null,
      "prob": {
-      "home": 25,
-      "draw": 25,
-      "away": 50
+      "home": 24,
+      "draw": 24,
+      "away": 52
      }
     },
     {
@@ -3345,7 +3366,7 @@
       "name": "Napoli",
       "tla": "NAP",
       "crest": "https://crests.football-data.org/113.png",
-      "elo": 1640
+      "elo": 1645
      },
      "away": {
       "name": "Club Brugge",
@@ -3401,13 +3422,13 @@
       "name": "RB Leipzig",
       "tla": "RBL",
       "crest": "https://crests.football-data.org/721.png",
-      "elo": 1657
+      "elo": 1666
      },
      "score": null,
      "prob": {
-      "home": 37,
+      "home": 36,
       "draw": 27,
-      "away": 36
+      "away": 37
      }
     },
     {
@@ -3420,19 +3441,19 @@
       "name": "PAE AEK",
       "tla": "AEK",
       "crest": "https://crests.football-data.org/1899.png",
-      "elo": 1459
+      "elo": 1456
      },
      "away": {
       "name": "Galatasaray",
       "tla": "GAL",
       "crest": "https://crests.football-data.org/610.png",
-      "elo": 1496
+      "elo": 1509
      },
      "score": null,
      "prob": {
-      "home": 40,
+      "home": 38,
       "draw": 27,
-      "away": 33
+      "away": 35
      }
     },
     {
@@ -3445,19 +3466,19 @@
       "name": "Real Betis",
       "tla": "BET",
       "crest": "https://crests.football-data.org/90.png",
-      "elo": 1675
+      "elo": 1683
      },
      "away": {
       "name": "Como 1907",
       "tla": "COM",
       "crest": "https://crests.football-data.org/7397.png",
-      "elo": 1735
+      "elo": 1738
      },
      "score": null,
      "prob": {
-      "home": 37,
+      "home": 38,
       "draw": 27,
-      "away": 36
+      "away": 35
      }
     },
     {
@@ -3470,7 +3491,7 @@
       "name": "Sl. Bratislava",
       "tla": "SBA",
       "crest": "https://crests.football-data.org/7509.png",
-      "elo": 1432
+      "elo": 1423
      },
      "away": {
       "name": "Shaktar",
@@ -3480,9 +3501,9 @@
      },
      "score": null,
      "prob": {
-      "home": 40,
+      "home": 39,
       "draw": 27,
-      "away": 33
+      "away": 34
      }
     },
     {
@@ -3495,18 +3516,18 @@
       "name": "Arsenal",
       "tla": "ARS",
       "crest": "https://crests.football-data.org/57.png",
-      "elo": 1848
+      "elo": 1845
      },
      "away": {
       "name": "Real Madrid",
       "tla": "RMA",
       "crest": "https://crests.football-data.org/86.png",
-      "elo": 1865
+      "elo": 1868
      },
      "score": null,
      "prob": {
-      "home": 43,
-      "draw": 26,
+      "home": 42,
+      "draw": 27,
       "away": 31
      }
     },
@@ -3520,7 +3541,7 @@
       "name": "Dortmund",
       "tla": "BVB",
       "crest": "https://crests.football-data.org/4.png",
-      "elo": 1760
+      "elo": 1764
      },
      "away": {
       "name": "Inter",
@@ -3530,9 +3551,9 @@
      },
      "score": null,
      "prob": {
-      "home": 37,
+      "home": 38,
       "draw": 27,
-      "away": 36
+      "away": 35
      }
     },
     {
@@ -3545,7 +3566,7 @@
       "name": "PSV",
       "tla": "PSV",
       "crest": "https://crests.football-data.org/674.png",
-      "elo": 1464
+      "elo": 1462
      },
      "away": {
       "name": "Atleti",
@@ -3576,13 +3597,13 @@
       "name": "Porto",
       "tla": "FCP",
       "crest": "https://crests.football-data.org/503.png",
-      "elo": 1473
+      "elo": 1485
      },
      "score": null,
      "prob": {
-      "home": 77,
+      "home": 76,
       "draw": 14,
-      "away": 9
+      "away": 10
      }
     },
     {
@@ -3595,19 +3616,19 @@
       "name": "RC Lens",
       "tla": "RCL",
       "crest": "https://crests.football-data.org/546.png",
-      "elo": 1575
+      "elo": 1566
      },
      "away": {
       "name": "Bodø/Glimt",
       "tla": "FK",
       "crest": "https://crests.football-data.org/5721.png",
-      "elo": 1480
+      "elo": 1488
      },
      "score": null,
      "prob": {
-      "home": 59,
-      "draw": 22,
-      "away": 19
+      "home": 57,
+      "draw": 23,
+      "away": 20
      }
     },
     {
@@ -3620,7 +3641,7 @@
       "name": "LASK",
       "tla": "LIN",
       "crest": "https://crests.football-data.org/2016.png",
-      "elo": 1479
+      "elo": 1470
      },
      "away": {
       "name": "Fenerbahçe",
@@ -3630,9 +3651,9 @@
      },
      "score": null,
      "prob": {
-      "home": 46,
+      "home": 45,
       "draw": 26,
-      "away": 28
+      "away": 29
      }
     },
     {
@@ -3663,6 +3684,27 @@
    ],
    "table": [
     {
+     "team": "Real Madrid",
+     "tla": "RMA",
+     "crest": "https://crests.football-data.org/86.png",
+     "p": 5,
+     "w": 5,
+     "d": 0,
+     "l": 0,
+     "gf": 18,
+     "ga": 8,
+     "pts": 15,
+     "form": [
+      "W",
+      "W",
+      "W",
+      "W",
+      "W"
+     ],
+     "pos": 1,
+     "gd": 10
+    },
+    {
      "team": "PSG",
      "tla": "PSG",
      "crest": "https://crests.football-data.org/524.png",
@@ -3679,68 +3721,113 @@
       "W",
       "W"
      ],
-     "pos": 1,
-     "gd": 15
-    },
-    {
-     "team": "Real Madrid",
-     "tla": "RMA",
-     "crest": "https://crests.football-data.org/86.png",
-     "p": 4,
-     "w": 4,
-     "d": 0,
-     "l": 0,
-     "gf": 13,
-     "ga": 7,
-     "pts": 12,
-     "form": [
-      "W",
-      "W",
-      "W",
-      "W"
-     ],
      "pos": 2,
-     "gd": 6
-    },
-    {
-     "team": "Arsenal",
-     "tla": "ARS",
-     "crest": "https://crests.football-data.org/57.png",
-     "p": 4,
-     "w": 3,
-     "d": 1,
-     "l": 0,
-     "gf": 8,
-     "ga": 3,
-     "pts": 10,
-     "form": [
-      "W",
-      "W",
-      "D",
-      "W"
-     ],
-     "pos": 3,
-     "gd": 5
+     "gd": 15
     },
     {
      "team": "Como 1907",
      "tla": "COM",
      "crest": "https://crests.football-data.org/7397.png",
-     "p": 4,
-     "w": 3,
+     "p": 5,
+     "w": 4,
      "d": 0,
      "l": 1,
-     "gf": 19,
+     "gf": 20,
      "ga": 6,
-     "pts": 9,
+     "pts": 12,
      "form": [
       "W",
       "L",
       "W",
+      "W",
+      "W"
+     ],
+     "pos": 3,
+     "gd": 14
+    },
+    {
+     "team": "Real Betis",
+     "tla": "BET",
+     "crest": "https://crests.football-data.org/90.png",
+     "p": 5,
+     "w": 4,
+     "d": 0,
+     "l": 1,
+     "gf": 10,
+     "ga": 6,
+     "pts": 12,
+     "form": [
+      "W",
+      "W",
+      "W",
+      "L",
       "W"
      ],
      "pos": 4,
-     "gd": 13
+     "gd": 4
+    },
+    {
+     "team": "Arsenal",
+     "tla": "ARS",
+     "crest": "https://crests.football-data.org/57.png",
+     "p": 5,
+     "w": 3,
+     "d": 2,
+     "l": 0,
+     "gf": 9,
+     "ga": 4,
+     "pts": 11,
+     "form": [
+      "W",
+      "W",
+      "D",
+      "W",
+      "D"
+     ],
+     "pos": 5,
+     "gd": 5
+    },
+    {
+     "team": "Man City",
+     "tla": "MCI",
+     "crest": "https://crests.football-data.org/65.png",
+     "p": 5,
+     "w": 3,
+     "d": 1,
+     "l": 1,
+     "gf": 14,
+     "ga": 9,
+     "pts": 10,
+     "form": [
+      "W",
+      "L",
+      "W",
+      "W",
+      "D"
+     ],
+     "pos": 6,
+     "gd": 5
+    },
+    {
+     "team": "Dortmund",
+     "tla": "BVB",
+     "crest": "https://crests.football-data.org/4.png",
+     "p": 5,
+     "w": 3,
+     "d": 1,
+     "l": 1,
+     "gf": 8,
+     "ga": 6,
+     "pts": 10,
+     "form": [
+      "W",
+      "L",
+      "W",
+      "W",
+      "D"
+     ],
+     "pos": 7,
+     "gd": 2
     },
     {
      "team": "Barça",
@@ -3759,47 +3846,28 @@
       "L",
       "W"
      ],
-     "pos": 5,
+     "pos": 8,
      "gd": 8
     },
     {
      "team": "Aston Villa",
      "tla": "AVL",
      "crest": "https://crests.football-data.org/58.png",
-     "p": 4,
+     "p": 5,
      "w": 3,
      "d": 0,
-     "l": 1,
-     "gf": 12,
-     "ga": 6,
-     "pts": 9,
-     "form": [
-      "W",
-      "W",
-      "W",
-      "L"
-     ],
-     "pos": 6,
-     "gd": 6
-    },
-    {
-     "team": "Man City",
-     "tla": "MCI",
-     "crest": "https://crests.football-data.org/65.png",
-     "p": 4,
-     "w": 3,
-     "d": 0,
-     "l": 1,
+     "l": 2,
      "gf": 12,
      "ga": 7,
      "pts": 9,
      "form": [
       "W",
-      "L",
       "W",
-      "W"
+      "W",
+      "L",
+      "L"
      ],
-     "pos": 7,
+     "pos": 9,
      "gd": 5
     },
     {
@@ -3819,7 +3887,7 @@
       "W",
       "L"
      ],
-     "pos": 8,
+     "pos": 10,
      "gd": 4
     },
     {
@@ -3839,7 +3907,7 @@
       "W",
       "W"
      ],
-     "pos": 9,
+     "pos": 11,
      "gd": 4
     },
     {
@@ -3859,48 +3927,29 @@
       "L",
       "W"
      ],
-     "pos": 10,
+     "pos": 12,
      "gd": 4
     },
     {
-     "team": "Real Betis",
-     "tla": "BET",
-     "crest": "https://crests.football-data.org/90.png",
-     "p": 4,
+     "team": "Galatasaray",
+     "tla": "GAL",
+     "crest": "https://crests.football-data.org/610.png",
+     "p": 5,
      "w": 3,
      "d": 0,
-     "l": 1,
-     "gf": 8,
-     "ga": 6,
+     "l": 2,
+     "gf": 9,
+     "ga": 9,
      "pts": 9,
      "form": [
-      "W",
-      "W",
-      "W",
-      "L"
-     ],
-     "pos": 11,
-     "gd": 2
-    },
-    {
-     "team": "Dortmund",
-     "tla": "BVB",
-     "crest": "https://crests.football-data.org/4.png",
-     "p": 4,
-     "w": 3,
-     "d": 0,
-     "l": 1,
-     "gf": 7,
-     "ga": 5,
-     "pts": 9,
-     "form": [
-      "W",
       "L",
+      "L",
+      "W",
       "W",
       "W"
      ],
-     "pos": 12,
-     "gd": 2
+     "pos": 13,
+     "gd": 0
     },
     {
      "team": "Bayern",
@@ -3919,7 +3968,7 @@
       "D",
       "W"
      ],
-     "pos": 13,
+     "pos": 14,
      "gd": 7
     },
     {
@@ -3939,8 +3988,29 @@
       "D",
       "L"
      ],
-     "pos": 14,
+     "pos": 15,
      "gd": 3
+    },
+    {
+     "team": "Bodø/Glimt",
+     "tla": "FK",
+     "crest": "https://crests.football-data.org/5721.png",
+     "p": 5,
+     "w": 2,
+     "d": 1,
+     "l": 2,
+     "gf": 5,
+     "ga": 9,
+     "pts": 7,
+     "form": [
+      "L",
+      "W",
+      "L",
+      "D",
+      "W"
+     ],
+     "pos": 16,
+     "gd": -4
     },
     {
      "team": "Inter",
@@ -3959,28 +4029,29 @@
       "W",
       "W"
      ],
-     "pos": 15,
+     "pos": 17,
      "gd": 2
     },
     {
      "team": "LASK",
      "tla": "LIN",
      "crest": "https://crests.football-data.org/2016.png",
-     "p": 4,
+     "p": 5,
      "w": 2,
      "d": 0,
-     "l": 2,
+     "l": 3,
      "gf": 10,
-     "ga": 9,
+     "ga": 10,
      "pts": 6,
      "form": [
       "L",
       "L",
       "W",
-      "W"
+      "W",
+      "L"
      ],
-     "pos": 16,
-     "gd": 1
+     "pos": 18,
+     "gd": 0
     },
     {
      "team": "Man United",
@@ -3999,28 +4070,50 @@
       "L",
       "W"
      ],
-     "pos": 17,
+     "pos": 19,
      "gd": 0
     },
     {
-     "team": "Galatasaray",
-     "tla": "GAL",
-     "crest": "https://crests.football-data.org/610.png",
-     "p": 4,
+     "team": "Porto",
+     "tla": "FCP",
+     "crest": "https://crests.football-data.org/503.png",
+     "p": 5,
      "w": 2,
      "d": 0,
-     "l": 2,
-     "gf": 8,
-     "ga": 9,
+     "l": 3,
+     "gf": 7,
+     "ga": 7,
      "pts": 6,
      "form": [
+      "L",
       "L",
       "L",
       "W",
       "W"
      ],
-     "pos": 18,
-     "gd": -1
+     "pos": 20,
+     "gd": 0
+    },
+    {
+     "team": "RB Leipzig",
+     "tla": "RBL",
+     "crest": "https://crests.football-data.org/721.png",
+     "p": 5,
+     "w": 2,
+     "d": 0,
+     "l": 3,
+     "gf": 8,
+     "ga": 12,
+     "pts": 6,
+     "form": [
+      "L",
+      "W",
+      "L",
+      "L",
+      "W"
+     ],
+     "pos": 21,
+     "gd": -4
     },
     {
      "team": "Fenerbahçe",
@@ -4039,7 +4132,7 @@
       "D",
       "W"
      ],
-     "pos": 19,
+     "pos": 22,
      "gd": -5
     },
     {
@@ -4059,7 +4152,7 @@
       "W",
       "L"
      ],
-     "pos": 20,
+     "pos": 23,
      "gd": 2
     },
     {
@@ -4079,7 +4172,7 @@
       "L",
       "L"
      ],
-     "pos": 21,
+     "pos": 24,
      "gd": 0
     },
     {
@@ -4099,7 +4192,7 @@
       "L",
       "W"
      ],
-     "pos": 22,
+     "pos": 25,
      "gd": -1
     },
     {
@@ -4119,66 +4212,6 @@
       "D",
       "L"
      ],
-     "pos": 23,
-     "gd": -1
-    },
-    {
-     "team": "PSV",
-     "tla": "PSV",
-     "crest": "https://crests.football-data.org/674.png",
-     "p": 4,
-     "w": 1,
-     "d": 1,
-     "l": 2,
-     "gf": 3,
-     "ga": 4,
-     "pts": 4,
-     "form": [
-      "D",
-      "L",
-      "W",
-      "L"
-     ],
-     "pos": 24,
-     "gd": -1
-    },
-    {
-     "team": "Bodø/Glimt",
-     "tla": "FK",
-     "crest": "https://crests.football-data.org/5721.png",
-     "p": 4,
-     "w": 1,
-     "d": 1,
-     "l": 2,
-     "gf": 4,
-     "ga": 9,
-     "pts": 4,
-     "form": [
-      "L",
-      "W",
-      "L",
-      "D"
-     ],
-     "pos": 25,
-     "gd": -5
-    },
-    {
-     "team": "Porto",
-     "tla": "FCP",
-     "crest": "https://crests.football-data.org/503.png",
-     "p": 4,
-     "w": 1,
-     "d": 0,
-     "l": 3,
-     "gf": 6,
-     "ga": 7,
-     "pts": 3,
-     "form": [
-      "L",
-      "L",
-      "L",
-      "W"
-     ],
      "pos": 26,
      "gd": -1
     },
@@ -4186,20 +4219,42 @@
      "team": "Napoli",
      "tla": "NAP",
      "crest": "https://crests.football-data.org/113.png",
-     "p": 4,
+     "p": 5,
      "w": 1,
-     "d": 0,
+     "d": 1,
      "l": 3,
-     "gf": 6,
-     "ga": 11,
-     "pts": 3,
+     "gf": 8,
+     "ga": 13,
+     "pts": 4,
      "form": [
       "L",
       "L",
       "W",
-      "L"
+      "L",
+      "D"
      ],
      "pos": 27,
+     "gd": -5
+    },
+    {
+     "team": "PSV",
+     "tla": "PSV",
+     "crest": "https://crests.football-data.org/674.png",
+     "p": 5,
+     "w": 1,
+     "d": 1,
+     "l": 3,
+     "gf": 4,
+     "ga": 9,
+     "pts": 4,
+     "form": [
+      "D",
+      "L",
+      "W",
+      "L",
+      "L"
+     ],
+     "pos": 28,
      "gd": -5
     },
     {
@@ -4219,47 +4274,7 @@
       "L",
       "L"
      ],
-     "pos": 28,
-     "gd": -6
-    },
-    {
-     "team": "PAE AEK",
-     "tla": "AEK",
-     "crest": "https://crests.football-data.org/1899.png",
-     "p": 4,
-     "w": 1,
-     "d": 0,
-     "l": 3,
-     "gf": 5,
-     "ga": 11,
-     "pts": 3,
-     "form": [
-      "W",
-      "L",
-      "L",
-      "L"
-     ],
      "pos": 29,
-     "gd": -6
-    },
-    {
-     "team": "RB Leipzig",
-     "tla": "RBL",
-     "crest": "https://crests.football-data.org/721.png",
-     "p": 4,
-     "w": 1,
-     "d": 0,
-     "l": 3,
-     "gf": 5,
-     "ga": 11,
-     "pts": 3,
-     "form": [
-      "L",
-      "W",
-      "L",
-      "L"
-     ],
-     "pos": 30,
      "gd": -6
     },
     {
@@ -4279,48 +4294,71 @@
       "L",
       "L"
      ],
-     "pos": 31,
+     "pos": 30,
      "gd": -6
+    },
+    {
+     "team": "PAE AEK",
+     "tla": "AEK",
+     "crest": "https://crests.football-data.org/1899.png",
+     "p": 5,
+     "w": 1,
+     "d": 0,
+     "l": 4,
+     "gf": 5,
+     "ga": 12,
+     "pts": 3,
+     "form": [
+      "W",
+      "L",
+      "L",
+      "L",
+      "L"
+     ],
+     "pos": 31,
+     "gd": -7
     },
     {
      "team": "Feyenoord",
      "tla": "FEY",
      "crest": "https://crests.football-data.org/675.png",
-     "p": 4,
+     "p": 5,
      "w": 1,
      "d": 0,
-     "l": 3,
+     "l": 4,
      "gf": 4,
-     "ga": 11,
+     "ga": 12,
      "pts": 3,
      "form": [
       "L",
       "W",
       "L",
+      "L",
       "L"
      ],
      "pos": 32,
-     "gd": -7
+     "gd": -8
     },
     {
      "team": "RC Lens",
      "tla": "RCL",
      "crest": "https://crests.football-data.org/546.png",
-     "p": 4,
+     "p": 5,
      "w": 1,
      "d": 0,
-     "l": 3,
-     "gf": 4,
-     "ga": 16,
+     "l": 4,
+     "gf": 5,
+     "ga": 19,
      "pts": 3,
      "form": [
       "W",
       "L",
       "L",
+      "L",
       "L"
      ],
      "pos": 33,
-     "gd": -12
+     "gd": -14
     },
     {
      "team": "Slavia Praha",
@@ -4366,21 +4404,22 @@
      "team": "Sl. Bratislava",
      "tla": "SBA",
      "crest": "https://crests.football-data.org/7509.png",
-     "p": 4,
+     "p": 5,
      "w": 0,
      "d": 0,
-     "l": 4,
+     "l": 5,
      "gf": 1,
-     "ga": 17,
+     "ga": 19,
      "pts": 0,
      "form": [
+      "L",
       "L",
       "L",
       "L",
       "L"
      ],
      "pos": 36,
-     "gd": -16
+     "gd": -18
     }
    ]
   }
