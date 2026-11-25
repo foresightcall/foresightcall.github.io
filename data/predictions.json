@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T13:38:24Z",
+ "generated_at": "2026-11-25T19:09:45Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -3009,7 +3009,7 @@
     {
      "id": 575404,
      "kickoff": "2026-11-25T17:45:00Z",
-     "status": "UPCOMING",
+     "status": "LIVE",
      "matchday": 5,
      "stage": "LEAGUE_STAGE",
      "home": {
@@ -3024,7 +3024,10 @@
       "crest": "https://crests.football-data.org/81.png",
       "elo": 1897
      },
-     "score": null,
+     "score": {
+      "home": 0,
+      "away": 4
+     },
      "prob": {
       "home": 6,
       "draw": 10,
@@ -3034,7 +3037,7 @@
     {
      "id": 575405,
      "kickoff": "2026-11-25T17:45:00Z",
-     "status": "UPCOMING",
+     "status": "LIVE",
      "matchday": 5,
      "stage": "LEAGUE_STAGE",
      "home": {
@@ -3049,7 +3052,10 @@
       "crest": "https://crests.football-data.org/94.png",
       "elo": 1630
      },
-     "score": null,
+     "score": {
+      "home": 0,
+      "away": 0
+     },
      "prob": {
       "home": 23,
       "draw": 24,
