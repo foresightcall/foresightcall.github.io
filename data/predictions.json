@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T22:10:27Z",
+ "generated_at": "2026-11-26T13:36:45Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -2349,6 +2349,31 @@
       "home": 46,
       "draw": 26,
       "away": 28
+     }
+    },
+    {
+     "id": 564782,
+     "kickoff": "2026-12-12T13:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 16,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Levante",
+      "tla": "LEV",
+      "crest": "https://crests.football-data.org/88.png",
+      "elo": 1515
+     },
+     "away": {
+      "name": "Alavés",
+      "tla": "ALA",
+      "crest": "https://crests.football-data.org/263.png",
+      "elo": 1518
+     },
+     "score": null,
+     "prob": {
+      "home": 45,
+      "draw": 26,
+      "away": 29
      }
     }
    ],
