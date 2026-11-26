@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:15:15Z",
+ "generated_at": "2026-11-26T22:09:03Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -2524,6 +2524,31 @@
       "home": 6,
       "draw": 10,
       "away": 84
+     }
+    },
+    {
+     "id": 564785,
+     "kickoff": "2026-12-12T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 16,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Real Betis",
+      "tla": "BET",
+      "crest": "https://crests.football-data.org/90.png",
+      "elo": 1683
+     },
+     "away": {
+      "name": "Santander",
+      "tla": "SAN",
+      "crest": "https://crests.football-data.org/5335.png",
+      "elo": 1520
+     },
+     "score": null,
+     "prob": {
+      "home": 68,
+      "draw": 18,
+      "away": 14
      }
     }
    ],
