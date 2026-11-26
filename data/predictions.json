@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T13:36:45Z",
+ "generated_at": "2026-11-26T16:18:41Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -1041,6 +1041,81 @@
       "home": 11,
       "draw": 17,
       "away": 72
+     }
+    },
+    {
+     "id": 560686,
+     "kickoff": "2026-12-12T15:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Ipswich Town",
+      "tla": "IPS",
+      "crest": "https://crests.football-data.org/349.png",
+      "elo": 1393
+     },
+     "away": {
+      "name": "Newcastle",
+      "tla": "NEW",
+      "crest": "https://crests.football-data.org/67.png",
+      "elo": 1572
+     },
+     "score": null,
+     "prob": {
+      "home": 23,
+      "draw": 24,
+      "away": 53
+     }
+    },
+    {
+     "id": 560690,
+     "kickoff": "2026-12-12T15:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Liverpool",
+      "tla": "LIV",
+      "crest": "https://crests.football-data.org/64.png",
+      "elo": 1726
+     },
+     "away": {
+      "name": "Leeds United",
+      "tla": "LEE",
+      "crest": "https://crests.football-data.org/341.png",
+      "elo": 1605
+     },
+     "score": null,
+     "prob": {
+      "home": 63,
+      "draw": 21,
+      "away": 16
+     }
+    },
+    {
+     "id": 560691,
+     "kickoff": "2026-12-12T15:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Fulham",
+      "tla": "FUL",
+      "crest": "https://crests.football-data.org/63.png",
+      "elo": 1558
+     },
+     "away": {
+      "name": "Brentford",
+      "tla": "BRE",
+      "crest": "https://crests.football-data.org/402.png",
+      "elo": 1622
+     },
+     "score": null,
+     "prob": {
+      "home": 37,
+      "draw": 27,
+      "away": 36
      }
     }
    ],
@@ -2374,6 +2449,31 @@
       "home": 45,
       "draw": 26,
       "away": 29
+     }
+    },
+    {
+     "id": 564784,
+     "kickoff": "2026-12-12T15:15:00Z",
+     "status": "UPCOMING",
+     "matchday": 16,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Villarreal",
+      "tla": "VIL",
+      "crest": "https://crests.football-data.org/94.png",
+      "elo": 1637
+     },
+     "away": {
+      "name": "Rayo Vallecano",
+      "tla": "RAY",
+      "crest": "https://crests.football-data.org/87.png",
+      "elo": 1533
+     },
+     "score": null,
+     "prob": {
+      "home": 60,
+      "draw": 22,
+      "away": 18
      }
     }
    ],
