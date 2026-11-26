@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:18:41Z",
+ "generated_at": "2026-11-26T19:15:15Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -1116,6 +1116,31 @@
       "home": 37,
       "draw": 27,
       "away": 36
+     }
+    },
+    {
+     "id": 560689,
+     "kickoff": "2026-12-12T17:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Man City",
+      "tla": "MCI",
+      "crest": "https://crests.football-data.org/65.png",
+      "elo": 1762
+     },
+     "away": {
+      "name": "Chelsea",
+      "tla": "CHE",
+      "crest": "https://crests.football-data.org/61.png",
+      "elo": 1582
+     },
+     "score": null,
+     "prob": {
+      "home": 70,
+      "draw": 18,
+      "away": 12
      }
     }
    ],
@@ -2474,6 +2499,31 @@
       "home": 60,
       "draw": 22,
       "away": 18
+     }
+    },
+    {
+     "id": 564779,
+     "kickoff": "2026-12-12T17:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 16,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Málaga",
+      "tla": "MAL",
+      "crest": "https://crests.football-data.org/84.png",
+      "elo": 1455
+     },
+     "away": {
+      "name": "Barça",
+      "tla": "FCB",
+      "crest": "https://crests.football-data.org/81.png",
+      "elo": 1901
+     },
+     "score": null,
+     "prob": {
+      "home": 6,
+      "draw": 10,
+      "away": 84
      }
     }
    ],
