@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T13:31:07Z",
+ "generated_at": "2026-11-27T16:19:34Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -1140,6 +1140,81 @@
      "prob": {
       "home": 70,
       "draw": 18,
+      "away": 12
+     }
+    },
+    {
+     "id": 560682,
+     "kickoff": "2026-12-13T14:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Sunderland",
+      "tla": "SUN",
+      "crest": "https://crests.football-data.org/71.png",
+      "elo": 1525
+     },
+     "away": {
+      "name": "Nottingham",
+      "tla": "NOT",
+      "crest": "https://crests.football-data.org/351.png",
+      "elo": 1550
+     },
+     "score": null,
+     "prob": {
+      "home": 42,
+      "draw": 26,
+      "away": 32
+     }
+    },
+    {
+     "id": 560685,
+     "kickoff": "2026-12-13T14:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Brighton Hove",
+      "tla": "BHA",
+      "crest": "https://crests.football-data.org/397.png",
+      "elo": 1669
+     },
+     "away": {
+      "name": "Everton",
+      "tla": "EVE",
+      "crest": "https://crests.football-data.org/62.png",
+      "elo": 1562
+     },
+     "score": null,
+     "prob": {
+      "home": 61,
+      "draw": 21,
+      "away": 18
+     }
+    },
+    {
+     "id": 560688,
+     "kickoff": "2026-12-13T14:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Arsenal",
+      "tla": "ARS",
+      "crest": "https://crests.football-data.org/57.png",
+      "elo": 1845
+     },
+     "away": {
+      "name": "Bournemouth",
+      "tla": "BOU",
+      "crest": "https://crests.football-data.org/bournemouth.png",
+      "elo": 1659
+     },
+     "score": null,
+     "prob": {
+      "home": 71,
+      "draw": 17,
       "away": 12
      }
     }
@@ -2574,6 +2649,31 @@
       "home": 72,
       "draw": 17,
       "away": 11
+     }
+    },
+    {
+     "id": 564781,
+     "kickoff": "2026-12-13T15:15:00Z",
+     "status": "UPCOMING",
+     "matchday": 16,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Deportivo",
+      "tla": "DEP",
+      "crest": "https://crests.football-data.org/560.png",
+      "elo": 1525
+     },
+     "away": {
+      "name": "Athletic",
+      "tla": "ATH",
+      "crest": "https://crests.football-data.org/77.png",
+      "elo": 1549
+     },
+     "score": null,
+     "prob": {
+      "home": 42,
+      "draw": 27,
+      "away": 31
      }
     }
    ],
