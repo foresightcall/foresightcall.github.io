@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T19:13:12Z",
+ "generated_at": "2026-11-27T22:10:01Z",
  "sample": false,
  "season": "2026/27",
  "model": {
   "name": "Elo ratings + ordered logit",
-  "matches": 749,
-  "accuracy": 0.501,
+  "matches": 750,
+  "accuracy": 0.5,
   "always_home_accuracy": 0.439
  },
  "competitions": [
@@ -1874,7 +1874,7 @@
       "name": "Santander",
       "tla": "SAN",
       "crest": "https://crests.football-data.org/5335.png",
-      "elo": 1520
+      "elo": 1537
      },
      "away": {
       "name": "Real Sociedad",
@@ -1958,7 +1958,7 @@
       "name": "Levante",
       "tla": "LEV",
       "crest": "https://crests.football-data.org/88.png",
-      "elo": 1515
+      "elo": 1498
      },
      "away": {
       "name": "Elche",
@@ -1979,22 +1979,25 @@
     {
      "id": 564765,
      "kickoff": "2026-11-27T20:00:00Z",
-     "status": "UPCOMING",
+     "status": "FINISHED",
      "matchday": 14,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Levante",
       "tla": "LEV",
       "crest": "https://crests.football-data.org/88.png",
-      "elo": 1515
+      "elo": 1498
      },
      "away": {
       "name": "Santander",
       "tla": "SAN",
       "crest": "https://crests.football-data.org/5335.png",
-      "elo": 1520
+      "elo": 1537
      },
-     "score": null,
+     "score": {
+      "home": 1,
+      "away": 3
+     },
      "prob": {
       "home": 45,
       "draw": 26,
@@ -2311,7 +2314,7 @@
       "name": "Santander",
       "tla": "SAN",
       "crest": "https://crests.football-data.org/5335.png",
-      "elo": 1520
+      "elo": 1537
      },
      "away": {
       "name": "Deportivo",
@@ -2321,9 +2324,9 @@
      },
      "score": null,
      "prob": {
-      "home": 45,
+      "home": 47,
       "draw": 26,
-      "away": 29
+      "away": 27
      }
     },
     {
@@ -2342,13 +2345,13 @@
       "name": "Levante",
       "tla": "LEV",
       "crest": "https://crests.football-data.org/88.png",
-      "elo": 1515
+      "elo": 1498
      },
      "score": null,
      "prob": {
-      "home": 48,
-      "draw": 26,
-      "away": 26
+      "home": 51,
+      "draw": 25,
+      "away": 24
      }
     },
     {
@@ -2586,7 +2589,7 @@
       "name": "Levante",
       "tla": "LEV",
       "crest": "https://crests.football-data.org/88.png",
-      "elo": 1515
+      "elo": 1498
      },
      "away": {
       "name": "Alavés",
@@ -2596,9 +2599,9 @@
      },
      "score": null,
      "prob": {
-      "home": 45,
+      "home": 43,
       "draw": 26,
-      "away": 29
+      "away": 31
      }
     },
     {
@@ -2667,13 +2670,13 @@
       "name": "Santander",
       "tla": "SAN",
       "crest": "https://crests.football-data.org/5335.png",
-      "elo": 1520
+      "elo": 1537
      },
      "score": null,
      "prob": {
-      "home": 68,
-      "draw": 18,
-      "away": 14
+      "home": 66,
+      "draw": 19,
+      "away": 15
      }
     },
     {
@@ -2749,6 +2752,31 @@
       "home": 55,
       "draw": 24,
       "away": 21
+     }
+    },
+    {
+     "id": 564780,
+     "kickoff": "2026-12-13T20:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 16,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Real Madrid",
+      "tla": "RMA",
+      "crest": "https://crests.football-data.org/86.png",
+      "elo": 1868
+     },
+     "away": {
+      "name": "Osasuna",
+      "tla": "OSA",
+      "crest": "https://crests.football-data.org/79.png",
+      "elo": 1483
+     },
+     "score": null,
+     "prob": {
+      "home": 89,
+      "draw": 7,
+      "away": 4
      }
     }
    ],
@@ -2859,6 +2887,27 @@
      "gd": 0
     },
     {
+     "team": "Santander",
+     "tla": "SAN",
+     "crest": "https://crests.football-data.org/5335.png",
+     "p": 14,
+     "w": 6,
+     "d": 2,
+     "l": 6,
+     "gf": 23,
+     "ga": 33,
+     "pts": 20,
+     "form": [
+      "W",
+      "L",
+      "W",
+      "W",
+      "W"
+     ],
+     "pos": 6,
+     "gd": -10
+    },
+    {
      "team": "Sevilla FC",
      "tla": "SEV",
      "crest": "https://crests.football-data.org/559.png",
@@ -2876,29 +2925,8 @@
       "D",
       "D"
      ],
-     "pos": 6,
-     "gd": -2
-    },
-    {
-     "team": "Santander",
-     "tla": "SAN",
-     "crest": "https://crests.football-data.org/5335.png",
-     "p": 13,
-     "w": 5,
-     "d": 2,
-     "l": 6,
-     "gf": 20,
-     "ga": 32,
-     "pts": 17,
-     "form": [
-      "L",
-      "W",
-      "L",
-      "W",
-      "W"
-     ],
      "pos": 7,
-     "gd": -12
+     "gd": -2
     },
     {
      "team": "Athletic",
@@ -3051,22 +3079,22 @@
      "team": "Levante",
      "tla": "LEV",
      "crest": "https://crests.football-data.org/88.png",
-     "p": 13,
+     "p": 14,
      "w": 2,
      "d": 6,
-     "l": 5,
-     "gf": 17,
-     "ga": 22,
+     "l": 6,
+     "gf": 18,
+     "ga": 25,
      "pts": 12,
      "form": [
-      "W",
       "L",
       "L",
       "D",
-      "D"
+      "D",
+      "L"
      ],
      "pos": 15,
-     "gd": -5
+     "gd": -7
     },
     {
      "team": "Rayo Vallecano",
