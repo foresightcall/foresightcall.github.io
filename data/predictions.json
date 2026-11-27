@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T16:19:34Z",
+ "generated_at": "2026-11-27T19:13:12Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -1216,6 +1216,56 @@
       "home": 71,
       "draw": 17,
       "away": 12
+     }
+    },
+    {
+     "id": 560687,
+     "kickoff": "2026-12-13T16:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Coventry City",
+      "tla": "COV",
+      "crest": "https://crests.football-data.org/1076.png",
+      "elo": 1518
+     },
+     "away": {
+      "name": "Aston Villa",
+      "tla": "AVL",
+      "crest": "https://crests.football-data.org/58.png",
+      "elo": 1631
+     },
+     "score": null,
+     "prob": {
+      "home": 31,
+      "draw": 26,
+      "away": 43
+     }
+    },
+    {
+     "id": 560683,
+     "kickoff": "2026-12-13T19:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 15,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Crystal Palace",
+      "tla": "CRY",
+      "crest": "https://crests.football-data.org/354.png",
+      "elo": 1481
+     },
+     "away": {
+      "name": "Man United",
+      "tla": "MUN",
+      "crest": "https://crests.football-data.org/66.png",
+      "elo": 1595
+     },
+     "score": null,
+     "prob": {
+      "home": 31,
+      "draw": 26,
+      "away": 43
      }
     }
    ],
@@ -2674,6 +2724,31 @@
       "home": 42,
       "draw": 27,
       "away": 31
+     }
+    },
+    {
+     "id": 564786,
+     "kickoff": "2026-12-13T17:30:00Z",
+     "status": "UPCOMING",
+     "matchday": 16,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Real Sociedad",
+      "tla": "RSO",
+      "crest": "https://crests.football-data.org/92.png",
+      "elo": 1559
+     },
+     "away": {
+      "name": "Getafe",
+      "tla": "GET",
+      "crest": "https://crests.football-data.org/82.png",
+      "elo": 1492
+     },
+     "score": null,
+     "prob": {
+      "home": 55,
+      "draw": 24,
+      "away": 21
      }
     }
    ],
