@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T22:09:03Z",
+ "generated_at": "2026-11-27T13:31:07Z",
  "sample": false,
  "season": "2026/27",
  "model": {
@@ -2549,6 +2549,31 @@
       "home": 68,
       "draw": 18,
       "away": 14
+     }
+    },
+    {
+     "id": 564787,
+     "kickoff": "2026-12-13T13:00:00Z",
+     "status": "UPCOMING",
+     "matchday": 16,
+     "stage": "REGULAR_SEASON",
+     "home": {
+      "name": "Atleti",
+      "tla": "ATL",
+      "crest": "https://crests.football-data.org/78.png",
+      "elo": 1729
+     },
+     "away": {
+      "name": "Valencia",
+      "tla": "VAL",
+      "crest": "https://crests.football-data.org/95.png",
+      "elo": 1534
+     },
+     "score": null,
+     "prob": {
+      "home": 72,
+      "draw": 17,
+      "away": 11
      }
     }
    ],
