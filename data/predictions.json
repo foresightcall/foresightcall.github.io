@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T22:10:01Z",
+ "generated_at": "2026-11-28T01:30:21Z",
  "sample": false,
  "season": "2026/27",
  "model": {
   "name": "Elo ratings + ordered logit",
-  "matches": 750,
-  "accuracy": 0.5,
+  "matches": 751,
+  "accuracy": 0.501,
   "always_home_accuracy": 0.439
  },
  "competitions": [
@@ -51,7 +51,7 @@
       "name": "Chelsea",
       "tla": "CHE",
       "crest": "https://crests.football-data.org/61.png",
-      "elo": 1582
+      "elo": 1573
      },
      "away": {
       "name": "Leeds United",
@@ -113,7 +113,7 @@
       "name": "Nottingham",
       "tla": "NOT",
       "crest": "https://crests.football-data.org/351.png",
-      "elo": 1550
+      "elo": 1560
      },
      "score": {
       "home": 2,
@@ -296,22 +296,25 @@
     {
      "id": 560658,
      "kickoff": "2026-11-27T20:00:00Z",
-     "status": "UPCOMING",
+     "status": "FINISHED",
      "matchday": 12,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Nottingham",
       "tla": "NOT",
       "crest": "https://crests.football-data.org/351.png",
-      "elo": 1550
+      "elo": 1560
      },
      "away": {
       "name": "Chelsea",
       "tla": "CHE",
       "crest": "https://crests.football-data.org/61.png",
-      "elo": 1582
+      "elo": 1573
      },
-     "score": null,
+     "score": {
+      "home": 3,
+      "away": 2
+     },
      "prob": {
       "home": 41,
       "draw": 27,
@@ -609,13 +612,13 @@
       "name": "Nottingham",
       "tla": "NOT",
       "crest": "https://crests.football-data.org/351.png",
-      "elo": 1550
+      "elo": 1560
      },
      "score": null,
      "prob": {
-      "home": 47,
+      "home": 46,
       "draw": 26,
-      "away": 27
+      "away": 28
      }
     },
     {
@@ -628,7 +631,7 @@
       "name": "Chelsea",
       "tla": "CHE",
       "crest": "https://crests.football-data.org/61.png",
-      "elo": 1582
+      "elo": 1573
      },
      "away": {
       "name": "Crystal Palace",
@@ -638,9 +641,9 @@
      },
      "score": null,
      "prob": {
-      "home": 60,
+      "home": 59,
       "draw": 22,
-      "away": 18
+      "away": 19
      }
     },
     {
@@ -803,7 +806,7 @@
       "name": "Chelsea",
       "tla": "CHE",
       "crest": "https://crests.football-data.org/61.png",
-      "elo": 1582
+      "elo": 1573
      },
      "away": {
       "name": "Liverpool",
@@ -813,9 +816,9 @@
      },
      "score": null,
      "prob": {
-      "home": 27,
+      "home": 26,
       "draw": 25,
-      "away": 48
+      "away": 49
      }
     },
     {
@@ -928,7 +931,7 @@
       "name": "Nottingham",
       "tla": "NOT",
       "crest": "https://crests.football-data.org/351.png",
-      "elo": 1550
+      "elo": 1560
      },
      "away": {
       "name": "Brighton Hove",
@@ -938,9 +941,9 @@
      },
      "score": null,
      "prob": {
-      "home": 30,
+      "home": 31,
       "draw": 26,
-      "away": 44
+      "away": 43
      }
     },
     {
@@ -1134,12 +1137,12 @@
       "name": "Chelsea",
       "tla": "CHE",
       "crest": "https://crests.football-data.org/61.png",
-      "elo": 1582
+      "elo": 1573
      },
      "score": null,
      "prob": {
-      "home": 70,
-      "draw": 18,
+      "home": 71,
+      "draw": 17,
       "away": 12
      }
     },
@@ -1159,13 +1162,13 @@
       "name": "Nottingham",
       "tla": "NOT",
       "crest": "https://crests.football-data.org/351.png",
-      "elo": 1550
+      "elo": 1560
      },
      "score": null,
      "prob": {
-      "home": 42,
+      "home": 41,
       "draw": 26,
-      "away": 32
+      "away": 33
      }
     },
     {
@@ -1421,22 +1424,22 @@
      "team": "Chelsea",
      "tla": "CHE",
      "crest": "https://crests.football-data.org/61.png",
-     "p": 11,
+     "p": 12,
      "w": 5,
      "d": 1,
-     "l": 5,
-     "gf": 20,
-     "ga": 20,
+     "l": 6,
+     "gf": 22,
+     "ga": 23,
      "pts": 16,
      "form": [
-      "W",
       "L",
       "W",
+      "L",
       "L",
       "L"
      ],
      "pos": 8,
-     "gd": 0
+     "gd": -1
     },
     {
      "team": "Everton",
@@ -1544,6 +1547,27 @@
      "gd": -3
     },
     {
+     "team": "Nottingham",
+     "tla": "NOT",
+     "crest": "https://crests.football-data.org/351.png",
+     "p": 12,
+     "w": 3,
+     "d": 3,
+     "l": 6,
+     "gf": 12,
+     "ga": 17,
+     "pts": 12,
+     "form": [
+      "D",
+      "L",
+      "W",
+      "L",
+      "W"
+     ],
+     "pos": 14,
+     "gd": -5
+    },
+    {
      "team": "Coventry City",
      "tla": "COV",
      "crest": "https://crests.football-data.org/1076.png",
@@ -1561,7 +1585,7 @@
       "L",
       "W"
      ],
-     "pos": 14,
+     "pos": 15,
      "gd": -8
     },
     {
@@ -1582,7 +1606,7 @@
       "D",
       "D"
      ],
-     "pos": 15,
+     "pos": 16,
      "gd": -2
     },
     {
@@ -1603,29 +1627,8 @@
       "L",
       "L"
      ],
-     "pos": 16,
-     "gd": -7
-    },
-    {
-     "team": "Nottingham",
-     "tla": "NOT",
-     "crest": "https://crests.football-data.org/351.png",
-     "p": 11,
-     "w": 2,
-     "d": 3,
-     "l": 6,
-     "gf": 9,
-     "ga": 15,
-     "pts": 9,
-     "form": [
-      "L",
-      "D",
-      "L",
-      "W",
-      "L"
-     ],
      "pos": 17,
-     "gd": -6
+     "gd": -7
     },
     {
      "team": "Sunderland",
