@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-28T15:59:43Z",
+ "generated_at": "2026-11-28T19:08:50Z",
  "sample": false,
  "season": "2026/27",
  "model": {
   "name": "Elo ratings + ordered logit",
-  "matches": 751,
-  "accuracy": 0.499,
+  "matches": 754,
+  "accuracy": 0.5,
   "always_home_accuracy": 0.438
  },
  "competitions": [
@@ -57,7 +57,7 @@
       "name": "Leeds United",
       "tla": "LEE",
       "crest": "https://crests.football-data.org/341.png",
-      "elo": 1605
+      "elo": 1615
      },
      "score": {
       "home": 1,
@@ -163,7 +163,7 @@
       "name": "Coventry City",
       "tla": "COV",
       "crest": "https://crests.football-data.org/1076.png",
-      "elo": 1518
+      "elo": 1507
      },
      "away": {
       "name": "Crystal Palace",
@@ -253,7 +253,7 @@
       "name": "Man United",
       "tla": "MUN",
       "crest": "https://crests.football-data.org/66.png",
-      "elo": 1595
+      "elo": 1574
      },
      "score": {
       "home": 4,
@@ -275,7 +275,7 @@
       "name": "Brentford",
       "tla": "BRE",
       "crest": "https://crests.football-data.org/402.png",
-      "elo": 1622
+      "elo": 1642
      },
      "away": {
       "name": "Everton",
@@ -324,23 +324,23 @@
     {
      "id": 560652,
      "kickoff": "2026-11-28T15:00:00Z",
-     "status": "LIVE",
+     "status": "FINISHED",
      "matchday": 12,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Leeds United",
       "tla": "LEE",
       "crest": "https://crests.football-data.org/341.png",
-      "elo": 1605
+      "elo": 1615
      },
      "away": {
       "name": "Coventry City",
       "tla": "COV",
       "crest": "https://crests.football-data.org/1076.png",
-      "elo": 1518
+      "elo": 1507
      },
      "score": {
-      "home": 2,
+      "home": 3,
       "away": 0
      },
      "prob": {
@@ -352,24 +352,24 @@
     {
      "id": 560655,
      "kickoff": "2026-11-28T15:00:00Z",
-     "status": "LIVE",
+     "status": "FINISHED",
      "matchday": 12,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Man United",
       "tla": "MUN",
       "crest": "https://crests.football-data.org/66.png",
-      "elo": 1595
+      "elo": 1574
      },
      "away": {
       "name": "Brentford",
       "tla": "BRE",
       "crest": "https://crests.football-data.org/402.png",
-      "elo": 1622
+      "elo": 1642
      },
      "score": {
       "home": 0,
-      "away": 2
+      "away": 4
      },
      "prob": {
       "home": 42,
@@ -380,7 +380,7 @@
     {
      "id": 560653,
      "kickoff": "2026-11-28T17:30:00Z",
-     "status": "UPCOMING",
+     "status": "LIVE",
      "matchday": 12,
      "stage": "REGULAR_SEASON",
      "home": {
@@ -395,7 +395,10 @@
       "crest": "https://crests.football-data.org/58.png",
       "elo": 1631
      },
-     "score": null,
+     "score": {
+      "home": 2,
+      "away": 2
+     },
      "prob": {
       "home": 18,
       "draw": 21,
@@ -562,7 +565,7 @@
       "name": "Coventry City",
       "tla": "COV",
       "crest": "https://crests.football-data.org/1076.png",
-      "elo": 1518
+      "elo": 1507
      },
      "away": {
       "name": "Ipswich Town",
@@ -572,9 +575,9 @@
      },
      "score": null,
      "prob": {
-      "home": 63,
+      "home": 62,
       "draw": 21,
-      "away": 16
+      "away": 17
      }
     },
     {
@@ -668,13 +671,13 @@
       "name": "Leeds United",
       "tla": "LEE",
       "crest": "https://crests.football-data.org/341.png",
-      "elo": 1605
+      "elo": 1615
      },
      "score": null,
      "prob": {
-      "home": 67,
+      "home": 66,
       "draw": 19,
-      "away": 14
+      "away": 15
      }
     },
     {
@@ -712,7 +715,7 @@
       "name": "Brentford",
       "tla": "BRE",
       "crest": "https://crests.football-data.org/402.png",
-      "elo": 1622
+      "elo": 1642
      },
      "away": {
       "name": "Arsenal",
@@ -722,9 +725,9 @@
      },
      "score": null,
      "prob": {
-      "home": 19,
-      "draw": 22,
-      "away": 59
+      "home": 21,
+      "draw": 23,
+      "away": 56
      }
     },
     {
@@ -743,13 +746,13 @@
       "name": "Man United",
       "tla": "MUN",
       "crest": "https://crests.football-data.org/66.png",
-      "elo": 1595
+      "elo": 1574
      },
      "score": null,
      "prob": {
-      "home": 43,
+      "home": 45,
       "draw": 26,
-      "away": 31
+      "away": 29
      }
     },
     {
@@ -837,19 +840,19 @@
       "name": "Man United",
       "tla": "MUN",
       "crest": "https://crests.football-data.org/66.png",
-      "elo": 1595
+      "elo": 1574
      },
      "away": {
       "name": "Coventry City",
       "tla": "COV",
       "crest": "https://crests.football-data.org/1076.png",
-      "elo": 1518
+      "elo": 1507
      },
      "score": null,
      "prob": {
-      "home": 57,
-      "draw": 23,
-      "away": 20
+      "home": 55,
+      "draw": 24,
+      "away": 21
      }
     },
     {
@@ -862,7 +865,7 @@
       "name": "Leeds United",
       "tla": "LEE",
       "crest": "https://crests.football-data.org/341.png",
-      "elo": 1605
+      "elo": 1615
      },
      "away": {
       "name": "Ipswich Town",
@@ -872,8 +875,8 @@
      },
      "score": null,
      "prob": {
-      "home": 74,
-      "draw": 16,
+      "home": 75,
+      "draw": 15,
       "away": 10
      }
     },
@@ -962,7 +965,7 @@
       "name": "Brentford",
       "tla": "BRE",
       "crest": "https://crests.football-data.org/402.png",
-      "elo": 1622
+      "elo": 1642
      },
      "away": {
       "name": "Man City",
@@ -972,9 +975,9 @@
      },
      "score": null,
      "prob": {
-      "home": 27,
+      "home": 30,
       "draw": 26,
-      "away": 47
+      "away": 44
      }
     },
     {
@@ -1093,13 +1096,13 @@
       "name": "Leeds United",
       "tla": "LEE",
       "crest": "https://crests.football-data.org/341.png",
-      "elo": 1605
+      "elo": 1615
      },
      "score": null,
      "prob": {
-      "home": 63,
+      "home": 62,
       "draw": 21,
-      "away": 16
+      "away": 17
      }
     },
     {
@@ -1118,13 +1121,13 @@
       "name": "Brentford",
       "tla": "BRE",
       "crest": "https://crests.football-data.org/402.png",
-      "elo": 1622
+      "elo": 1642
      },
      "score": null,
      "prob": {
-      "home": 37,
+      "home": 34,
       "draw": 27,
-      "away": 36
+      "away": 39
      }
     },
     {
@@ -1237,7 +1240,7 @@
       "name": "Coventry City",
       "tla": "COV",
       "crest": "https://crests.football-data.org/1076.png",
-      "elo": 1518
+      "elo": 1507
      },
      "away": {
       "name": "Aston Villa",
@@ -1247,9 +1250,9 @@
      },
      "score": null,
      "prob": {
-      "home": 31,
+      "home": 29,
       "draw": 26,
-      "away": 43
+      "away": 45
      }
     },
     {
@@ -1268,13 +1271,13 @@
       "name": "Man United",
       "tla": "MUN",
       "crest": "https://crests.football-data.org/66.png",
-      "elo": 1595
+      "elo": 1574
      },
      "score": null,
      "prob": {
-      "home": 31,
-      "draw": 26,
-      "away": 43
+      "home": 33,
+      "draw": 27,
+      "away": 40
      }
     }
    ],
@@ -1364,6 +1367,48 @@
      "gd": 8
     },
     {
+     "team": "Brentford",
+     "tla": "BRE",
+     "crest": "https://crests.football-data.org/402.png",
+     "p": 12,
+     "w": 5,
+     "d": 5,
+     "l": 2,
+     "gf": 24,
+     "ga": 11,
+     "pts": 20,
+     "form": [
+      "D",
+      "W",
+      "L",
+      "W",
+      "W"
+     ],
+     "pos": 5,
+     "gd": 13
+    },
+    {
+     "team": "Leeds United",
+     "tla": "LEE",
+     "crest": "https://crests.football-data.org/341.png",
+     "p": 12,
+     "w": 5,
+     "d": 5,
+     "l": 2,
+     "gf": 17,
+     "ga": 9,
+     "pts": 20,
+     "form": [
+      "D",
+      "L",
+      "W",
+      "W",
+      "W"
+     ],
+     "pos": 6,
+     "gd": 8
+    },
+    {
      "team": "Bournemouth",
      "tla": "BOU",
      "crest": "https://crests.football-data.org/bournemouth.png",
@@ -1381,50 +1426,8 @@
       "W",
       "W"
      ],
-     "pos": 5,
-     "gd": 4
-    },
-    {
-     "team": "Brentford",
-     "tla": "BRE",
-     "crest": "https://crests.football-data.org/402.png",
-     "p": 11,
-     "w": 4,
-     "d": 5,
-     "l": 2,
-     "gf": 20,
-     "ga": 11,
-     "pts": 17,
-     "form": [
-      "L",
-      "D",
-      "W",
-      "L",
-      "W"
-     ],
-     "pos": 6,
-     "gd": 9
-    },
-    {
-     "team": "Leeds United",
-     "tla": "LEE",
-     "crest": "https://crests.football-data.org/341.png",
-     "p": 11,
-     "w": 4,
-     "d": 5,
-     "l": 2,
-     "gf": 14,
-     "ga": 9,
-     "pts": 17,
-     "form": [
-      "D",
-      "D",
-      "L",
-      "W",
-      "W"
-     ],
      "pos": 7,
-     "gd": 5
+     "gd": 4
     },
     {
      "team": "Chelsea",
@@ -1577,22 +1580,22 @@
      "team": "Coventry City",
      "tla": "COV",
      "crest": "https://crests.football-data.org/1076.png",
-     "p": 11,
+     "p": 12,
      "w": 4,
      "d": 0,
-     "l": 7,
+     "l": 8,
      "gf": 13,
-     "ga": 21,
+     "ga": 24,
      "pts": 12,
      "form": [
       "L",
-      "L",
       "W",
       "L",
-      "W"
+      "W",
+      "L"
      ],
      "pos": 15,
-     "gd": -8
+     "gd": -11
     },
     {
      "team": "Fulham",
@@ -1661,22 +1664,22 @@
      "team": "Man United",
      "tla": "MUN",
      "crest": "https://crests.football-data.org/66.png",
-     "p": 11,
+     "p": 12,
      "w": 1,
      "d": 5,
-     "l": 5,
+     "l": 6,
      "gf": 14,
-     "ga": 23,
+     "ga": 27,
      "pts": 8,
      "form": [
-      "D",
       "L",
       "L",
       "D",
+      "L",
       "L"
      ],
      "pos": 19,
-     "gd": -9
+     "gd": -13
     },
     {
      "team": "Crystal Palace",
@@ -1715,7 +1718,7 @@
       "name": "Athletic",
       "tla": "ATH",
       "crest": "https://crests.football-data.org/77.png",
-      "elo": 1549
+      "elo": 1558
      },
      "away": {
       "name": "Espanyol",
@@ -1917,7 +1920,7 @@
       "name": "Málaga",
       "tla": "MAL",
       "crest": "https://crests.football-data.org/84.png",
-      "elo": 1455
+      "elo": 1446
      },
      "score": {
       "home": 1,
@@ -2044,24 +2047,24 @@
     {
      "id": 564767,
      "kickoff": "2026-11-28T15:15:00Z",
-     "status": "LIVE",
+     "status": "FINISHED",
      "matchday": 14,
      "stage": "REGULAR_SEASON",
      "home": {
       "name": "Málaga",
       "tla": "MAL",
       "crest": "https://crests.football-data.org/84.png",
-      "elo": 1455
+      "elo": 1446
      },
      "away": {
       "name": "Athletic",
       "tla": "ATH",
       "crest": "https://crests.football-data.org/77.png",
-      "elo": 1549
+      "elo": 1558
      },
      "score": {
-      "home": 1,
-      "away": 3
+      "home": 3,
+      "away": 4
      },
      "prob": {
       "home": 33,
@@ -2072,7 +2075,7 @@
     {
      "id": 564759,
      "kickoff": "2026-11-28T17:30:00Z",
-     "status": "UPCOMING",
+     "status": "LIVE",
      "matchday": 14,
      "stage": "REGULAR_SEASON",
      "home": {
@@ -2087,7 +2090,10 @@
       "crest": "https://crests.football-data.org/78.png",
       "elo": 1729
      },
-     "score": null,
+     "score": {
+      "home": 2,
+      "away": 3
+     },
      "prob": {
       "home": 19,
       "draw": 23,
@@ -2454,7 +2460,7 @@
       "name": "Athletic",
       "tla": "ATH",
       "crest": "https://crests.football-data.org/77.png",
-      "elo": 1549
+      "elo": 1558
      },
      "away": {
       "name": "Real Madrid",
@@ -2465,8 +2471,8 @@
      "score": null,
      "prob": {
       "home": 12,
-      "draw": 17,
-      "away": 71
+      "draw": 18,
+      "away": 70
      }
     },
     {
@@ -2535,13 +2541,13 @@
       "name": "Málaga",
       "tla": "MAL",
       "crest": "https://crests.football-data.org/84.png",
-      "elo": 1455
+      "elo": 1446
      },
      "score": null,
      "prob": {
-      "home": 53,
+      "home": 55,
       "draw": 24,
-      "away": 23
+      "away": 21
      }
     },
     {
@@ -2560,13 +2566,13 @@
       "name": "Athletic",
       "tla": "ATH",
       "crest": "https://crests.football-data.org/77.png",
-      "elo": 1549
+      "elo": 1558
      },
      "score": null,
      "prob": {
-      "home": 45,
+      "home": 44,
       "draw": 26,
-      "away": 29
+      "away": 30
      }
     },
     {
@@ -2654,7 +2660,7 @@
       "name": "Málaga",
       "tla": "MAL",
       "crest": "https://crests.football-data.org/84.png",
-      "elo": 1455
+      "elo": 1446
      },
      "away": {
       "name": "Barça",
@@ -2735,13 +2741,13 @@
       "name": "Athletic",
       "tla": "ATH",
       "crest": "https://crests.football-data.org/77.png",
-      "elo": 1549
+      "elo": 1558
      },
      "score": null,
      "prob": {
-      "home": 42,
+      "home": 41,
       "draw": 27,
-      "away": 31
+      "away": 32
      }
     },
     {
@@ -2923,6 +2929,27 @@
      "gd": -10
     },
     {
+     "team": "Athletic",
+     "tla": "ATH",
+     "crest": "https://crests.football-data.org/77.png",
+     "p": 13,
+     "w": 5,
+     "d": 4,
+     "l": 4,
+     "gf": 19,
+     "ga": 15,
+     "pts": 19,
+     "form": [
+      "W",
+      "W",
+      "D",
+      "L",
+      "W"
+     ],
+     "pos": 7,
+     "gd": 4
+    },
+    {
      "team": "Sevilla FC",
      "tla": "SEV",
      "crest": "https://crests.football-data.org/559.png",
@@ -2940,29 +2967,8 @@
       "D",
       "D"
      ],
-     "pos": 7,
-     "gd": -2
-    },
-    {
-     "team": "Athletic",
-     "tla": "ATH",
-     "crest": "https://crests.football-data.org/77.png",
-     "p": 12,
-     "w": 4,
-     "d": 4,
-     "l": 4,
-     "gf": 15,
-     "ga": 12,
-     "pts": 16,
-     "form": [
-      "L",
-      "W",
-      "W",
-      "D",
-      "L"
-     ],
      "pos": 8,
-     "gd": 3
+     "gd": -2
     },
     {
      "team": "Alavés",
@@ -3199,22 +3205,22 @@
      "team": "Málaga",
      "tla": "MAL",
      "crest": "https://crests.football-data.org/84.png",
-     "p": 13,
+     "p": 14,
      "w": 0,
      "d": 5,
-     "l": 8,
-     "gf": 9,
-     "ga": 24,
+     "l": 9,
+     "gf": 12,
+     "ga": 28,
      "pts": 5,
      "form": [
-      "L",
       "D",
+      "L",
       "L",
       "L",
       "L"
      ],
      "pos": 20,
-     "gd": -15
+     "gd": -16
     }
    ]
   },
@@ -3686,7 +3692,7 @@
       "name": "Man United",
       "tla": "MUN",
       "crest": "https://crests.football-data.org/66.png",
-      "elo": 1595
+      "elo": 1574
      },
      "score": {
       "home": 2,
@@ -3911,7 +3917,7 @@
       "name": "Man United",
       "tla": "MUN",
       "crest": "https://crests.football-data.org/66.png",
-      "elo": 1595
+      "elo": 1574
      },
      "away": {
       "name": "RB Leipzig",
@@ -3921,9 +3927,9 @@
      },
      "score": null,
      "prob": {
-      "home": 36,
+      "home": 33,
       "draw": 27,
-      "away": 37
+      "away": 40
      }
     },
     {
